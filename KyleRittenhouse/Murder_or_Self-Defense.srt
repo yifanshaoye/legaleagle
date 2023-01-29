@@ -1,0 +1,3032 @@
+1
+00:00:00,170 --> 00:00:02,240
+After a two week trial, a Wisconsin jury acquitted Kyle Rittenhouse 
+在经过两周的审判之后，Wisconsin陪审团裁定Kyle Rittenhouse无罪并当庭释放。
+
+2
+00:00:02,240 --> 00:00:07,550
+for shooting three people, killing two during a racial justice protest in Kenosha.
+其曾在Kenosha的一次种族平等的抗议活动中开枪致2死1伤。
+
+
+4
+00:00:07,550 --> 00:00:10,520
+At the time Rittenhouse was a 17 year old from Illinois
+案发时，Rittenhouse是一名来自伊利诺伊的17岁少年。
+
+5
+00:00:10,520 --> 00:00:12,120
+who traveled to Kenosha after right-wing
+在右翼社交媒体的号召下，Rittenhouse来到
+
+6
+00:00:12,120 --> 00:00:13,580
+social media accounts called on people
+Kenosha市，
+
+7
+00:00:13,580 --> 00:00:15,347
+to protect the city from riots.
+以保护这座城市免受暴徒的破坏。
+
+8
+00:00:15,347 --> 00:00:18,350
+>- I am an EMT, if you
+are injured come to me.
+
+9
+00:00:18,350 --> 00:00:20,890
+>- Rittenhouse acted in the
+midst of a chaotic protest
+
+10
+00:00:20,890 --> 00:00:23,480
+>where many people were
+legally carrying guns.
+
+11
+00:00:23,480 --> 00:00:25,220
+>Bystander video showed that the three men
+
+12
+00:00:25,220 --> 00:00:27,700
+>that Rittenhouse shot had been
+in confrontations with him.
+
+13
+00:00:27,700 --> 00:00:30,700
+>Rittenhouse has now been found
+not guilty on all six counts,
+
+14
+00:00:30,700 --> 00:00:32,580
+>arising from his conduct that day.
+
+15
+00:00:32,580 --> 00:00:34,175
+>- [Jury Member] We the
+jury, find the defendant
+
+16
+00:00:34,175 --> 00:00:37,820
+>Kyle H. Rittenhouse not guilty.
+
+17
+00:00:37,820 --> 00:00:39,960
+>- So what happened at
+the Rittenhouse trial?
+
+18
+00:00:39,960 --> 00:00:42,310
+>Why did the jury conclude
+that he was not guilty?
+
+19
+00:00:42,310 --> 00:00:45,457
+>Is it a travesty of justice
+or a defensible outcome?
+
+20
+00:00:45,457 --> 00:00:48,090
+>(light music)
+
+21
+00:00:48,090 --> 00:00:50,010
+>There's no dispute that
+Rittenhouse killed two men
+
+22
+00:00:50,010 --> 00:00:52,210
+>and injured a third, but
+as we talk about often
+
+23
+00:00:52,210 --> 00:00:54,970
+>on this channel, that's not
+the end of the analysis.
+
+24
+00:00:54,970 --> 00:00:57,190
+>And here it was only the beginning.
+
+25
+00:00:57,190 --> 00:00:59,050
+>Many people thought that
+when Kyle Rittenhouse
+
+26
+00:00:59,050 --> 00:01:01,160
+>admitted on the stand that he
+intentionally use deadly force
+
+27
+00:01:01,160 --> 00:01:04,140
+>on Rosenbaum and Huber, that
+was a huge tactical blunder.
+
+28
+00:01:04,140 --> 00:01:05,960
+>But intentional use of deadly force
+
+29
+00:01:05,960 --> 00:01:07,520
+>is exactly the thing that is privileged
+
+30
+00:01:07,520 --> 00:01:10,040
+>when you meet the
+requirements of self-defense.
+
+31
+00:01:10,040 --> 00:01:13,370
+>And this case hinged on whether
+self-defense applied or not.
+
+32
+00:01:13,370 --> 00:01:15,706
+>And more so than most self-defense cases,
+
+33
+00:01:15,706 --> 00:01:17,720
+>this case turned on the nuances
+
+34
+00:01:17,720 --> 00:01:20,310
+>of both self-defense law
+and criminal procedure.
+
+35
+00:01:20,310 --> 00:01:21,920
+>It's not surprising to me that both sides
+
+36
+00:01:21,920 --> 00:01:23,720
+>got lots of stuff legally wrong.
+
+37
+00:01:23,720 --> 00:01:26,280
+>So let's talk about the law
+of self-defense in Wisconsin,
+
+38
+00:01:26,280 --> 00:01:29,058
+>because every state has
+different self-defense laws.
+
+39
+00:01:29,058 --> 00:01:32,040
+>And in Wisconsin, self-defense
+like many other states,
+
+40
+00:01:32,040 --> 00:01:33,100
+>is an affirmative defense.
+
+41
+00:01:33,100 --> 00:01:35,090
+>In other words, the
+defendant has the burden
+
+42
+00:01:35,090 --> 00:01:36,500
+>of producing some evidence.
+
+43
+00:01:36,500 --> 00:01:38,020
+>They must put forth some evidence
+
+44
+00:01:38,020 --> 00:01:41,220
+>from which a jury can find
+that self-defense applied.
+
+45
+00:01:41,220 --> 00:01:43,660
+>This is generally called
+the burden of production.
+
+46
+00:01:43,660 --> 00:01:44,980
+>But then, once the defense has made
+
+47
+00:01:44,980 --> 00:01:46,410
+>this relatively minimal burden,
+
+48
+00:01:46,410 --> 00:01:48,790
+>the burden of proof then
+returns to the prosecution,
+
+49
+00:01:48,790 --> 00:01:52,320
+>which must disprove self-defense
+beyond a reasonable doubt,
+
+50
+00:01:52,320 --> 00:01:54,810
+>which is the highest
+standard in all of law.
+
+51
+00:01:54,810 --> 00:01:56,810
+>Now, every state has a self-defense law
+
+52
+00:01:56,810 --> 00:01:58,990
+>that basically says a person
+who is not the aggressor
+
+53
+00:01:58,990 --> 00:02:00,440
+>is justified in using deadly force
+
+54
+00:02:00,440 --> 00:02:03,380
+>against an adversary when he
+or she reasonably believes
+
+55
+00:02:03,380 --> 00:02:04,990
+>that they're in imminent danger
+
+56
+00:02:04,990 --> 00:02:06,910
+>of death or serious bodily injury.
+
+57
+00:02:06,910 --> 00:02:08,720
+>Now jurors aren't lawyers.
+
+58
+00:02:08,720 --> 00:02:11,410
+>So juries receive jury
+instructions that include
+
+59
+00:02:11,410 --> 00:02:13,550
+>all the law that they will
+need to decide a case,
+
+60
+00:02:13,550 --> 00:02:16,050
+>hopefully written in plain English.
+
+61
+00:02:16,050 --> 00:02:18,620
+>The lawyers and the judge fight
+over the jury instructions,
+
+62
+00:02:18,620 --> 00:02:20,580
+>which will be the only law
+that the jurors receive
+
+63
+00:02:20,580 --> 00:02:21,840
+>in that particular case.
+
+64
+00:02:21,840 --> 00:02:23,970
+>Now it is supposed to accurately summarize
+
+65
+00:02:23,970 --> 00:02:26,120
+>the law that the jurors are applying.
+
+66
+00:02:26,120 --> 00:02:26,980
+>And as you can imagine,
+
+67
+00:02:26,980 --> 00:02:28,680
+>the language of the jury instructions
+
+68
+00:02:28,680 --> 00:02:30,060
+>is extremely important.
+
+69
+00:02:30,060 --> 00:02:31,570
+>The Rittenhouse jury instructions
+
+70
+00:02:31,570 --> 00:02:34,487
+>summarize the requirements for
+self-defense in Wisconsin as
+
+71
+00:02:34,487 --> 00:02:36,220
+>"the defendant believed
+that there was an actual
+
+72
+00:02:36,220 --> 00:02:37,800
+>or imminent unlawful interference
+
+73
+00:02:37,800 --> 00:02:39,160
+>with the defendant's person.
+
+74
+00:02:39,160 --> 00:02:41,380
+>And the defendant believed
+that the amount of force
+
+75
+00:02:41,380 --> 00:02:43,360
+>the defendant used or threatened to use
+
+76
+00:02:43,360 --> 00:02:46,300
+>was necessary to prevent or
+terminate the interference
+
+77
+00:02:46,300 --> 00:02:49,150
+>and the defendant's
+beliefs were reasonable.
+
+78
+00:02:49,150 --> 00:02:50,930
+>The defendant may intentionally use force,
+
+79
+00:02:50,930 --> 00:02:52,950
+>which is intended or likely to cause death
+
+80
+00:02:52,950 --> 00:02:55,460
+>or great bodily harm only if the defendant
+
+81
+00:02:55,460 --> 00:02:57,890
+>reasonably believed that
+the force used was necessary
+
+82
+00:02:57,890 --> 00:03:01,280
+>to prevent death or great
+bodily harm to himself."
+
+83
+00:03:01,280 --> 00:03:03,130
+>Now, in a situation like this,
+
+84
+00:03:03,130 --> 00:03:05,510
+>a reasonable belief doesn't mean true.
+
+85
+00:03:05,510 --> 00:03:08,680
+>One can have a reasonable
+belief, but still be mistaken.
+
+86
+00:03:08,680 --> 00:03:10,770
+>Reasonableness is determined
+from the standpoint
+
+87
+00:03:10,770 --> 00:03:12,810
+>of the defendant in
+the situation at issue,
+
+88
+00:03:12,810 --> 00:03:14,230
+>not after the fact.
+
+89
+00:03:14,230 --> 00:03:16,180
+>And as an aside, the law of self-defense
+
+90
+00:03:16,180 --> 00:03:18,130
+>gets slightly more complicated
+when you're applying it
+
+91
+00:03:18,130 --> 00:03:20,100
+>to different varieties of
+homicide and manslaughter,
+
+92
+00:03:20,100 --> 00:03:21,420
+>because the mental state required
+
+93
+00:03:21,420 --> 00:03:23,200
+>is different for each of those offenses.
+
+94
+00:03:23,200 --> 00:03:25,200
+>But you can read the jury
+instructions themselves
+
+95
+00:03:25,200 --> 00:03:27,470
+>and see how the court
+modified the general rules
+
+96
+00:03:27,470 --> 00:03:29,440
+>that apply to self-defense
+to apply to each
+
+97
+00:03:29,440 --> 00:03:31,030
+>of the different charges in this case.
+
+98
+00:03:31,030 --> 00:03:32,950
+>It's all written down in
+relatively plain English,
+
+99
+00:03:32,950 --> 00:03:34,100
+>and it's worthwhile.
+
+100
+00:03:34,100 --> 00:03:35,580
+>You might be on a jury someday,
+
+101
+00:03:35,580 --> 00:03:38,420
+>and you might be faced with
+similar jury instructions.
+
+102
+00:03:38,420 --> 00:03:41,620
+>Now, Wisconsin doesn't have
+what's called a duty to retreat.
+
+103
+00:03:41,620 --> 00:03:43,820
+>In other words, Wisconsin
+law doesn't require someone
+
+104
+00:03:43,820 --> 00:03:46,129
+>whose life is in danger to
+exercise all opportunities
+
+105
+00:03:46,129 --> 00:03:49,470
+>to flee before resorting to deadly force.
+
+106
+00:03:49,470 --> 00:03:51,474
+>But, jurors can consider whether someone
+
+107
+00:03:51,474 --> 00:03:53,320
+>tried to move away from danger,
+
+108
+00:03:53,320 --> 00:03:56,320
+>as they assess the reasonableness
+of a self-defense claim.
+
+109
+00:03:56,320 --> 00:03:57,700
+>Juries are still allowed to consider
+
+110
+00:03:57,700 --> 00:03:59,670
+>whether the defendant had
+an opportunity to retreat
+
+111
+00:03:59,670 --> 00:04:01,450
+>to determine whether
+or not it was necessary
+
+112
+00:04:01,450 --> 00:04:04,370
+>to use deadly force in self-defense.
+
+113
+00:04:04,370 --> 00:04:06,740
+>And Wisconsin law doesn't quite go as far
+
+114
+00:04:06,740 --> 00:04:08,300
+>as stand your ground states,
+
+115
+00:04:08,300 --> 00:04:11,360
+>which remove any consideration
+of deescalating or fleeing
+
+116
+00:04:11,360 --> 00:04:13,000
+>before resorting to deadly force.
+
+117
+00:04:13,000 --> 00:04:14,160
+>However, as we'll talk about later,
+
+118
+00:04:14,160 --> 00:04:15,990
+>Wisconsin does have a duty to retreat
+
+119
+00:04:15,990 --> 00:04:18,410
+>where the person provokes
+the attack against them.
+
+120
+00:04:18,410 --> 00:04:20,560
+>Now at common law, a
+majority of jurisdictions
+
+121
+00:04:20,560 --> 00:04:23,840
+>require a duty to retreat
+before being allowed to engage
+
+122
+00:04:23,840 --> 00:04:25,990
+>in deadly force in self-defense.
+
+123
+00:04:25,990 --> 00:04:27,910
+>But today, a duty to retreat is required
+
+124
+00:04:27,910 --> 00:04:29,640
+>in only a minority of US states.
+
+125
+00:04:29,640 --> 00:04:32,810
+>Here is a duty to retreat
+instruction from Massachusetts.
+
+126
+00:04:32,810 --> 00:04:34,791
+>Quote, "a person cannot
+lawfully act in self-defense
+
+127
+00:04:34,791 --> 00:04:36,073
+>unless he or she has exhausted
+
+128
+00:04:36,073 --> 00:04:39,740
+>all other reasonable alternatives
+before resorting to force.
+
+129
+00:04:39,740 --> 00:04:42,010
+>A person may use physical
+force in self-defense
+
+130
+00:04:42,010 --> 00:04:45,150
+>only if he or she could not
+get out of the situation
+
+131
+00:04:45,150 --> 00:04:47,020
+>in some other way that was available
+
+132
+00:04:47,020 --> 00:04:48,480
+>and reasonable at the time.
+
+133
+00:04:48,480 --> 00:04:50,157
+>The Commonwealth," that is
+the state of Massachusetts,
+
+134
+00:04:50,157 --> 00:04:52,175
+>"may prove the defendant
+did not act in self-defense
+
+135
+00:04:52,175 --> 00:04:54,320
+>by proving beyond a reasonable doubt
+
+136
+00:04:54,320 --> 00:04:56,010
+>that the defendant resorted to force
+
+137
+00:04:56,010 --> 00:04:57,550
+>without using avenues of escape
+
+138
+00:04:57,550 --> 00:04:59,320
+>that were reasonably
+available and which could not
+
+139
+00:04:59,320 --> 00:05:01,900
+>have exposed the defendant
+to further danger."
+
+140
+00:05:01,900 --> 00:05:03,550
+>Again, that's the law of Massachusetts
+
+141
+00:05:03,550 --> 00:05:05,550
+>and it's not the law of Wisconsin.
+
+142
+00:05:05,550 --> 00:05:07,290
+>And it should go without
+saying that the Kenosha jury
+
+143
+00:05:07,290 --> 00:05:09,230
+>was applying the law of
+Wisconsin at the time.
+
+144
+00:05:09,230 --> 00:05:10,600
+>And we'll talk about the implications
+
+145
+00:05:10,600 --> 00:05:13,220
+>of this particular aspect of
+Wisconsin law in a second.
+
+146
+00:05:13,220 --> 00:05:16,120
+>But the final nuance of
+self-defense at issue
+
+147
+00:05:16,120 --> 00:05:18,380
+>is that of provocation.
+
+148
+00:05:18,380 --> 00:05:20,800
+>A person who provokes an attack
+
+149
+00:05:20,800 --> 00:05:22,461
+>cannot claim legal self-defense.
+
+150
+00:05:22,461 --> 00:05:25,480
+>But it's more complicated than just that.
+
+151
+00:05:25,480 --> 00:05:27,607
+>The Wisconsin law on provocation states,
+
+152
+00:05:27,607 --> 00:05:29,790
+>"a person who engages in unlawful conduct
+
+153
+00:05:29,790 --> 00:05:32,880
+>of a type likely to provoke
+others to attack him or her,
+
+154
+00:05:32,880 --> 00:05:35,310
+>and thereby does provoke an attack
+
+155
+00:05:35,310 --> 00:05:37,490
+>is not entitled to claim the
+privilege of self-defense
+
+156
+00:05:37,490 --> 00:05:40,560
+>against such attack, except
+when the attack which ensues
+
+157
+00:05:40,560 --> 00:05:42,530
+>is of a type causing the person engaging
+
+158
+00:05:42,530 --> 00:05:45,090
+>in the unlawful conduct
+to reasonably believe
+
+159
+00:05:45,090 --> 00:05:46,670
+>that he or she is an imminent danger
+
+160
+00:05:46,670 --> 00:05:48,480
+>of death or great bodily harm."
+
+161
+00:05:48,480 --> 00:05:50,440
+>Okay, so let's break down
+this law on provocation,
+
+162
+00:05:50,440 --> 00:05:53,650
+>which is an exception to the
+exception of self-defense,
+
+163
+00:05:53,650 --> 00:05:55,440
+>which is an exception to the ability
+
+164
+00:05:55,440 --> 00:05:56,770
+>to use deadly force against someone.
+
+165
+00:05:56,770 --> 00:05:58,970
+>So let's say you engage
+in unlawful conduct
+
+166
+00:05:58,970 --> 00:06:00,750
+>likely to provoke others.
+
+167
+00:06:00,750 --> 00:06:02,730
+>Well, then you can't claim self-defense.
+
+168
+00:06:02,730 --> 00:06:06,100
+>Except that you can, if your
+provocation causes others
+
+169
+00:06:06,100 --> 00:06:08,780
+>to use effectively
+deadly force against you.
+
+170
+00:06:08,780 --> 00:06:10,100
+>Now we'll get back to this in a second,
+
+171
+00:06:10,100 --> 00:06:11,240
+>but the law continues.
+
+172
+00:06:11,240 --> 00:06:13,090
+>In such a case where the provoked attacker
+
+173
+00:06:13,090 --> 00:06:15,170
+>uses deadly force against the provoker,
+
+174
+00:06:15,170 --> 00:06:17,560
+>the person engaging in
+the unlawful conduct
+
+175
+00:06:17,560 --> 00:06:19,660
+>is privileged to act in self-defense,
+
+176
+00:06:19,660 --> 00:06:21,700
+>but the person is not privileged
+
+177
+00:06:21,700 --> 00:06:23,210
+>to resort to the use of force
+
+178
+00:06:23,210 --> 00:06:26,190
+>intended or likely to cause
+death to the person's assailant.
+
+179
+00:06:26,190 --> 00:06:28,650
+>Unless the person reasonably
+believes that he or she
+
+180
+00:06:28,650 --> 00:06:30,700
+>has exhausted every other reasonable means
+
+181
+00:06:30,700 --> 00:06:34,630
+>to escape from or otherwise
+avoid death or great bodily harm
+
+182
+00:06:34,630 --> 00:06:36,640
+>at the hands of his or her assailant.
+
+183
+00:06:36,640 --> 00:06:39,610
+>So here, you only get to use deadly force
+
+184
+00:06:39,610 --> 00:06:42,320
+>to resist the deadly
+force that you provoked
+
+185
+00:06:42,320 --> 00:06:45,320
+>if you exercise a duty to retreat.
+
+186
+00:06:45,320 --> 00:06:47,780
+>Wisconsin law stipulates
+that the provocateur
+
+187
+00:06:47,780 --> 00:06:50,700
+>must attempt every other
+reasonable option to escape,
+
+188
+00:06:50,700 --> 00:06:52,360
+>avoid, or prevent the attack
+
+189
+00:06:52,360 --> 00:06:55,570
+>before resorting to deadly
+force if they were the ones
+
+190
+00:06:55,570 --> 00:06:58,010
+>that provoked the secondary attack.
+
+191
+00:06:58,010 --> 00:07:00,210
+>Now we'll talk about the
+general law of self-defense
+
+192
+00:07:00,210 --> 00:07:02,770
+>and whether it applies under
+the factual circumstances
+
+193
+00:07:02,770 --> 00:07:04,610
+>as we know them in a second.
+
+194
+00:07:04,610 --> 00:07:07,430
+>But first I want to talk about
+the exception of provocation
+
+195
+00:07:07,430 --> 00:07:09,220
+>because a number of people believe
+
+196
+00:07:09,220 --> 00:07:12,350
+>that Kyle Rittenhouse provoked
+the attacks themselves,
+
+197
+00:07:12,350 --> 00:07:16,280
+>and therefore couldn't use
+the privilege of self-defense.
+
+198
+00:07:16,280 --> 00:07:18,440
+>That by brandishing a firearm
+
+199
+00:07:18,440 --> 00:07:20,860
+>or placing himself in this situation,
+
+200
+00:07:20,860 --> 00:07:22,010
+>he provoked the attack.
+
+201
+00:07:22,010 --> 00:07:23,430
+>Now there's three issues here.
+
+202
+00:07:23,430 --> 00:07:25,850
+>First, is there unlawful conduct?
+
+203
+00:07:25,850 --> 00:07:28,570
+>Did Kyle Rittenhouse
+engage in unlawful conduct
+
+204
+00:07:28,570 --> 00:07:29,970
+>that could constitute provocation
+
+205
+00:07:29,970 --> 00:07:32,360
+>and therefore prevent the
+defense of self-defense?
+
+206
+00:07:32,360 --> 00:07:34,740
+>Well, Judge Schroeder granted
+defense motions to dismiss
+
+207
+00:07:34,740 --> 00:07:36,990
+>the two misdemeanor charges
+against Rittenhouse.
+
+208
+00:07:36,990 --> 00:07:38,900
+>I think a lot of people
+put too much emphasis
+
+209
+00:07:38,900 --> 00:07:41,090
+>on those lesser included offenses.
+
+210
+00:07:41,090 --> 00:07:42,550
+>The charges were for possessing
+
+211
+00:07:42,550 --> 00:07:44,050
+>a dangerous weapon as a minor,
+
+212
+00:07:44,050 --> 00:07:46,150
+>and a misdemeanor charge
+for breaking curfew.
+
+213
+00:07:46,150 --> 00:07:47,790
+>And arguably, Wisconsin
+law has an exception
+
+214
+00:07:47,790 --> 00:07:49,670
+>that allows miners to
+possess shotguns and rifles,
+
+215
+00:07:49,670 --> 00:07:51,160
+>as long as they're not short barreled.
+
+216
+00:07:51,160 --> 00:07:53,690
+>But more importantly, provocation requires
+
+217
+00:07:53,690 --> 00:07:57,420
+>unlawful conduct of a type
+likely to provoke others.
+
+218
+00:07:57,420 --> 00:08:00,650
+>Now, even if those two lesser
+included charges had stuck,
+
+219
+00:08:00,650 --> 00:08:01,790
+>they might not have been sufficient
+
+220
+00:08:01,790 --> 00:08:03,900
+>to rise to the level of provocation.
+
+221
+00:08:03,900 --> 00:08:06,460
+>Mainly because Wisconsin
+is an open carry state.
+
+222
+00:08:06,460 --> 00:08:09,450
+>Mere open carry of a
+firearm is A, not unlawful.
+
+223
+00:08:09,450 --> 00:08:11,160
+>And B, possibly not the type
+
+224
+00:08:11,160 --> 00:08:13,160
+>likely to lead to provoking others.
+
+225
+00:08:13,160 --> 00:08:14,730
+>Now I'm oversimplifying here.
+
+226
+00:08:14,730 --> 00:08:17,630
+>This is a highly fact-specific analysis,
+
+227
+00:08:17,630 --> 00:08:20,280
+>but it's not unreasonable
+that someone might not find
+
+228
+00:08:20,280 --> 00:08:22,870
+>that the gun possession,
+quad gun possession
+
+229
+00:08:22,870 --> 00:08:24,500
+>didn't lead to provocation.
+
+230
+00:08:24,500 --> 00:08:26,700
+>Think about it, is it
+the possession of the gun
+
+231
+00:08:26,700 --> 00:08:29,000
+>that provokes the attack?
+
+232
+00:08:29,000 --> 00:08:31,640
+>Or is it the possession
+of a gun by a minor
+
+233
+00:08:31,640 --> 00:08:34,740
+>or possession of a gun
+that crossed state lines
+
+234
+00:08:34,740 --> 00:08:38,470
+>that leads to someone provoking an attack?
+
+235
+00:08:38,470 --> 00:08:41,040
+>If you think it's the former,
+well, that's not illegal.
+
+236
+00:08:41,040 --> 00:08:43,500
+>And the latter probably
+doesn't provoke an attack.
+
+237
+00:08:43,500 --> 00:08:46,150
+>No one says, oh, the
+reason I'm attacking you
+
+238
+00:08:46,150 --> 00:08:47,880
+>is that you're a minor with a firearm,
+
+239
+00:08:47,880 --> 00:08:50,870
+>not that you're carrying a
+firearm in the first place.
+
+240
+00:08:50,870 --> 00:08:52,720
+>And additionally, breaking curfew
+
+241
+00:08:52,720 --> 00:08:54,790
+>probably couldn't be
+the requisite predicate
+
+242
+00:08:54,790 --> 00:08:56,910
+>because lots of people
+were breaking curfew
+
+243
+00:08:56,910 --> 00:08:59,660
+>and it wasn't leading to mass provocation.
+
+244
+00:08:59,660 --> 00:09:01,730
+>Now, it's a closer call when
+you consider Rittenhouse
+
+245
+00:09:01,730 --> 00:09:03,820
+>admitted that he pointed
+his gun at the victims
+
+246
+00:09:03,820 --> 00:09:05,880
+>and claimed that when
+he was pointing his gun,
+
+247
+00:09:05,880 --> 00:09:07,770
+>it wasn't a dangerous provocation.
+
+248
+00:09:07,770 --> 00:09:09,900
+>Now you could argue that
+pointing your gun at someone
+
+249
+00:09:09,900 --> 00:09:12,050
+>is assault or misuse of a firearm,
+
+250
+00:09:12,050 --> 00:09:13,450
+>but that probably doesn't work
+
+251
+00:09:13,450 --> 00:09:15,180
+>if the reason that you're pointing the gun
+
+252
+00:09:15,180 --> 00:09:16,340
+>at someone in the first place
+
+253
+00:09:16,340 --> 00:09:17,930
+>is for the purposes of self-defense.
+
+254
+00:09:17,930 --> 00:09:21,350
+>And in fact, there are
+Wisconsin cases to this effect.
+
+255
+00:09:21,350 --> 00:09:22,440
+>Though, on the other other hand,
+
+256
+00:09:22,440 --> 00:09:24,060
+>Wisconsin courts have
+an interesting history
+
+257
+00:09:24,060 --> 00:09:25,850
+>in analyzing the provocation exception.
+
+258
+00:09:25,850 --> 00:09:29,050
+>For example, in a 1975
+Wisconsin Supreme Court case,
+
+259
+00:09:29,050 --> 00:09:31,020
+>the court held that the
+defendant was a provocateur
+
+260
+00:09:31,020 --> 00:09:33,780
+>by virtue of openly bringing
+a gun into a tavern.
+
+261
+00:09:33,780 --> 00:09:35,497
+>The Wisconsin Supreme Court held quote,
+
+262
+00:09:35,497 --> 00:09:37,770
+>"the defendant himself testified
+that after being slapped,
+
+263
+00:09:37,770 --> 00:09:39,590
+>he went out to his car, got his shotgun,
+
+264
+00:09:39,590 --> 00:09:41,460
+>loaded it and returned to the tavern.
+
+265
+00:09:41,460 --> 00:09:42,930
+>As he was entering the tavern,
+
+266
+00:09:42,930 --> 00:09:44,930
+>he was grabbed from the side by someone
+
+267
+00:09:44,930 --> 00:09:46,690
+>and he pushed that person away.
+
+268
+00:09:46,690 --> 00:09:48,140
+>He saw Freddy Jones start toward him
+
+269
+00:09:48,140 --> 00:09:49,090
+>and he started shooting.
+
+270
+00:09:49,090 --> 00:09:50,270
+>He stopped after four shots
+
+271
+00:09:50,270 --> 00:09:51,450
+>and after Jones was out of sight.
+
+272
+00:09:51,450 --> 00:09:52,670
+>The defendant requests that the court
+
+273
+00:09:52,670 --> 00:09:54,730
+>grant him a new trial in
+the interest of justice.
+
+274
+00:09:54,730 --> 00:09:56,600
+>We find no merit to this contention.
+
+275
+00:09:56,600 --> 00:09:58,120
+>When the defendant left the tavern,
+
+276
+00:09:58,120 --> 00:09:59,390
+>got his shotgun out of the trunk,
+
+277
+00:09:59,390 --> 00:10:01,190
+>loaded it and returned to the tavern,
+
+278
+00:10:01,190 --> 00:10:02,910
+>he became the provoker.
+
+279
+00:10:02,910 --> 00:10:04,270
+>Additionally, there is an 1883
+
+280
+00:10:04,270 --> 00:10:05,920
+>Wisconsin Supreme Court case that says,
+
+281
+00:10:05,920 --> 00:10:08,540
+>quote, "if one points a
+loaded gun at another,
+
+282
+00:10:08,540 --> 00:10:10,950
+>and the other grapples with
+him to prevent the shooting
+
+283
+00:10:10,950 --> 00:10:12,810
+>and is shot, it is murder."
+
+284
+00:10:12,810 --> 00:10:13,910
+>And this is especially important
+
+285
+00:10:13,910 --> 00:10:16,210
+>in the context of the
+Rittenhouse shooting.
+
+286
+00:10:16,210 --> 00:10:18,180
+>Even Rittenhouse's
+testimony seems to indicate
+
+287
+00:10:18,180 --> 00:10:21,050
+>that Rosenbaum didn't lunge at Rittenhouse
+
+288
+00:10:21,050 --> 00:10:23,410
+>until he raised his gun at Rosenbaum.
+
+289
+00:10:23,410 --> 00:10:25,810
+>And that the reason, or at
+least one of the reasons
+
+290
+00:10:25,810 --> 00:10:28,450
+>that Kyle Rittenhouse shot
+Rosenbaum is that he feared
+
+291
+00:10:28,450 --> 00:10:30,090
+>that Rosenbaum would take his gun away
+
+292
+00:10:30,090 --> 00:10:31,540
+>and use it against him.
+
+293
+00:10:31,540 --> 00:10:33,060
+>And we'll talk about that in a second.
+
+294
+00:10:33,060 --> 00:10:35,540
+>And obviously, you'd have to
+run a provocation analysis
+
+295
+00:10:35,540 --> 00:10:38,900
+>in every instance where Kyle
+Rittenhouse used deadly force.
+
+296
+00:10:38,900 --> 00:10:40,510
+>It's not a one size fits all.
+
+297
+00:10:40,510 --> 00:10:42,550
+>You have to look at every
+instance individually.
+
+298
+00:10:42,550 --> 00:10:43,750
+>And if the jury had found that there was
+
+299
+00:10:43,750 --> 00:10:45,720
+>nothing unlawful that led to provocation,
+
+300
+00:10:45,720 --> 00:10:47,800
+>or if there were illegal things going on,
+
+301
+00:10:47,800 --> 00:10:50,430
+>those weren't the ones that
+were leading to the provocation,
+
+302
+00:10:50,430 --> 00:10:51,870
+>their analysis to this exception
+
+303
+00:10:51,870 --> 00:10:52,850
+>probably would have ended there.
+
+304
+00:10:52,850 --> 00:10:55,180
+>And they would have found
+that provocation didn't apply.
+
+305
+00:10:55,180 --> 00:10:56,910
+>It's only where there is provocation
+
+306
+00:10:56,910 --> 00:10:58,160
+>do we get to the next questions.
+
+307
+00:10:58,160 --> 00:11:01,550
+>But, assuming that that
+first hurdle had been met,
+
+308
+00:11:01,550 --> 00:11:03,700
+>you'd get to the next
+one, imminent danger.
+
+309
+00:11:03,700 --> 00:11:05,690
+>Even when someone provokes an attack,
+
+310
+00:11:05,690 --> 00:11:07,930
+>they can regain the
+right to use deadly force
+
+311
+00:11:07,930 --> 00:11:09,920
+>where that person
+reasonably believes that he
+
+312
+00:11:09,920 --> 00:11:12,510
+>is in imminent danger of
+death or great bodily harm.
+
+313
+00:11:12,510 --> 00:11:15,010
+>And he may lawfully act in self-defense.
+
+314
+00:11:15,010 --> 00:11:16,970
+>Since this is essentially
+the same standard
+
+315
+00:11:16,970 --> 00:11:18,830
+>as self-defense in the first instance,
+
+316
+00:11:18,830 --> 00:11:20,400
+>given that the jury must have thought
+
+317
+00:11:20,400 --> 00:11:22,700
+>Kyle Rittenhouse acted in self-defense,
+
+318
+00:11:22,700 --> 00:11:24,450
+>they probably would have
+found that this exception
+
+319
+00:11:24,450 --> 00:11:26,760
+>to the exception, to
+the exception applied,
+
+320
+00:11:26,760 --> 00:11:28,240
+>even if they got to this question.
+
+321
+00:11:28,240 --> 00:11:32,780
+>And so if they got over
+those two first hurdles,
+
+322
+00:11:32,780 --> 00:11:34,930
+>they then would have had to
+get over the third hurdle,
+
+323
+00:11:34,930 --> 00:11:37,330
+>which is the duty to retreat.
+
+324
+00:11:37,330 --> 00:11:39,450
+>That's the final issue in terms of
+
+325
+00:11:39,450 --> 00:11:41,470
+>whether provocation can apply,
+
+326
+00:11:41,470 --> 00:11:43,130
+>assuming the first two hurdles are met.
+
+327
+00:11:43,130 --> 00:11:44,430
+>The third clause says that the person
+
+328
+00:11:44,430 --> 00:11:48,000
+>who provokes the attack
+cannot use or threaten force,
+
+329
+00:11:48,000 --> 00:11:49,700
+>unless he believes that he has exhausted
+
+330
+00:11:49,700 --> 00:11:51,240
+>all other opportunities to escape.
+
+331
+00:11:51,240 --> 00:11:52,850
+>If the jury got to this question,
+
+332
+00:11:52,850 --> 00:11:54,380
+>they could have felt that he had no choice
+
+333
+00:11:54,380 --> 00:11:56,750
+>under the circumstances, we don't know.
+
+334
+00:11:56,750 --> 00:11:58,590
+>And one of the prior
+issues might have precluded
+
+335
+00:11:58,590 --> 00:11:59,740
+>even getting to this question.
+
+336
+00:11:59,740 --> 00:12:01,460
+>But if the jury did reach this question,
+
+337
+00:12:01,460 --> 00:12:03,330
+>then they felt that Kyle Rittenhouse
+
+338
+00:12:03,330 --> 00:12:04,882
+>either had no opportunity to escape
+
+339
+00:12:04,882 --> 00:12:07,620
+>or had exhausted all
+of those opportunities.
+
+340
+00:12:07,620 --> 00:12:09,710
+>If that's the case, whether Wisconsin had
+
+341
+00:12:09,710 --> 00:12:11,940
+>a general duty to retreat
+might not have changed
+
+342
+00:12:11,940 --> 00:12:13,460
+>the overall outcome here anyway.
+
+343
+00:12:13,460 --> 00:12:16,000
+>Anyone who says that this is
+a simple case of self-defense
+
+344
+00:12:16,000 --> 00:12:18,780
+>or that it's cut and
+dry is definitely wrong.
+
+345
+00:12:18,780 --> 00:12:20,940
+>But so far, we've talked
+about the exception
+
+346
+00:12:20,940 --> 00:12:23,030
+>to the exception, that is provocation.
+
+347
+00:12:23,030 --> 00:12:25,590
+>Let's now talk about whether
+the original exception,
+
+348
+00:12:25,590 --> 00:12:28,560
+>self-defense, applied or
+could reasonably have applied
+
+349
+00:12:28,560 --> 00:12:30,330
+>in this particular case.
+
+350
+00:12:30,330 --> 00:12:32,960
+>Let's talk about the facts as
+we know them from the trial.
+
+351
+00:12:32,960 --> 00:12:34,660
+>Now, warning, these videos are graphic,
+
+352
+00:12:34,660 --> 00:12:36,400
+>but let's talk about what the relatively
+
+353
+00:12:36,400 --> 00:12:39,210
+>uncontested testimony
+and these videos shows.
+
+354
+00:12:39,210 --> 00:12:40,960
+>Rittenhouse and his friend, Dominic Black
+
+355
+00:12:40,960 --> 00:12:42,260
+>testified that they went to Kenosha
+
+356
+00:12:42,260 --> 00:12:44,680
+>to protect a car dealership
+called Car Source.
+
+357
+00:12:44,680 --> 00:12:46,480
+>The two owners of the
+dealership told jurors
+
+358
+00:12:46,480 --> 00:12:48,730
+>that they never asked anyone
+to protect Car Source.
+
+359
+00:12:48,730 --> 00:12:51,010
+>During the protest, a small
+group of 8 to 9 people
+
+360
+00:12:51,010 --> 00:12:52,380
+>were gathered at the dealership.
+
+361
+00:12:52,380 --> 00:12:53,770
+>Kyle Rittenhouse, that night,
+
+362
+00:12:53,770 --> 00:12:55,290
+>was separated from the rest of his group
+
+363
+00:12:55,290 --> 00:12:58,230
+>and jogged towards one of
+the Car Source parking lots.
+
+364
+00:12:58,230 --> 00:13:00,420
+>Kyle Rittenhouse apparently
+sees Joshua Ziminski
+
+365
+00:13:00,420 --> 00:13:02,240
+>is nearby armed with a pistol.
+
+366
+00:13:02,240 --> 00:13:04,690
+>Rittenhouse continues to
+run towards Car Source.
+
+367
+00:13:04,690 --> 00:13:06,940
+>Rosenbaum chases Kyle Rittenhouse.
+
+368
+00:13:06,940 --> 00:13:10,500
+>Rosenbaum throws a plastic
+bag behind Kyle Rittenhouse,
+
+369
+00:13:10,500 --> 00:13:11,910
+>which lands on the ground.
+
+370
+00:13:11,910 --> 00:13:14,800
+>A shot is fired from someone
+else about a hundred feet away.
+
+371
+00:13:14,800 --> 00:13:16,710
+>Kyle Rittenhouse turns around and stops
+
+372
+00:13:16,710 --> 00:13:18,210
+>as he gets to some parked cars
+
+373
+00:13:18,210 --> 00:13:20,650
+>and shoots the unarmed
+Rosenbaum four times
+
+374
+00:13:20,650 --> 00:13:22,708
+>in quick succession, once in the back.
+
+375
+00:13:22,708 --> 00:13:24,720
+>(shots firing, people screaming)
+
+376
+00:13:24,720 --> 00:13:27,570
+>Kyle Rittenhouse then
+runs away from the scene.
+
+377
+00:13:27,570 --> 00:13:30,007
+>A loose crowd starts to
+follow Kyle Rittenhouse.
+
+378
+00:13:30,007 --> 00:13:32,710
+>- (man in crowd) That guy
+shot someone, get (beep).
+
+379
+00:13:32,710 --> 00:13:34,570
+>- Rittenhouse trips, falls to the ground,
+
+380
+00:13:34,570 --> 00:13:36,110
+>sits up right and points his gun
+
+381
+00:13:36,110 --> 00:13:37,740
+>at one person who backs away.
+
+382
+00:13:37,740 --> 00:13:40,160
+>He shoots at a man who does
+sort of a half jump kick,
+
+383
+00:13:40,160 --> 00:13:42,340
+>but backs away after the shot.
+
+384
+00:13:42,340 --> 00:13:43,650
+>At roughly the same time,
+
+385
+00:13:43,650 --> 00:13:46,360
+>Anthony Huber hits Kyle
+Rittenhouse with a skateboard.
+
+386
+00:13:46,360 --> 00:13:48,140
+>Rittenhouse fires a shot.
+
+387
+00:13:48,140 --> 00:13:50,840
+>Huber picks up the
+skateboard and runs away.
+
+388
+00:13:50,840 --> 00:13:52,800
+>Another shot is fired
+in either the direction
+
+389
+00:13:52,800 --> 00:13:55,100
+>of Huber or Gaige Grosskreutz.
+
+390
+00:13:55,100 --> 00:13:56,940
+>Huber drops to the ground.
+
+391
+00:13:56,940 --> 00:13:59,810
+>Grosskreutzthen puts his hands
+up while armed with a pistol.
+
+392
+00:13:59,810 --> 00:14:01,470
+>As he's making a move toward
+
+393
+00:14:01,470 --> 00:14:02,960
+>or to the side of Rittenhouse,
+
+394
+00:14:02,960 --> 00:14:04,710
+>Rittenhouse then fires at Grosskreutz
+
+395
+00:14:04,710 --> 00:14:06,650
+>hitting him once in the bicep.
+
+396
+00:14:06,650 --> 00:14:08,070
+>Now this is of course,
+
+397
+00:14:08,070 --> 00:14:10,500
+>a hopefully neutral oversimplification.
+
+398
+00:14:10,500 --> 00:14:12,320
+>There are a lot of other facts.
+
+399
+00:14:12,320 --> 00:14:15,350
+>But at base, this is a
+confusing in-charge situation,
+
+400
+00:14:15,350 --> 00:14:16,600
+>even with video footage.
+
+401
+00:14:16,600 --> 00:14:19,460
+>And it's not an easy
+case in either direction.
+
+402
+00:14:19,460 --> 00:14:22,230
+>So was this self-defense?
+
+403
+00:14:22,230 --> 00:14:24,640
+>You can look at those
+facts and see a murder.
+
+404
+00:14:24,640 --> 00:14:26,800
+>You can look at those facts
+and find self-defense.
+
+405
+00:14:26,800 --> 00:14:28,350
+>Two diametrically opposed beliefs
+
+406
+00:14:28,350 --> 00:14:30,300
+>can both be reasonable at the same time.
+
+407
+00:14:30,300 --> 00:14:32,300
+>There are a ton of open questions here.
+
+408
+00:14:32,300 --> 00:14:35,090
+>Was the use of force
+proportionate in every encounter?
+
+409
+00:14:35,090 --> 00:14:37,740
+>Was the use of force
+reasonable in every encounter?
+
+410
+00:14:37,740 --> 00:14:40,820
+>Did Rittenhouse provoke
+any of those reactions?
+
+411
+00:14:40,820 --> 00:14:42,060
+>But the videos and testimonies show
+
+412
+00:14:42,060 --> 00:14:44,270
+>a chaotic situation and
+people acting quickly.
+
+413
+00:14:44,270 --> 00:14:46,240
+>Now no blanket assertions can be made.
+
+414
+00:14:46,240 --> 00:14:47,970
+>You have to run the self-defense analysis
+
+415
+00:14:47,970 --> 00:14:49,530
+>for each incident individually,
+
+416
+00:14:49,530 --> 00:14:51,130
+>including the shots fired at the people
+
+417
+00:14:51,130 --> 00:14:53,220
+>that weren't Rosenbaum,
+Huber or Grosskreutz.
+
+418
+00:14:53,220 --> 00:14:55,150
+>With the provocation argument aside,
+
+419
+00:14:55,150 --> 00:14:56,950
+>one might look at these
+incidents in question
+
+420
+00:14:56,950 --> 00:14:58,540
+>and decide that they were self-defense.
+
+421
+00:14:58,540 --> 00:15:00,400
+>After all in the latter two incidents,
+
+422
+00:15:00,400 --> 00:15:01,640
+>Kyle Rittenhouse was fending off
+
+423
+00:15:01,640 --> 00:15:03,340
+>what was arguably an
+attack with a skateboard
+
+424
+00:15:03,340 --> 00:15:04,500
+>and in another, the man admitted
+
+425
+00:15:04,500 --> 00:15:06,500
+>he drew a gun on Rittenhouse.
+
+426
+00:15:06,500 --> 00:15:08,180
+>But one might also reasonably conclude
+
+427
+00:15:08,180 --> 00:15:09,790
+>that one or more of these incidents
+
+428
+00:15:09,790 --> 00:15:12,240
+>were not self-defense and
+were therefore murder.
+
+429
+00:15:12,240 --> 00:15:13,570
+>After all, in the first incidence,
+
+430
+00:15:13,570 --> 00:15:16,020
+>Rosenbaum, an unarmed man
+threw a bag of clothes
+
+431
+00:15:16,020 --> 00:15:18,580
+>at Rittenhouse, which didn't
+land anywhere near Rittenhouse.
+
+432
+00:15:18,580 --> 00:15:21,020
+>After which Rittenhouse
+points his gun at him.
+
+433
+00:15:21,020 --> 00:15:22,980
+>And then Rosenbaum moves at Rittenhouse
+
+434
+00:15:22,980 --> 00:15:24,720
+>or apparently towards the gun,
+
+435
+00:15:24,720 --> 00:15:27,290
+>and Rittenhouse shoots him
+four times, once in the back.
+
+436
+00:15:27,290 --> 00:15:29,280
+>And yes, I'm aware of Rittenhouse's
+
+437
+00:15:29,280 --> 00:15:31,540
+>self-serving testimony about
+the preceding incidents.
+
+438
+00:15:31,540 --> 00:15:33,650
+>What I'm saying is that
+reasonable minds can differ.
+
+439
+00:15:33,650 --> 00:15:36,020
+>And Rittenhouse also
+shoots at, but misses,
+
+440
+00:15:36,020 --> 00:15:37,810
+>the unarmed jump-kick man.
+
+441
+00:15:37,810 --> 00:15:40,670
+>And latter incidents involving
+Grosskreutz and Huber
+
+442
+00:15:40,670 --> 00:15:42,590
+>happened perhaps a few hundred feet away
+
+443
+00:15:42,590 --> 00:15:44,740
+>from several dozen police officers.
+
+444
+00:15:44,740 --> 00:15:47,040
+>It's not surprising that the
+people who pursued Rittenhouse
+
+445
+00:15:47,040 --> 00:15:49,010
+>thought he was an active shooter
+who needed to be stopped.
+
+446
+00:15:49,010 --> 00:15:50,980
+>But the only question
+in this particular case
+
+447
+00:15:50,980 --> 00:15:52,480
+>was whether Rittenhouse's actions
+
+448
+00:15:52,480 --> 00:15:54,810
+>could possibly have been reasonable.
+
+449
+00:15:54,810 --> 00:15:56,750
+>Because remember, the standard is that
+
+450
+00:15:56,750 --> 00:15:59,310
+>the jury must find that
+there is no reasonable doubts
+
+451
+00:15:59,310 --> 00:16:01,070
+>that it wasn't self-defense.
+
+452
+00:16:01,070 --> 00:16:02,310
+>It's possible, if not probable,
+
+453
+00:16:02,310 --> 00:16:04,260
+>that both Rittenhouse
+and the people he killed
+
+454
+00:16:04,260 --> 00:16:07,160
+>were simultaneously
+acting in self-defense.
+
+455
+00:16:07,160 --> 00:16:09,118
+>The fog of war is a real thing.
+
+456
+00:16:09,118 --> 00:16:12,000
+>Reasonable beliefs can be mistaken.
+
+457
+00:16:12,000 --> 00:16:14,200
+>The jury was accurately, based on the law,
+
+458
+00:16:14,200 --> 00:16:15,430
+>told that they had to determine
+
+459
+00:16:15,430 --> 00:16:17,090
+>whether Rittenhouse's
+belief was reasonable
+
+460
+00:16:17,090 --> 00:16:18,360
+>based on the circumstances.
+
+461
+00:16:18,360 --> 00:16:19,870
+>And this reminds me of the story
+
+462
+00:16:19,870 --> 00:16:22,060
+>of Gabby Giffords and Joe Zamudio.
+
+463
+00:16:22,060 --> 00:16:23,960
+>when Giffords was shot
+at a political rally,
+
+464
+00:16:23,960 --> 00:16:26,270
+>Joe Zamudio, who was legally armed,
+
+465
+00:16:26,270 --> 00:16:28,010
+>came running to help
+when he heard the gunfire
+
+466
+00:16:28,010 --> 00:16:30,630
+>that injured Gabby Giffords and
+killed six others in Tucson.
+
+467
+00:16:30,630 --> 00:16:32,870
+>By the time that Zamudio
+came to the scene,
+
+468
+00:16:32,870 --> 00:16:34,640
+>unarmed civilians had already tackled
+
+469
+00:16:34,640 --> 00:16:36,370
+>and disarmed the perpetrator.
+
+470
+00:16:36,370 --> 00:16:38,370
+>Zamudio later said that in his confusion,
+
+471
+00:16:38,370 --> 00:16:40,390
+>he was within seconds of shooting
+
+472
+00:16:40,390 --> 00:16:43,600
+>one of the people that was
+helping, not the shooter himself.
+
+473
+00:16:43,600 --> 00:16:46,030
+>This is an issue that
+champions of Rittenhouse
+
+474
+00:16:46,030 --> 00:16:46,980
+>should grapple with.
+
+475
+00:16:46,980 --> 00:16:49,670
+>If Rosenbalm or Huber or Grosskreutz
+
+476
+00:16:49,670 --> 00:16:52,430
+>had killed Kyle Rittenhouse,
+they might've been justified
+
+477
+00:16:52,430 --> 00:16:54,300
+>in using self-defense under the law.
+
+478
+00:16:54,300 --> 00:16:55,960
+>Again, reasonable minds
+might differ on this.
+
+479
+00:16:55,960 --> 00:16:57,670
+>But any system that incentivizes rule
+
+480
+00:16:57,670 --> 00:16:58,700
+>by the last person standing,
+
+481
+00:16:58,700 --> 00:17:00,470
+>that is killing the only person
+
+482
+00:17:00,470 --> 00:17:02,750
+>who might dispute your
+claim of self-defense.
+
+483
+00:17:02,750 --> 00:17:05,563
+>That seems well suboptimal.
+
+484
+00:17:07,180 --> 00:17:09,540
+>It's at this point, that
+my notes simply say,
+
+485
+00:17:09,540 --> 00:17:11,453
+>vigilantism is bad.
+
+486
+00:17:12,390 --> 00:17:14,280
+>And I stand by that.
+
+487
+00:17:14,280 --> 00:17:17,580
+>I also worry that that is
+becoming a controversial position.
+
+488
+00:17:17,580 --> 00:17:20,320
+>Net net bringing guns to a protest is bad.
+
+489
+00:17:20,320 --> 00:17:23,340
+>Anyone that brings it,
+not just Kyle Rittenhouse.
+
+490
+00:17:23,340 --> 00:17:25,680
+>But there's a large strain
+of people that simply say
+
+491
+00:17:25,680 --> 00:17:27,270
+>that Kyle Rittenhouse
+shouldn't have been there.
+
+492
+00:17:27,270 --> 00:17:30,090
+>And that's the reason that
+he can't use self-defense.
+
+493
+00:17:30,090 --> 00:17:30,990
+>And by most accounts,
+
+494
+00:17:30,990 --> 00:17:33,600
+>Kyle Rittenhouse meets the
+definition of a vigilante.
+
+495
+00:17:33,600 --> 00:17:35,920
+>But whether Kyle Rittenhouse
+should have been there
+
+496
+00:17:35,920 --> 00:17:38,420
+>in the first place isn't
+relevant to the questions
+
+497
+00:17:38,420 --> 00:17:40,640
+>of whether he legally met the definition
+
+498
+00:17:40,640 --> 00:17:42,320
+>of self-defense in the first place.
+
+499
+00:17:42,320 --> 00:17:44,800
+>Just simply possessing a gun by itself,
+
+500
+00:17:44,800 --> 00:17:48,110
+>doesn't prevent the
+application of self-defense.
+
+501
+00:17:48,110 --> 00:17:50,900
+>And there are of course, larger
+social issues here as well.
+
+502
+00:17:50,900 --> 00:17:52,820
+>Many have claimed that it
+would have been impossible
+
+503
+00:17:52,820 --> 00:17:54,750
+>for a black person to kill two people,
+
+504
+00:17:54,750 --> 00:17:56,900
+>injured a third and fire at a fourth
+
+505
+00:17:56,900 --> 00:17:59,980
+>and live to walk away from
+the scene as Rittenhouse did.
+
+506
+00:17:59,980 --> 00:18:02,430
+>And then of course, to
+be found, not guilty.
+
+507
+00:18:02,430 --> 00:18:05,520
+>And we can probably evaluate
+whether this is true or not.
+
+508
+00:18:05,520 --> 00:18:07,210
+>One way to look at this
+is by studying the data
+
+509
+00:18:07,210 --> 00:18:09,670
+>on how jury's perceive self-defense.
+
+510
+00:18:09,670 --> 00:18:11,560
+>a study by John Roman found that homicides
+
+511
+00:18:11,560 --> 00:18:13,460
+>with a white perpetrator
+and a black victim
+
+512
+00:18:13,460 --> 00:18:16,160
+>are 10 times more likely
+to be ruled justified
+
+513
+00:18:16,160 --> 00:18:18,700
+>than cases with a black
+perpetrator and a white victim.
+
+514
+00:18:18,700 --> 00:18:21,520
+>And the gap is larger in states
+with stand your ground laws.
+
+515
+00:18:21,520 --> 00:18:23,940
+>And after accounting for a
+variety of confounding factors,
+
+516
+00:18:23,940 --> 00:18:26,130
+>such as whether the victim and
+perpetrator were strangers,
+
+517
+00:18:26,130 --> 00:18:27,920
+>the gap is smaller, but still significant.
+
+518
+00:18:27,920 --> 00:18:30,150
+>Cases with a white
+perpetrator and black victim
+
+519
+00:18:30,150 --> 00:18:33,140
+>are 281% more likely to be ruled justified
+
+520
+00:18:33,140 --> 00:18:35,900
+>than cases with a black
+perpetrator and white victim.
+
+521
+00:18:35,900 --> 00:18:39,310
+>But systemic issues like
+that weren't on trial here.
+
+522
+00:18:39,310 --> 00:18:41,490
+>You don't adjudicate those
+kinds of systemic issues
+
+523
+00:18:41,490 --> 00:18:44,450
+>in a criminal court of one individual.
+
+524
+00:18:44,450 --> 00:18:46,000
+>The issue is whether Kyle Rittenhouse
+
+525
+00:18:46,000 --> 00:18:48,290
+>engaged in self-defense
+or more specifically,
+
+526
+00:18:48,290 --> 00:18:50,860
+>whether the prosecution
+disproved the possibility
+
+527
+00:18:50,860 --> 00:18:53,080
+>that he used self-defense.
+
+528
+00:18:53,080 --> 00:18:55,520
+>And for what it's worth,
+there are lots of people
+
+529
+00:18:55,520 --> 00:18:57,090
+>who think that Kyle Rittenhouse's actions
+
+530
+00:18:57,090 --> 00:18:58,410
+>were not self-defense.
+
+531
+00:18:58,410 --> 00:19:00,710
+>There are lots of other reasonable people
+
+532
+00:19:00,710 --> 00:19:03,310
+>who think that Kyle Rittenhouse's
+actions were self-defense.
+
+533
+00:19:03,310 --> 00:19:06,440
+>Now I doubt all of those
+people in both of those groups
+
+534
+00:19:06,440 --> 00:19:08,610
+>watched 100% of the trial then spent days
+
+535
+00:19:08,610 --> 00:19:09,910
+>pouring over the jury instructions
+
+536
+00:19:09,910 --> 00:19:11,420
+>like the Kenosha jury did.
+
+537
+00:19:11,420 --> 00:19:13,910
+>But the thing is, if reasonable people
+
+538
+00:19:13,910 --> 00:19:16,220
+>really could conclude that
+this was self-defense,
+
+539
+00:19:16,220 --> 00:19:17,420
+>then it means that the prosecution
+
+540
+00:19:17,420 --> 00:19:20,429
+>didn't prove self-defense
+beyond a reasonable doubt.
+
+541
+00:19:20,429 --> 00:19:22,300
+>That's the definition of reasonable doubt.
+
+542
+00:19:22,300 --> 00:19:24,250
+>Now that being said, an
+acquittal doesn't mean
+
+543
+00:19:24,250 --> 00:19:26,070
+>that Kyle Rittenhouse didn't do it.
+
+544
+00:19:26,070 --> 00:19:29,110
+>It doesn't mean that what Kyle
+Rittenhouse did was right.
+
+545
+00:19:29,110 --> 00:19:31,614
+>And the pathology of Kyle Rittenhouse's
+
+546
+00:19:31,614 --> 00:19:33,620
+>hagiography is another issue entirely.
+
+547
+00:19:33,620 --> 00:19:36,460
+>And it certainly doesn't mean
+that he did nothing wrong.
+
+548
+00:19:36,460 --> 00:19:37,403
+>It just means the jury didn't think
+
+549
+00:19:37,403 --> 00:19:39,250
+>that the prosecution proved self-defense
+
+550
+00:19:39,250 --> 00:19:40,310
+>beyond a reasonable doubt.
+
+551
+00:19:40,310 --> 00:19:41,940
+>And while you can't necessarily infer it
+
+552
+00:19:41,940 --> 00:19:44,040
+>from the jury's decision,
+it might be the case
+
+553
+00:19:44,040 --> 00:19:47,570
+>that Kyle Rittenhouse did
+nothing legally wrong.
+
+554
+00:19:47,570 --> 00:19:49,600
+>But under the most favorable
+interpretations of the facts,
+
+555
+00:19:49,600 --> 00:19:51,980
+>Kyle Rittenhouse brought
+gasoline to a match party
+
+556
+00:19:51,980 --> 00:19:53,650
+>and people are now dead as a result.
+
+557
+00:19:53,650 --> 00:19:55,150
+>He made a bad situation worse.
+
+558
+00:19:55,150 --> 00:19:57,250
+>And let's face it, if
+someone uses non-deadly force
+
+559
+00:19:57,250 --> 00:19:58,900
+>against you while you are carrying a gun,
+
+560
+00:19:58,900 --> 00:20:00,730
+>it's more likely to turn deadly.
+
+561
+00:20:00,730 --> 00:20:03,250
+>Rosenbaum, jump-kick
+man and arguably, Huber,
+
+562
+00:20:03,250 --> 00:20:05,290
+>used non-deadly force.
+
+563
+00:20:05,290 --> 00:20:06,650
+>Which would not in the abstract
+
+564
+00:20:06,650 --> 00:20:08,910
+>trigger a reasonable
+belief of imminent harm.
+
+565
+00:20:08,910 --> 00:20:10,270
+>Which is not to say that unarmed people
+
+566
+00:20:10,270 --> 00:20:13,330
+>can't exercise deadly force
+or create a reasonable belief
+
+567
+00:20:13,330 --> 00:20:16,260
+>of eminent, deadly harm,
+they absolutely can.
+
+568
+00:20:16,260 --> 00:20:17,570
+>Indeed, it appears that the jury
+
+569
+00:20:17,570 --> 00:20:19,550
+>believed Rittenhouse's testimony
+
+570
+00:20:19,550 --> 00:20:21,290
+>that they were going for his gun
+
+571
+00:20:21,290 --> 00:20:23,940
+>or grabbed his gun in an
+attempt to take his gun
+
+572
+00:20:23,940 --> 00:20:25,520
+>and use it against him.
+
+573
+00:20:25,520 --> 00:20:28,630
+>And in a huge stretch, in
+Rittenhouse's speculation,
+
+574
+00:20:28,630 --> 00:20:31,470
+>take his gun and use it against others.
+
+575
+00:20:31,470 --> 00:20:34,140
+>Now, those arguing that,
+but for Kyle Rittenhouse,
+
+576
+00:20:34,140 --> 00:20:35,250
+>being present with his gun,
+
+577
+00:20:35,250 --> 00:20:37,590
+>these shootings wouldn't
+have happened are right.
+
+578
+00:20:37,590 --> 00:20:39,350
+>However, but for causation,
+
+579
+00:20:39,350 --> 00:20:41,850
+>or what we call sine qua non causation,
+
+580
+00:20:41,850 --> 00:20:43,440
+>it doesn't rise to the level of guilt
+
+581
+00:20:43,440 --> 00:20:44,660
+>beyond a reasonable doubt.
+
+582
+00:20:44,660 --> 00:20:47,780
+>It's necessary for a conviction,
+but it's not sufficient.
+
+583
+00:20:47,780 --> 00:20:49,597
+>Now I've seen lots of people say, quote,
+
+584
+00:20:49,597 --> 00:20:52,490
+>"the jury reached the right verdict."
+
+585
+00:20:52,490 --> 00:20:53,930
+>Now there is a strong version
+
+586
+00:20:53,930 --> 00:20:55,530
+>and a weak version of that statement.
+
+587
+00:20:55,530 --> 00:20:57,620
+>The weak version is that
+the jury was correct
+
+588
+00:20:57,620 --> 00:20:59,190
+>to find that there was reasonable doubt
+
+589
+00:20:59,190 --> 00:21:01,830
+>that Kyle Rittenhouse
+didn't use self-defense.
+
+590
+00:21:01,830 --> 00:21:03,800
+>However, the strong
+version is that the jury
+
+591
+00:21:03,800 --> 00:21:06,450
+>proactively found him
+innocent or even a hero.
+
+592
+00:21:06,450 --> 00:21:08,290
+>But assuming we're going
+with the weak version,
+
+593
+00:21:08,290 --> 00:21:10,070
+>it's entirely possible
+that the jury verdict
+
+594
+00:21:10,070 --> 00:21:12,360
+>accurately reflects the law of Wisconsin.
+
+595
+00:21:12,360 --> 00:21:14,550
+>I've never seen a
+politician run on a platform
+
+596
+00:21:14,550 --> 00:21:17,050
+>of installing a duty
+to retreat in the law.
+
+597
+00:21:17,050 --> 00:21:18,580
+>If Wisconsin had a duty to retreat,
+
+598
+00:21:18,580 --> 00:21:19,430
+>the outcome of this case,
+
+599
+00:21:19,430 --> 00:21:20,800
+>very well might've been different.
+
+600
+00:21:20,800 --> 00:21:23,210
+>Stated differently, if this
+had occurred in Massachusetts,
+
+601
+00:21:23,210 --> 00:21:25,090
+>the law could have militated
+a different result.
+
+602
+00:21:25,090 --> 00:21:27,270
+>Though, admittedly, maybe reasonable minds
+
+603
+00:21:27,270 --> 00:21:28,570
+>might differ on that as well.
+
+604
+00:21:28,570 --> 00:21:30,250
+>Maybe Kyle Rittenhouse retreated
+
+605
+00:21:30,250 --> 00:21:31,970
+>at every possible opportunity.
+
+606
+00:21:31,970 --> 00:21:34,850
+>But I will leave it to you and
+by proxy, your politicians,
+
+607
+00:21:34,850 --> 00:21:37,560
+>as to whether that is a
+good thing or a bad thing.
+
+608
+00:21:37,560 --> 00:21:39,030
+>Though, I'll point out that for those
+
+609
+00:21:39,030 --> 00:21:41,260
+>that are happy that Kyle
+Rittenhouse was found not guilty,
+
+610
+00:21:41,260 --> 00:21:43,200
+>they should recognize that logically,
+
+611
+00:21:43,200 --> 00:21:45,340
+>they should also be in favor
+of an alternate reality
+
+612
+00:21:45,340 --> 00:21:48,570
+>where Gaige Grosskreutz shot
+and killed Kyle Rittenhouse.
+
+613
+00:21:48,570 --> 00:21:49,403
+>And remember, if you think that
+
+614
+00:21:49,403 --> 00:21:51,330
+>Rosenbaum, Huber or Grosskreutz
+
+615
+00:21:51,330 --> 00:21:53,716
+>all provoked a response
+from Kyle Rittenhouse,
+
+616
+00:21:53,716 --> 00:21:55,200
+>Rittenhouse's use of deadly force
+
+617
+00:21:55,200 --> 00:21:58,380
+>probably gave them the right
+to use deadly force right back
+
+618
+00:21:58,380 --> 00:21:59,610
+>under the same laws.
+
+619
+00:21:59,610 --> 00:22:02,300
+>Under current Wisconsin
+law, if Kyle Rittenhouse
+
+620
+00:22:02,300 --> 00:22:04,330
+>is not guilty, by reason of self-defense,
+
+621
+00:22:04,330 --> 00:22:07,640
+>Gaige Grosskreutz would
+also have been not guilty
+
+622
+00:22:07,640 --> 00:22:09,490
+>if he had shot and
+killed Kyle Rittenhouse.
+
+623
+00:22:09,490 --> 00:22:10,820
+>And keep in mind that in this scenario,
+
+624
+00:22:10,820 --> 00:22:13,334
+>Kyle Rittenhouse is dead
+and it would have been
+
+625
+00:22:13,334 --> 00:22:15,310
+>Grosskreutz setting the narrative.
+
+626
+00:22:15,310 --> 00:22:17,120
+>And to the extent that
+you think Grosskreutz
+
+627
+00:22:17,120 --> 00:22:19,190
+>would have crafted his
+testimony to support
+
+628
+00:22:19,190 --> 00:22:20,630
+>an argument of self-defense,
+
+629
+00:22:20,630 --> 00:22:22,880
+>then consider that Kyle
+Rittenhouse probably crafted
+
+630
+00:22:22,880 --> 00:22:24,730
+>his story in exactly the same way.
+
+631
+00:22:24,730 --> 00:22:26,130
+>So the ultimate takeaway here
+
+632
+00:22:26,130 --> 00:22:28,620
+>is that these incidents are murky at best.
+
+633
+00:22:28,620 --> 00:22:30,640
+>Occurred in a jurisdiction with very broad
+
+634
+00:22:30,640 --> 00:22:32,700
+>self-defense and firearm laws.
+
+635
+00:22:32,700 --> 00:22:35,130
+>The prosecution had a very
+high standard to meet.
+
+636
+00:22:35,130 --> 00:22:36,860
+>And while we didn't
+cover it in this video,
+
+637
+00:22:36,860 --> 00:22:38,930
+>the defendant put on a very good defense.
+
+638
+00:22:38,930 --> 00:22:40,980
+>The rest I will leave to you.
+
+639
+00:22:40,980 --> 00:22:42,720
+>Now, if you'd like to
+watch something legal,
+
+640
+00:22:42,720 --> 00:22:44,150
+>that's much more lighthearted,
+
+641
+00:22:44,150 --> 00:22:46,600
+>I'd recommend my mini
+documentary, "Bad Law Words Good"
+
+642
+00:22:46,600 --> 00:22:48,700
+>where I explore all of
+the most common legal
+
+643
+00:22:48,700 --> 00:22:50,480
+>and linguistic comments
+that people throw around
+
+644
+00:22:50,480 --> 00:22:52,430
+>in everyday life incorrectly.
+
+645
+00:22:52,430 --> 00:22:54,260
+>It is a hilarious and educational romp
+
+646
+00:22:54,260 --> 00:22:56,480
+>through legal misunderstandings,
+logical fallacies,
+
+647
+00:22:56,480 --> 00:22:58,260
+>and law and order parodies.
+
+648
+00:22:58,260 --> 00:23:00,310
+>And it's only on Nebula,
+which you can get for free
+
+649
+00:23:00,310 --> 00:23:01,730
+>with Curiosity Stream.
+
+650
+00:23:01,730 --> 00:23:04,370
+>Because Nebula is where I
+release all my videos early,
+
+651
+00:23:04,370 --> 00:23:06,830
+>usually with extended cuts
+and where I can experiment
+
+652
+00:23:06,830 --> 00:23:09,320
+>with content and put things
+that I couldn't put on YouTube.
+
+653
+00:23:09,320 --> 00:23:11,160
+>And we're thrilled to be
+partnering with today's sponsor
+
+654
+00:23:11,160 --> 00:23:12,980
+>Curiosity Stream, because
+they're the go-to source
+
+655
+00:23:12,980 --> 00:23:13,980
+>for the best documentaries
+
+656
+00:23:13,980 --> 00:23:16,350
+>and long form educational
+content on the internet.
+
+657
+00:23:16,350 --> 00:23:17,530
+>They even have an entire section
+
+658
+00:23:17,530 --> 00:23:19,390
+>devoted to unsolved mysteries and crime.
+
+659
+00:23:19,390 --> 00:23:20,480
+>So if you like my videos,
+
+660
+00:23:20,480 --> 00:23:22,270
+>you will love the stuff
+on Curiosity Stream.
+
+661
+00:23:22,270 --> 00:23:23,800
+>And right now Curiosity Stream is offering
+
+662
+00:23:23,800 --> 00:23:25,640
+>42% off their annual plans.
+
+663
+00:23:25,640 --> 00:23:28,040
+>That's less than $12 for the entire year
+
+664
+00:23:28,040 --> 00:23:30,140
+>for both Curiosity Stream and Nebula.
+
+665
+00:23:30,140 --> 00:23:31,840
+>So if you click on the
+link in the description
+
+666
+00:23:31,840 --> 00:23:33,550
+>or the one that's on screen right now,
+
+667
+00:23:33,550 --> 00:23:35,240
+>you'll get both Curiosity
+Stream and Nebula
+
+668
+00:23:35,240 --> 00:23:38,910
+>for 42% off, or you can go
+to curiositystream.com/legal.
+
+669
+00:23:38,910 --> 00:23:40,330
+>It's a great way to support this channel
+
+670
+00:23:40,330 --> 00:23:43,940
+>and educational content
+directly for under $12 per year.
+
+671
+00:23:43,940 --> 00:23:45,687
+>And it's the only way
+to see my documentary
+
+672
+00:23:45,687 --> 00:23:46,790
+>"Bad Law Words Good."
+
+673
+00:23:46,790 --> 00:23:48,730
+>So just click on the link
+that's on screen right now,
+
+674
+00:23:48,730 --> 00:23:50,220
+>or the one that's in the description
+
+675
+00:23:50,220 --> 00:23:52,880
+>to get Curiosity Stream, Nebula
+and "Bad Law Words Good."
+
+676
+00:23:52,880 --> 00:23:55,530
+>Plus, clicking on that link
+really helps out this channel.
+
+677
+00:23:55,530 --> 00:23:56,970
+>And while you're there,
+click on this playlist
+
+678
+00:23:56,970 --> 00:23:58,180
+>with all my other real law reviews.
+
+679
+00:23:58,180 --> 00:24:01,113
+>So click on that video
+or I'll see you in court.
