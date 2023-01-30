@@ -501,450 +501,504 @@ and you might be faced with similar jury instructions.
 102
 00:03:38,420 --> 00:03:41,620
 Now, Wisconsin doesn't have what's called a duty to retreat.
+当前，Wisconsin并不要求“逃跑义务”，
 
 103
 00:03:41,620 --> 00:03:43,820
->In other words, Wisconsin
-law doesn't require someone
+In other words, Wisconsin law doesn't require someone
+换句话说，Wisconsin州的法律并不要求：受害者
 
 104
 00:03:43,820 --> 00:03:46,129
->whose life is in danger to
-exercise all opportunities
+whose life is in danger to exercise all opportunities
+面临生命危险时必须要先采取各种途径尝试逃离，否则
 
 105
 00:03:46,129 --> 00:03:49,470
->to flee before resorting to deadly force.
+to flee before resorting to deadly force.
+不能使用致命武器进行自卫反击。
+
 
 106
 00:03:49,470 --> 00:03:51,474
->But, jurors can consider whether someone
+But, jurors can consider whether someone
+但是，陪审人员可以将受害者是否
 
 107
 00:03:51,474 --> 00:03:53,320
->tried to move away from danger,
+tried to move away from danger,
+尝试过逃离现场这一点
 
 108
 00:03:53,320 --> 00:03:56,320
->as they assess the reasonableness
-of a self-defense claim.
+as they assess the reasonableness of a self-defense claim.
+来作为评估自卫条件成立的合理性
 
 109
 00:03:56,320 --> 00:03:57,700
->Juries are still allowed to consider
+Juries are still allowed to consider
+陪审团也可以考虑
 
 110
 00:03:57,700 --> 00:03:59,670
->whether the defendant had
-an opportunity to retreat
+whether the defendant had an opportunity to retreat
+被告是否有机会逃离现场
 
 111
 00:03:59,670 --> 00:04:01,450
->to determine whether
-or not it was necessary
+to determine whether or not it was necessary
+来决定其是否有必要
 
 112
 00:04:01,450 --> 00:04:04,370
->to use deadly force in self-defense.
+to use deadly force in self-defense.
+使用致命武器进行自卫反击。
 
 113
 00:04:04,370 --> 00:04:06,740
->And Wisconsin law doesn't quite go as far
+And Wisconsin law doesn't quite go as far
+当然，Wisconsin州的法律也并没有
 
 114
 00:04:06,740 --> 00:04:08,300
->as stand your ground states,
+as stand your ground states,
+极端到“不退让原则”的程度，
 
 115
 00:04:08,300 --> 00:04:11,360
->which remove any consideration
-of deescalating or fleeing
+which remove any consideration of deescalating or fleeing
+该原则允许受害者在使用致命武器反击之前
 
 116
 00:04:11,360 --> 00:04:13,000
->before resorting to deadly force.
+before resorting to deadly force.
+无需考虑任何的妥协或逃离。
 
 117
 00:04:13,000 --> 00:04:14,160
->However, as we'll talk about later,
+However, as we'll talk about later,
+然而，正如我们稍后要讨论的，
 
 118
 00:04:14,160 --> 00:04:15,990
->Wisconsin does have a duty to retreat
+Wisconsin does have a duty to retreat
+Wisconsin州确实有一种情况要求“逃跑义务”：
 
 119
 00:04:15,990 --> 00:04:18,410
->where the person provokes
-the attack against them.
+where the person provokes the attack against them.
+当冲突挑衅者自己（反过来）收到了威胁。
 
 120
 00:04:18,410 --> 00:04:20,560
->Now at common law, a
-majority of jurisdictions
+Now at common law, a majority of jurisdictions
+在普通法中，多数州的法律法规
 
 121
 00:04:20,560 --> 00:04:23,840
->require a duty to retreat
-before being allowed to engage
+require a duty to retreat before being allowed to engage
+要求在使用致命武器之前
 
 122
 00:04:23,840 --> 00:04:25,990
->in deadly force in self-defense.
+in deadly force in self-defense.
+必须要先履行“逃跑义务”。
 
 123
 00:04:25,990 --> 00:04:27,910
->But today, a duty to retreat is required
+But today, a duty to retreat is required
+但是现在，只有少数州的法律
 
 124
 00:04:27,910 --> 00:04:29,640
->in only a minority of US states.
+in only a minority of US states.
+要求这一“逃跑义务”。
 
 125
 00:04:29,640 --> 00:04:32,810
->Here is a duty to retreat
-instruction from Massachusetts.
+Here is a duty to retreat instruction from Massachusetts.
+Massachusetts州关于逃跑义务的规定如下：
 
 126
 00:04:32,810 --> 00:04:34,791
->Quote, "a person cannot
-lawfully act in self-defense
+Quote, "a person cannot lawfully act in self-defense
+“一个人在穷尽完所有合理的逃生途径之前
 
 127
 00:04:34,791 --> 00:04:36,073
->unless he or she has exhausted
+unless he or she has exhausted
+不能诉诸于暴力（对挑衅者）
 
 128
 00:04:36,073 --> 00:04:39,740
->all other reasonable alternatives
-before resorting to force.
+all other reasonable alternatives before resorting to force.
+进行自卫反击。
 
 129
 00:04:39,740 --> 00:04:42,010
->A person may use physical
-force in self-defense
+A person may use physical force in self-defense
+一个人只有在他或她在当时
 
 130
 00:04:42,010 --> 00:04:45,150
->only if he or she could not
-get out of the situation
+only if he or she could not get out of the situation
+无法通过任何有效且合理的途径逃离现场时
 
 131
 00:04:45,150 --> 00:04:47,020
->in some other way that was available
+in some other way that was available
+才可以使用自身的力量
 
 132
 00:04:47,020 --> 00:04:48,480
->and reasonable at the time.
+and reasonable at the time.
+进行自卫反击。
 
 133
 00:04:48,480 --> 00:04:50,157
->The Commonwealth," that is
-the state of Massachusetts,
+The Commonwealth, that is the state of Massachusetts,
+Massachusetts州（检方）
 
 134
 00:04:50,157 --> 00:04:52,175
->"may prove the defendant
-did not act in self-defense
+may prove the defendant did not act in self-defense
+可以通过以“排除合理怀疑”的标准证明
 
 135
 00:04:52,175 --> 00:04:54,320
->by proving beyond a reasonable doubt
+by proving beyond a reasonable doubt
+被告在诉诸暴力之前
 
 136
 00:04:54,320 --> 00:04:56,010
->that the defendant resorted to force
+that the defendant resorted to force
+没有使用有效合理
 
 137
 00:04:56,010 --> 00:04:57,550
->without using avenues of escape
+without using avenues of escape
+且不会置其于更危险境地的逃生途径，
 
 138
 00:04:57,550 --> 00:04:59,320
->that were reasonably
-available and which could not
+that were reasonably available and which could not
+从而使自我防卫的
 
 139
 00:04:59,320 --> 00:05:01,900
->have exposed the defendant
-to further danger."
+have exposed the defendant to further danger."
+辩护不成立。”
 
 140
 00:05:01,900 --> 00:05:03,550
->Again, that's the law of Massachusetts
+Again, that's the law of Massachusetts
+再声明一次，那是Massachusetts州的法律，
 
 141
 00:05:03,550 --> 00:05:05,550
->and it's not the law of Wisconsin.
+and it's not the law of Wisconsin.
+不是Wisconsin州的。
 
 142
 00:05:05,550 --> 00:05:07,290
->And it should go without
-saying that the Kenosha jury
+And it should go without saying that the Kenosha jury
+并且无需多说，Kenosha陪审团
 
 143
 00:05:07,290 --> 00:05:09,230
->was applying the law of
-Wisconsin at the time.
+was applying the law of Wisconsin at the time.
+肯定依据的是Wisconsin州的法律。
 
 144
 00:05:09,230 --> 00:05:10,600
->And we'll talk about the implications
+And we'll talk about the implications
+接下来，我们就讨论一下
 
 145
 00:05:10,600 --> 00:05:13,220
->of this particular aspect of
-Wisconsin law in a second.
+of this particular aspect of Wisconsin law in a second.
+Wisconsin州法律中特殊情况的含义。
 
 146
 00:05:13,220 --> 00:05:16,120
->But the final nuance of
-self-defense at issue
+But the final nuance of self-defense at issue
+在正当防卫的争论中，最终的差别点
 
 147
 00:05:16,120 --> 00:05:18,380
->is that of provocation.
+is that of provocation.
+在于（被告是否进行了）挑衅。
 
 148
 00:05:18,380 --> 00:05:20,800
->A person who provokes an attack
+A person who provokes an attack
+冲突的挑衅者
 
 149
 00:05:20,800 --> 00:05:22,461
->cannot claim legal self-defense.
+cannot claim legal self-defense.
+不能声称自己在合法的自卫，
 
 150
 00:05:22,461 --> 00:05:25,480
->But it's more complicated than just that.
+But it's more complicated than just that.
+当然实际情况更复杂些。
 
 151
 00:05:25,480 --> 00:05:27,607
->The Wisconsin law on provocation states,
+The Wisconsin law on provocation states,
+Wisconsin州法对于挑衅方规定：
 
 152
 00:05:27,607 --> 00:05:29,790
->"a person who engages in unlawful conduct
+"a person who engages in unlawful conduct
+“一个人因其某种非法行为
 
 153
 00:05:29,790 --> 00:05:32,880
->of a type likely to provoke
-others to attack him or her,
+of a type likely to provoke others to attack him or her,
+可能诱使他人对其进行反击，
 
 154
 00:05:32,880 --> 00:05:35,310
->and thereby does provoke an attack
+and thereby does provoke an attack
+并且（在非法行为后）确实引发了他人的反击，
 
 155
 00:05:35,310 --> 00:05:37,490
->is not entitled to claim the
-privilege of self-defense
+is not entitled to claim the privilege of self-defense
+（那么，）这个人对此类反击无权声称
 
 156
 00:05:37,490 --> 00:05:40,560
->against such attack, except
-when the attack which ensues
+against such attack, except when the attack which ensues
+正当防卫，除非这样的反击
 
 157
 00:05:40,560 --> 00:05:42,530
->is of a type causing the person engaging
+is of a type causing the person engaging
+使得非法行为人
 
 158
 00:05:42,530 --> 00:05:45,090
->in the unlawful conduct
-to reasonably believe
+in the unlawful conduct to reasonably believe
+合理的认为
 
 159
 00:05:45,090 --> 00:05:46,670
->that he or she is an imminent danger
+that he or she is an imminent danger
+他或她即将遭受死亡的威胁
 
 160
 00:05:46,670 --> 00:05:48,480
->of death or great bodily harm."
+of death or great bodily harm."
+或重大人身伤害（才可进行正当防卫）。”
 
 161
 00:05:48,480 --> 00:05:50,440
->Okay, so let's break down
-this law on provocation,
+Okay, so let's break down this law on provocation,
+OK，我们来拆解一下法律中关于挑衅的规定：
 
 162
 00:05:50,440 --> 00:05:53,650
->which is an exception to the
-exception of self-defense,
+which is an exception to the exception of self-defense,
+如果正当防卫算作一种允许使用致命武器对付他人的例外，
 
 163
 00:05:53,650 --> 00:05:55,440
->which is an exception to the ability
+which is an exception to the ability
+那么允许挑衅者使用正当防卫
 
 164
 00:05:55,440 --> 00:05:56,770
->to use deadly force against someone.
+to use deadly force against someone.
+就是一种例外中的例外。
 
 165
 00:05:56,770 --> 00:05:58,970
->So let's say you engage
-in unlawful conduct
+So let's say you engage in unlawful conduct
+所以我们说当你进行某种非法行为
 
 166
 00:05:58,970 --> 00:06:00,750
->likely to provoke others.
+likely to provoke others,
+而可能导致他人反击时，
 
 167
 00:06:00,750 --> 00:06:02,730
->Well, then you can't claim self-defense.
+well, then you can't claim self-defense.
+你无权声称正当防卫。
 
 168
 00:06:02,730 --> 00:06:06,100
->Except that you can, if your
-provocation causes others
+Except that you can, if your provocation causes others
+但如果你的挑衅行为致使对方使用
 
 169
 00:06:06,100 --> 00:06:08,780
->to use effectively
-deadly force against you.
+to use effectively deadly force against you.
+有效的致命武器对付你时，你就可以。
 
 170
 00:06:08,780 --> 00:06:10,100
->Now we'll get back to this in a second,
+Now we'll get back to this in a second,
+稍后我们还会说回这一点，
 
 171
 00:06:10,100 --> 00:06:11,240
->but the law continues.
+but the law continues.
+法律继续说到，
 
 172
 00:06:11,240 --> 00:06:13,090
->In such a case where the provoked attacker
+In such a case where the provoked attacker
+在反击者使用致命武器
 
 173
 00:06:13,090 --> 00:06:15,170
->uses deadly force against the provoker,
+uses deadly force against the provoker,
+对付挑衅者的情况下，
 
 174
 00:06:15,170 --> 00:06:17,560
->the person engaging in
-the unlawful conduct
+the person engaging in the unlawful conduct
+非法行为人（即挑衅者）
 
 175
 00:06:17,560 --> 00:06:19,660
->is privileged to act in self-defense,
+is privileged to act in self-defense,
+有权进行正当防卫，
 
 176
 00:06:19,660 --> 00:06:21,700
->but the person is not privileged
+but the person is not privileged
+但是挑衅者无权
 
 177
 00:06:21,700 --> 00:06:23,210
->to resort to the use of force
+to resort to the use of force
+故意使用可能造成反击者死亡
 
 178
 00:06:23,210 --> 00:06:26,190
->intended or likely to cause
-death to the person's assailant.
+intended or likely to cause death to the person's assailant,
+的暴力武器（进行自卫），
 
 179
 00:06:26,190 --> 00:06:28,650
->Unless the person reasonably
-believes that he or she
+Unless the person reasonably believes that he or she
+除非挑衅者合理的认为他或她
 
 180
 00:06:28,650 --> 00:06:30,700
->has exhausted every other reasonable means
+has exhausted every other reasonable means
+已经穷尽了所有的逃离途径，以及尝试了
 
 181
 00:06:30,700 --> 00:06:34,630
->to escape from or otherwise
-avoid death or great bodily harm
+to escape from or otherwise avoid death or great bodily harm
+各种避免生命死亡
 
 182
 00:06:34,630 --> 00:06:36,640
->at the hands of his or her assailant.
+at the hands of his or her assailant.
+或重大人身伤害的方式。
 
 183
 00:06:36,640 --> 00:06:39,610
->So here, you only get to use deadly force
+So here, you only get to use deadly force
+所以此种情况下，你能使用致命武器
 
 184
 00:06:39,610 --> 00:06:42,320
->to resist the deadly
-force that you provoked
+to resist the deadly force that you provoked
+对抗你挑起的致命威胁的唯一
 
 185
 00:06:42,320 --> 00:06:45,320
->if you exercise a duty to retreat.
+if you exercise a duty to retreat.
+条件是你履行了“逃跑义务”。
 
 186
 00:06:45,320 --> 00:06:47,780
->Wisconsin law stipulates
-that the provocateur
+Wisconsin law stipulates that the provocateur
+Wisconsin州的法律规定，冲突挑衅者
 
 187
 00:06:47,780 --> 00:06:50,700
->must attempt every other
-reasonable option to escape,
+must attempt every other reasonable option to escape,
+必须在尝试了各种逃跑，
 
 188
 00:06:50,700 --> 00:06:52,360
->avoid, or prevent the attack
+avoid, or prevent the attack
+避免或预防致命反击之后
 
 189
 00:06:52,360 --> 00:06:55,570
->before resorting to deadly
-force if they were the ones
+before resorting to deadly force if they were the ones
+才能诉诸于致命武器
 
 190
 00:06:55,570 --> 00:06:58,010
->that provoked the secondary attack.
+that provoked the secondary attack.
+对抗其本人挑起的次级致命反击。
 
 191
 00:06:58,010 --> 00:07:00,210
->Now we'll talk about the
-general law of self-defense
+Now we'll talk about the general law of self-defense
+现在我们就来讨论一下自卫的一般条文
 
 192
 00:07:00,210 --> 00:07:02,770
->and whether it applies under
-the factual circumstances
+and whether it applies under the factual circumstances
+在我们即将了解的事情情况下
 
 193
 00:07:02,770 --> 00:07:04,610
->as we know them in a second.
+as we know them in a second.
+是否适用。
 
 194
 00:07:04,610 --> 00:07:07,430
->But first I want to talk about
-the exception of provocation
+But first I want to talk about the exception of provocation
+但是首先我想先讨论一下对于挑衅情况下的特例，
 
 195
 00:07:07,430 --> 00:07:09,220
->because a number of people believe
+because a number of people believe
+因为有很多人坚信
 
 196
 00:07:09,220 --> 00:07:12,350
->that Kyle Rittenhouse provoked
-the attacks themselves,
+that Kyle Rittenhouse provoked the attacks themselves,
+Kyle Rittenhouse挑起了这些冲突而受到攻击，
 
 197
 00:07:12,350 --> 00:07:16,280
->and therefore couldn't use
-the privilege of self-defense.
+and therefore couldn't use the privilege of self-defense.
+所以他不能进行正当防卫的辩护。
 
 198
 00:07:16,280 --> 00:07:18,440
->That by brandishing a firearm
+That by brandishing a firearm
+
 
 199
 00:07:18,440 --> 00:07:20,860
->or placing himself in this situation,
+or placing himself in this situation,
 
 200
 00:07:20,860 --> 00:07:22,010
->he provoked the attack.
+he provoked the attack.
 
 201
 00:07:22,010 --> 00:07:23,430
->Now there's three issues here.
+Now there's three issues here.
 
 202
 00:07:23,430 --> 00:07:25,850
->First, is there unlawful conduct?
+First, is there unlawful conduct?
 
 203
 00:07:25,850 --> 00:07:28,570
