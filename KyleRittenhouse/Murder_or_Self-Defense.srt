@@ -972,7 +972,7 @@ because a number of people believe
 196
 00:07:09,220 --> 00:07:12,350
 that Kyle Rittenhouse provoked the attacks themselves,
-Kyle Rittenhouse挑起了这些冲突而受到攻击，
+Kyle Rittenhouse挑起了这些冲突从而受到攻击，
 
 197
 00:07:12,350 --> 00:07:16,280
@@ -982,680 +982,750 @@ and therefore couldn't use the privilege of self-defense.
 198
 00:07:16,280 --> 00:07:18,440
 That by brandishing a firearm
-
+（你看，）再这样的情形下，他却
 
 199
 00:07:18,440 --> 00:07:20,860
 or placing himself in this situation,
+挎着一把枪晃来晃去,
 
 200
 00:07:20,860 --> 00:07:22,010
 he provoked the attack.
+（很明显，）这种行为挑起了冲突。
 
 201
 00:07:22,010 --> 00:07:23,430
 Now there's three issues here.
+好，这儿有三点需要说明。
 
 202
 00:07:23,430 --> 00:07:25,850
 First, is there unlawful conduct?
+首先，这里有违法行为吗？
 
 203
 00:07:25,850 --> 00:07:28,570
->Did Kyle Rittenhouse
-engage in unlawful conduct
+Did Kyle Rittenhouse engage in unlawful conduct
+Kyle Rittenhouse是否存在挑起冲突的
 
 204
 00:07:28,570 --> 00:07:29,970
->that could constitute provocation
+that could constitute provocation
+违法行为
 
 205
 00:07:29,970 --> 00:07:32,360
->and therefore prevent the
-defense of self-defense?
+and therefore prevent the defense of self-defense?
+而使其无法进行自我防卫？
 
 206
 00:07:32,360 --> 00:07:34,740
->Well, Judge Schroeder granted
-defense motions to dismiss
+Well, Judge Schroeder granted defense motions to dismiss
+嗯，Schroeder法官同意了辩方提出的撤销
 
 207
 00:07:34,740 --> 00:07:36,990
->the two misdemeanor charges
-against Rittenhouse.
+the two misdemeanor charges against Rittenhouse.
+针对Rittenhouse的两项轻罪指控的动议。
 
 208
 00:07:36,990 --> 00:07:38,900
->I think a lot of people
-put too much emphasis
+I think a lot of people put too much emphasis
+我感觉许多人太关注
 
 209
 00:07:38,900 --> 00:07:41,090
->on those lesser included offenses.
+on those lesser included offenses.
+在哪些较轻的罪行上。
 
 210
 00:07:41,090 --> 00:07:42,550
->The charges were for possessing
+The charges were for possessing
+（被撤销的两项指控）分别是
 
 211
 00:07:42,550 --> 00:07:44,050
->a dangerous weapon as a minor,
+a dangerous weapon as a minor,
+未成年携带致命武器
 
 212
 00:07:44,050 --> 00:07:46,150
->and a misdemeanor charge
-for breaking curfew.
+and a misdemeanor charge for breaking curfew.
+以及违反宵禁这一轻罪。
 
 213
 00:07:46,150 --> 00:07:47,790
->And arguably, Wisconsin
-law has an exception
+And arguably, Wisconsin law has an exception
+按理说，Wisconsin州有个例外
 
 214
 00:07:47,790 --> 00:07:49,670
->that allows miners to
-possess shotguns and rifles,
+that allows miners to possess shotguns and rifles,
+即允许未成年携带猎枪和步枪，
 
 215
 00:07:49,670 --> 00:07:51,160
->as long as they're not short barreled.
+as long as they're not short barreled.
+只要这些枪不是短桶的。
 
 216
 00:07:51,160 --> 00:07:53,690
->But more importantly, provocation requires
+But more importantly, provocation requires
+更重要的是，（法律上的）挑衅行为
 
 217
 00:07:53,690 --> 00:07:57,420
->unlawful conduct of a type
-likely to provoke others.
+unlawful conduct of a type likely to provoke others.
+要求是会激怒他人的非法行为。
 
 218
 00:07:57,420 --> 00:08:00,650
->Now, even if those two lesser
-included charges had stuck,
+Now, even if those two lesser included charges had stuck,
+所以，即使那两项轻罪指控保留了下来，
 
 219
 00:08:00,650 --> 00:08:01,790
->they might not have been sufficient
+they might not have been sufficient
+也不足以
 
 220
 00:08:01,790 --> 00:08:03,900
->to rise to the level of provocation.
+to rise to the level of provocation.
+达到“挑衅行为”的标准。
 
 221
 00:08:03,900 --> 00:08:06,460
->Mainly because Wisconsin
-is an open carry state.
+Mainly because Wisconsin is an open carry state.
+主要因为Wisconsin州允许公开携带枪支。
 
 222
 00:08:06,460 --> 00:08:09,450
->Mere open carry of a
-firearm is A, not unlawful.
+Mere open carry of a firearm is A, not unlawful.
+仅仅公开持枪，一不违法，
 
 223
 00:08:09,450 --> 00:08:11,160
->And B, possibly not the type
+And B, possibly not the type
+二也不太可能算是一种
 
 224
 00:08:11,160 --> 00:08:13,160
->likely to lead to provoking others.
+likely to lead to provoking others.
+挑衅他人的行为。
 
 225
 00:08:13,160 --> 00:08:14,730
->Now I'm oversimplifying here.
+Now I'm oversimplifying here.
+接下来，我就简单来说了。
 
 226
 00:08:14,730 --> 00:08:17,630
->This is a highly fact-specific analysis,
+This is a highly fact-specific analysis,
+虽然这是高度基于特定事实的分析，
 
 227
 00:08:17,630 --> 00:08:20,280
->but it's not unreasonable
-that someone might not find
+but it's not unreasonable that someone might not find
+但是有人也会发现（公然）
 
 228
 00:08:20,280 --> 00:08:22,870
->that the gun possession,
-quad gun possession
+that the gun possession, quad gun possession
+持枪（或四管枪）会激怒他人
 
 229
 00:08:22,870 --> 00:08:24,500
->didn't lead to provocation.
+didn't lead to provocation.
+也不是不无道理。
 
 230
 00:08:24,500 --> 00:08:26,700
->Think about it, is it
-the possession of the gun
+Think about it, is it the possession of the gun
+试想一下，究竟是持有枪支
 
 231
 00:08:26,700 --> 00:08:29,000
->that provokes the attack?
+that provokes the attack?
+挑起了冲突，
 
 232
 00:08:29,000 --> 00:08:31,640
->Or is it the possession
-of a gun by a minor
+Or is it the possession of a gun by a minor
+还是未成年持枪，
 
 233
 00:08:31,640 --> 00:08:34,740
->or possession of a gun
-that crossed state lines
+or possession of a gun that crossed state lines
+或者携枪跨越州境
 
 234
 00:08:34,740 --> 00:08:38,470
->that leads to someone provoking an attack?
+that leads to someone provoking an attack?
+引起了冲突的激化呢？
 
 235
 00:08:38,470 --> 00:08:41,040
->If you think it's the former,
-well, that's not illegal.
+If you think it's the former, well, that's not illegal.
+如果你认为是前者，然而那并不违法。
 
 236
 00:08:41,040 --> 00:08:43,500
->And the latter probably
-doesn't provoke an attack.
+And the latter probably doesn't provoke an attack.
+而后者也不太可能会挑起冲突。
 
 237
 00:08:43,500 --> 00:08:46,150
->No one says, oh, the
-reason I'm attacking you
+No one says, oh, the reason I'm attacking you
+没人会说，哦，我攻击你的原因是：
 
 238
 00:08:46,150 --> 00:08:47,880
->is that you're a minor with a firearm,
+is that you're a minor with a firearm,
+你是个持枪的未成年人员，
 
 239
 00:08:47,880 --> 00:08:50,870
->not that you're carrying a
-firearm in the first place.
+not that you're carrying a firearm in the first place.
+而不是因为你持枪这个行为。
 
 240
 00:08:50,870 --> 00:08:52,720
->And additionally, breaking curfew
+And additionally, breaking curfew
+并且违反宵禁
 
 241
 00:08:52,720 --> 00:08:54,790
->probably couldn't be
-the requisite predicate
+probably couldn't be the requisite predicate
+也不可能是挑起冲突的前提
 
 242
 00:08:54,790 --> 00:08:56,910
->because lots of people
-were breaking curfew
+because lots of people were breaking curfew
+因为许多人都违反了宵禁但并没有
 
 243
 00:08:56,910 --> 00:08:59,660
->and it wasn't leading to mass provocation.
+and it wasn't leading to mass provocation.
+引起大规模的冲突激化。
 
 244
 00:08:59,660 --> 00:09:01,730
->Now, it's a closer call when
-you consider Rittenhouse
+Now, it's a closer call when you consider Rittenhouse
+当你认为Rittenhouse
 
 245
 00:09:01,730 --> 00:09:03,820
->admitted that he pointed
-his gun at the victims
+admitted that he pointed his gun at the victims
+承认他举着枪瞄准了受害者
 
 246
 00:09:03,820 --> 00:09:05,880
->and claimed that when
-he was pointing his gun,
+and claimed that when he was pointing his gun,
+并且声称他拿枪对准他人不算是一种
 
 247
 00:09:05,880 --> 00:09:07,770
->it wasn't a dangerous provocation.
+it wasn't a dangerous provocation.
+危险的挑衅，这种想法就更不太好说过去了。
 
 248
 00:09:07,770 --> 00:09:09,900
->Now you could argue that
-pointing your gun at someone
+Now you could argue that pointing your gun at someone
+你也许会争论拿枪对准他人
 
 249
 00:09:09,900 --> 00:09:12,050
->is assault or misuse of a firearm,
+is assault or misuse of a firearm,
+就是一种攻击或者不当的使用武器，
 
 250
 00:09:12,050 --> 00:09:13,450
->but that probably doesn't work
+but that probably doesn't work
+但这种说法也可能说不过去，
 
 251
 00:09:13,450 --> 00:09:15,180
->if the reason that you're pointing the gun
+if the reason that you're pointing the gun
+如果拿枪对准
 
 252
 00:09:15,180 --> 00:09:16,340
->at someone in the first place
+at someone in the first place
+他人的最初原因
 
 253
 00:09:16,340 --> 00:09:17,930
->is for the purposes of self-defense.
+is for the purposes of self-defense.
+是为了自卫反击。
 
 254
 00:09:17,930 --> 00:09:21,350
->And in fact, there are
-Wisconsin cases to this effect.
+And in fact, there are Wisconsin cases to this effect.
+事实上，Wisconsin对此类案件是有过先例的。
 
 255
 00:09:21,350 --> 00:09:22,440
->Though, on the other other hand,
+Though, on the other other hand,
+而另一方面，
 
 256
 00:09:22,440 --> 00:09:24,060
->Wisconsin courts have
-an interesting history
+Wisconsin courts have an interesting history
+Wisconsin州法院在分析（自卫中）的挑衅例外
 
 257
 00:09:24,060 --> 00:09:25,850
->in analyzing the provocation exception.
+in analyzing the provocation exception.
+时，有个有意思的先例。
 
 258
 00:09:25,850 --> 00:09:29,050
->For example, in a 1975
-Wisconsin Supreme Court case,
+For example, in a 1975 Wisconsin Supreme Court case,
+例如一起1975年Wisconsin高等法院的案件：
 
 259
 00:09:29,050 --> 00:09:31,020
->the court held that the
-defendant was a provocateur
+the court held that the defendant was a provocateur
+（这起案件中，）因被告公然将一把枪带回客栈
 
 260
 00:09:31,020 --> 00:09:33,780
->by virtue of openly bringing
-a gun into a tavern.
+by virtue of openly bringing a gun into a tavern.
+法庭于是认定被告的“挑衅行为”成立。
 
 261
 00:09:33,780 --> 00:09:35,497
->The Wisconsin Supreme Court held quote,
+The Wisconsin Supreme Court held quote,
+Wisconsin高等法院的记录如下：
 
 262
 00:09:35,497 --> 00:09:37,770
->"the defendant himself testified
-that after being slapped,
+"the defendant himself testified that after being slapped,
+“被告本人供认在被扇了耳光之后，
 
 263
 00:09:37,770 --> 00:09:39,590
->he went out to his car, got his shotgun,
+he went out to his car, got his shotgun,
+他跑到车内，取出手枪，
 
 264
 00:09:39,590 --> 00:09:41,460
->loaded it and returned to the tavern.
+loaded it and returned to the tavern.
+上了膛并返回客栈。
 
 265
 00:09:41,460 --> 00:09:42,930
->As he was entering the tavern,
+As he was entering the tavern,
+在他进入客栈时，
 
 266
 00:09:42,930 --> 00:09:44,930
->he was grabbed from the side by someone
+he was grabbed from the side by someone
+他被人从侧面抓住
 
 267
 00:09:44,930 --> 00:09:46,690
->and he pushed that person away.
+and he pushed that person away.
+并且他推开了那个人。
 
 268
 00:09:46,690 --> 00:09:48,140
->He saw Freddy Jones start toward him
+He saw Freddy Jones start toward him
+他看到了Freddy Jones面向他
 
 269
 00:09:48,140 --> 00:09:49,090
->and he started shooting.
+and he started shooting.
+并开枪射击。
 
 270
 00:09:49,090 --> 00:09:50,270
->He stopped after four shots
+He stopped after four shots
+他连发了四枪，并在
 
 271
 00:09:50,270 --> 00:09:51,450
->and after Jones was out of sight.
+and after Jones was out of sight.
+Jones逃跑了之后停了下来。”
 
 272
 00:09:51,450 --> 00:09:52,670
->The defendant requests that the court
+The defendant requests that the court
+被告方请求法院
 
 273
 00:09:52,670 --> 00:09:54,730
->grant him a new trial in
-the interest of justice.
+grant him a new trial in the interest of justice.
+为了正义而准许再次审判。
 
 274
 00:09:54,730 --> 00:09:56,600
->We find no merit to this contention.
+We find no merit to this contention.
+我们发现没有这个必要
 
 275
 00:09:56,600 --> 00:09:58,120
->When the defendant left the tavern,
+When the defendant left the tavern,
+当被告离开了客栈，
 
 276
 00:09:58,120 --> 00:09:59,390
->got his shotgun out of the trunk,
+got his shotgun out of the trunk,
+从车中取出枪支，
 
 277
 00:09:59,390 --> 00:10:01,190
->loaded it and returned to the tavern,
+loaded it and returned to the tavern,
+上膛并返回客栈，
 
 278
 00:10:01,190 --> 00:10:02,910
->he became the provoker.
+he became the provoker."
+他此时成了一名挑衅者。”
 
 279
 00:10:02,910 --> 00:10:04,270
->Additionally, there is an 1883
+Additionally, there is an 1883
+此外，还有一起1883年
 
 280
 00:10:04,270 --> 00:10:05,920
->Wisconsin Supreme Court case that says,
+Wisconsin Supreme Court case that says,
+Wisconsin州高等法院的案例声明：
 
 281
 00:10:05,920 --> 00:10:08,540
->quote, "if one points a
-loaded gun at another,
+quote, "if one points a loaded gun at another,
+“如果一个人将一把上膛的枪对准他人，
 
 282
 00:10:08,540 --> 00:10:10,950
->and the other grapples with
-him to prevent the shooting
+and the other grapples with him to prevent the shooting
+第三人与其发生扯拽并试图阻止其开枪，
 
 283
 00:10:10,950 --> 00:10:12,810
->and is shot, it is murder."
+and is shot, it is murder."
+并且他还是开枪了，这就是谋杀。”
 
 284
 00:10:12,810 --> 00:10:13,910
->And this is especially important
+And this is especially important
+这一点在本案Rittenhouse开枪
 
 285
 00:10:13,910 --> 00:10:16,210
->in the context of the
-Rittenhouse shooting.
+in the context of the Rittenhouse shooting.
+的背景下尤其重要。
 
 286
 00:10:16,210 --> 00:10:18,180
->Even Rittenhouse's
-testimony seems to indicate
+Even Rittenhouse's testimony seems to indicate
+即使Rittenhouse的证词似乎表达了
 
 287
 00:10:18,180 --> 00:10:21,050
->that Rosenbaum didn't lunge at Rittenhouse
+that Rosenbaum didn't lunge at Rittenhouse
+在他将枪瞄准Rosenbaum之前，Rosenbaum并
 
 288
 00:10:21,050 --> 00:10:23,410
->until he raised his gun at Rosenbaum.
+until he raised his gun at Rosenbaum.
+没有朝他扑来。
 
 289
 00:10:23,410 --> 00:10:25,810
->And that the reason, or at
-least one of the reasons
+And that the reason, or at least one of the reasons
+而Kyle Rittenhouse射击Rosenbaum 
 
 290
 00:10:25,810 --> 00:10:28,450
->that Kyle Rittenhouse shot
-Rosenbaum is that he feared
+that Kyle Rittenhouse shot Rosenbaum is that he feared
+的原因（至少原因之一）是他担心
 
 291
 00:10:28,450 --> 00:10:30,090
->that Rosenbaum would take his gun away
+that Rosenbaum would take his gun away
+Rosenbaum会夺走他手里的枪
 
 292
 00:10:30,090 --> 00:10:31,540
->and use it against him.
+and use it against him.
+并用来对付他。
 
 293
 00:10:31,540 --> 00:10:33,060
->And we'll talk about that in a second.
+And we'll talk about that in a second.
+我们接下来就讨论这一点。
 
 294
 00:10:33,060 --> 00:10:35,540
->And obviously, you'd have to
-run a provocation analysis
+And obviously, you'd have to run a provocation analysis
+很显然，本案中每处Kyle Rittenhouse开枪的地方
 
 295
 00:10:35,540 --> 00:10:38,900
->in every instance where Kyle
-Rittenhouse used deadly force.
+in every instance where Kyle Rittenhouse used deadly force.
+都要进行挑衅分析。
 
 296
 00:10:38,900 --> 00:10:40,510
->It's not a one size fits all.
+It's not a one size fits all.
+仅仅分析一次无法适用所有情形。
 
 297
 00:10:40,510 --> 00:10:42,550
->You have to look at every
-instance individually.
+You have to look at every instance individually.
+你必须单独拆开来分析每一种情形。
 
 298
 00:10:42,550 --> 00:10:43,750
->And if the jury had found that there was
+And if the jury had found that there was
+如果陪审团已经发现
 
 299
 00:10:43,750 --> 00:10:45,720
->nothing unlawful that led to provocation,
+nothing unlawful that led to provocation,
+无任何非法行为或者
 
 300
 00:10:45,720 --> 00:10:47,800
->or if there were illegal things going on,
+or if there were illegal things going on,
+即使有非法行为
 
 301
 00:10:47,800 --> 00:10:50,430
->those weren't the ones that
-were leading to the provocation,
+those weren't the ones that were leading to the provocation,
+但并不是引起挑衅情形的行为，
 
 302
 00:10:50,430 --> 00:10:51,870
->their analysis to this exception
+their analysis to this exception
+那他们对（自卫中）挑衅情形的分析
 
 303
 00:10:51,870 --> 00:10:52,850
->probably would have ended there.
+probably would have ended there.
+也就到此为止了。
 
 304
 00:10:52,850 --> 00:10:55,180
->And they would have found
-that provocation didn't apply.
+And they would have found that provocation didn't apply.
+这样他们也就发现“挑衅行为”并不成立。
 
 305
 00:10:55,180 --> 00:10:56,910
->It's only where there is provocation
+It's only where there is provocation
+仅当挑衅行为存在时，
 
 306
 00:10:56,910 --> 00:10:58,160
->do we get to the next questions.
+do we get to the next questions.
+我们才需要继续分析下面的问题。
 
 307
 00:10:58,160 --> 00:11:01,550
->But, assuming that that
-first hurdle had been met,
+But, assuming that that first hurdle had been met,
+但是我们假定第一步条满足了，
 
 308
 00:11:01,550 --> 00:11:03,700
->you'd get to the next
-one, imminent danger.
+you'd get to the next one, imminent danger.
+那接下来你就要分析“迫在眉睫的风险”这一点了。
 
 309
 00:11:03,700 --> 00:11:05,690
->Even when someone provokes an attack,
+Even when someone provokes an attack,
+即使一个人挑起了冲突，
 
 310
 00:11:05,690 --> 00:11:07,930
->they can regain the
-right to use deadly force
+they can regain the right to use deadly force
+当他合理的认为他即将遭遇生命死亡
 
 311
 00:11:07,930 --> 00:11:09,920
->where that person
-reasonably believes that he
+where that person reasonably believes that he
+或重大人身伤害，他也可以
 
 312
 00:11:09,920 --> 00:11:12,510
->is in imminent danger of
-death or great bodily harm.
+is in imminent danger of death or great bodily harm.
+重新具有使用致命武器的权利
 
 313
 00:11:12,510 --> 00:11:15,010
->And he may lawfully act in self-defense.
+And he may lawfully act in self-defense.
+并合法的进行自卫反击。
 
 314
 00:11:15,010 --> 00:11:16,970
->Since this is essentially
-the same standard
+Since this is essentially the same standard
+由于本质上这种自卫
 
 315
 00:11:16,970 --> 00:11:18,830
->as self-defense in the first instance,
+as self-defense in the first instance,
+和原先的自卫有相同的标准，
 
 316
 00:11:18,830 --> 00:11:20,400
->given that the jury must have thought
+given that the jury must have thought
+鉴于陪审团一定认为
 
 317
 00:11:20,400 --> 00:11:22,700
->Kyle Rittenhouse acted in self-defense,
+Kyle Rittenhouse acted in self-defense,
+Kyle Rittenhouse在进行正当防卫，
 
 318
 00:11:22,700 --> 00:11:24,450
->they probably would have
-found that this exception
+they probably would have found that this exception
+即使他们来分析这个问题，
 
 319
 00:11:24,450 --> 00:11:26,760
->to the exception, to
-the exception applied,
+to the exception, to the exception applied,
+那么很可能也会发现这种例外中的例外情形
 
 320
 00:11:26,760 --> 00:11:28,240
->even if they got to this question.
+even if they got to this question.
+也是适用的。
 
 321
 00:11:28,240 --> 00:11:32,780
->And so if they got over
-those two first hurdles,
+And so if they got over those two first hurdles,
+所以如果他们跨过了这两道坎，
 
 322
 00:11:32,780 --> 00:11:34,930
->they then would have had to
-get over the third hurdle,
+they then would have had to get over the third hurdle,
+他们还将必须跨域第三道坎：
 
 323
 00:11:34,930 --> 00:11:37,330
->which is the duty to retreat.
+which is the duty to retreat.
+逃跑义务。
 
 324
 00:11:37,330 --> 00:11:39,450
->That's the final issue in terms of
+That's the final issue in terms of
+假定前两个条件都满足了，
 
 325
 00:11:39,450 --> 00:11:41,470
->whether provocation can apply,
+whether provocation can apply,
+那么是否挑衅情形成立就取决于
 
 326
 00:11:41,470 --> 00:11:43,130
->assuming the first two hurdles are met.
+assuming the first two hurdles are met.
+这最后的一个问题。
 
 327
 00:11:43,130 --> 00:11:44,430
->The third clause says that the person
+The third clause says that the person
+这第三条款说挑起冲突的人
 
 328
 00:11:44,430 --> 00:11:48,000
->who provokes the attack
-cannot use or threaten force,
+who provokes the attack cannot use or threaten force,
+不能使用或威胁使用暴力，
 
 329
 00:11:48,000 --> 00:11:49,700
->unless he believes that he has exhausted
+unless he believes that he has exhausted
+除非他认为他已经
 
 330
 00:11:49,700 --> 00:11:51,240
->all other opportunities to escape.
+all other opportunities to escape.
+穷尽了所有其他逃生的可能。
 
 331
 00:11:51,240 --> 00:11:52,850
->If the jury got to this question,
+If the jury got to this question,
+如果陪审团真要考虑这个问题，
 
 332
 00:11:52,850 --> 00:11:54,380
->they could have felt that he had no choice
+they could have felt that he had no choice
+他们可能已经感觉到在那样的情形下
 
 333
 00:11:54,380 --> 00:11:56,750
->under the circumstances, we don't know.
+under the circumstances, we don't know.
+他别无选择，当然我们不知道。
 
 334
 00:11:56,750 --> 00:11:58,590
->And one of the prior
-issues might have precluded
+And one of the prior issues might have precluded
 
 335
 00:11:58,590 --> 00:11:59,740
->even getting to this question.
+even getting to this question.
 
 336
 00:11:59,740 --> 00:12:01,460
->But if the jury did reach this question,
+But if the jury did reach this question,
 
 337
 00:12:01,460 --> 00:12:03,330
->then they felt that Kyle Rittenhouse
+then they felt that Kyle Rittenhouse
 
 338
 00:12:03,330 --> 00:12:04,882
->either had no opportunity to escape
+either had no opportunity to escape
 
 339
 00:12:04,882 --> 00:12:07,620
->or had exhausted all
-of those opportunities.
+or had exhausted all of those opportunities.
 
 340
 00:12:07,620 --> 00:12:09,710
->If that's the case, whether Wisconsin had
+If that's the case, whether Wisconsin had
 
 341
 00:12:09,710 --> 00:12:11,940
->a general duty to retreat
-might not have changed
+a general duty to retreat might not have changed
 
 342
 00:12:11,940 --> 00:12:13,460
->the overall outcome here anyway.
+the overall outcome here anyway.
 
 343
 00:12:13,460 --> 00:12:16,000
->Anyone who says that this is
-a simple case of self-defense
+Anyone who says that this is a simple case of self-defense
 
 344
 00:12:16,000 --> 00:12:18,780
->or that it's cut and
-dry is definitely wrong.
+or that it's cut and dry is definitely wrong.
 
 345
 00:12:18,780 --> 00:12:20,940
->But so far, we've talked
-about the exception
+But so far, we've talked about the exception
 
 346
 00:12:20,940 --> 00:12:23,030
->to the exception, that is provocation.
+to the exception, that is provocation.
 
 347
 00:12:23,030 --> 00:12:25,590
->Let's now talk about whether
-the original exception,
+Let's now talk about whether the original exception,
 
 348
 00:12:25,590 --> 00:12:28,560
->self-defense, applied or
-could reasonably have applied
+self-defense, applied or could reasonably have applied
 
 349
 00:12:28,560 --> 00:12:30,330
->in this particular case.
+in this particular case.
 
 350
 00:12:30,330 --> 00:12:32,960
->Let's talk about the facts as
-we know them from the trial.
+Let's talk about the facts as we know them from the trial.
 
 351
 00:12:32,960 --> 00:12:34,660
