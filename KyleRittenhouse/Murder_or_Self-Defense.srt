@@ -2503,58 +2503,72 @@ And there are of course, larger social issues here as well.
 502
 00:17:50,900 --> 00:17:52,820
 Many have claimed that it would have been impossible
+许多人说如果是一个黑人
 
 503
 00:17:52,820 --> 00:17:54,750
 for a black person to kill two people,
+连开四抢杀了两个人并伤了一人
 
 504
 00:17:54,750 --> 00:17:56,900
 injured a third and fire at a fourth
+那么他一定不可能
 
 505
 00:17:56,900 --> 00:17:59,980
-and live to walk away from the scene as Rittenhouse did.
+and live to walk away from the scene as Rittenhouse did,
+像Rittenhouse这样走出法庭,
 
 506
 00:17:59,980 --> 00:18:02,430
 And then of course, to be found, not guilty.
+一定会被判有罪。
 
 507
 00:18:02,430 --> 00:18:05,520
 And we can probably evaluate whether this is true or not.
+那我们来评估一下这样说对不对。
 
 508
 00:18:05,520 --> 00:18:07,210
 One way to look at this is by studying the data
+一个途径是我们来研究一下
 
 509
 00:18:07,210 --> 00:18:09,670
 on how jury's perceive self-defense.
+陪审团是如何判定自卫的相关数据的。
 
 510
 00:18:09,670 --> 00:18:11,560
 a study by John Roman found that homicides
+John Roman的一份研究指出
 
 511
 00:18:11,560 --> 00:18:13,460
 with a white perpetrator and a black victim
+白人杀害黑人
 
 512
 00:18:13,460 --> 00:18:16,160
 are 10 times more likely to be ruled justified
+被判无罪的案件数量
 
 513
 00:18:16,160 --> 00:18:18,700
 than cases with a black perpetrator and a white victim.
+是黑人杀害白人的10倍
 
 514
 00:18:18,700 --> 00:18:21,520
 And the gap is larger in states with stand your ground laws.
+并且在有“不退让法”的州，这个差距更大。
 
 515
 00:18:21,520 --> 00:18:23,940
 And after accounting for a variety of confounding factors,
+再算上一些混杂的因素，比如被害人和施害者是否认识等，
 
 516
 00:18:23,940 --> 00:18:26,130
@@ -2563,707 +2577,814 @@ such as whether the victim and perpetrator were strangers,
 517
 00:18:26,130 --> 00:18:27,920
 the gap is smaller, but still significant.
+（虽然）这个差距会变小一点，但依然很大。
 
 518
 00:18:27,920 --> 00:18:30,150
 Cases with a white perpetrator and black victim
+白人杀害黑人
 
 519
 00:18:30,150 --> 00:18:33,140
 are 281% more likely to be ruled justified
+与黑人杀害白人相比，
 
 520
 00:18:33,140 --> 00:18:35,900
 than cases with a black perpetrator and white victim.
+前者有281%的概率被判定为合法。
 
 521
 00:18:35,900 --> 00:18:39,310
 But systemic issues like that weren't on trial here.
+但像这种系统性问题不会被法庭审判。
 
 522
 00:18:39,310 --> 00:18:41,490
 You don't adjudicate those kinds of systemic issues
+你不会在一个单独的刑事法庭
 
 523
 00:18:41,490 --> 00:18:44,450
 in a criminal court of one individual.
+上裁定那种系统性问题。
 
 524
 00:18:44,450 --> 00:18:46,000
 The issue is whether Kyle Rittenhouse
+（法庭审判的是）Kyle Rittenhouse
 
 525
 00:18:46,000 --> 00:18:48,290
 engaged in self-defense or more specifically,
+的行为是否是正当防卫，或者更确切的说，
 
 526
 00:18:48,290 --> 00:18:50,860
 whether the prosecution disproved the possibility
+控方是否能证明他不具备
 
 527
 00:18:50,860 --> 00:18:53,080
 that he used self-defense.
+自卫的任何可能。
 
 528
 00:18:53,080 --> 00:18:55,520
 And for what it's worth, there are lots of people
+无论如何，还是有许多人
 
 529
 00:18:55,520 --> 00:18:57,090
 who think that Kyle Rittenhouse's actions
+认为Kyle Rittenhouse的行为
 
 530
 00:18:57,090 --> 00:18:58,410
 were not self-defense.
+不是正当防卫。
 
 531
 00:18:58,410 --> 00:19:00,710
 There are lots of other reasonable people
+（同时，也）有很多理智的人
 
 532
 00:19:00,710 --> 00:19:03,310
 who think that Kyle Rittenhouse's actions were self-defense.
+认为Kyle Rittenhouse的行为是正当防卫。
 
 533
 00:19:03,310 --> 00:19:06,440
 Now I doubt all of those people in both of those groups
+我怀疑两方的人是否像Kenosha的陪审团那样
 
 534
 00:19:06,440 --> 00:19:08,610
 watched 100% of the trial then spent days
+全程100%观看了法庭审判，
 
 535
 00:19:08,610 --> 00:19:09,910
 pouring over the jury instructions
+然后花费几天的时间
 
 536
 00:19:09,910 --> 00:19:11,420
 like the Kenosha jury did.
+思考拿到的陪审团法律指引。
 
 537
 00:19:11,420 --> 00:19:13,910
 But the thing is, if reasonable people
+问题是，如果一些理智的人
 
 538
 00:19:13,910 --> 00:19:16,220
 really could conclude that this was self-defense,
+真的能得出正当防卫的结论，
 
 539
 00:19:16,220 --> 00:19:17,420
 then it means that the prosecution
+那么这就意味着控方
 
 540
 00:19:17,420 --> 00:19:20,429
 didn't prove self-defense beyond a reasonable doubt.
+未能以“排除合理怀疑”的标准证明这不是正当防卫。
 
 541
 00:19:20,429 --> 00:19:22,300
 That's the definition of reasonable doubt.
+这算是合理怀疑的含义。
 
 542
 00:19:22,300 --> 00:19:24,250
 Now that being said, an acquittal doesn't mean
+话虽如此，Kyle Rittenhouse未被定罪但并不意味着
 
 543
 00:19:24,250 --> 00:19:26,070
 that Kyle Rittenhouse didn't do it.
+他没有做这件事。
 
 544
 00:19:26,070 --> 00:19:29,110
 It doesn't mean that what Kyle Rittenhouse did was right.
+（同时，）也并不意味着Kyle Rittenhouse这样做就是对的。
 
 545
 00:19:29,110 --> 00:19:31,614
 And the pathology of Kyle Rittenhouse's
+而关于Kyle Rittenhouse圣徒言行的
 
 546
 00:19:31,614 --> 00:19:33,620
 hagiography is another issue entirely.
+反常完全是另外一个问题了。
 
 547
 00:19:33,620 --> 00:19:36,460
 And it certainly doesn't mean that he did nothing wrong.
+当然，这也并不意味着他什么都没做错。
 
 548
 00:19:36,460 --> 00:19:37,403
 It just means the jury didn't think
+只能说明控方并未
 
 549
 00:19:37,403 --> 00:19:39,250
 that the prosecution proved self-defense
+以“排除合理怀疑”的标准使陪审团
 
 550
 00:19:39,250 --> 00:19:40,310
 beyond a reasonable doubt.
+认为正当防卫不成立。
 
 551
 00:19:40,310 --> 00:19:41,940
 And while you can't necessarily infer it
+尽管你不一定能从陪审团的决定就
 
 552
 00:19:41,940 --> 00:19:44,040
 from the jury's decision, it might be the case
+推断出上面的结论，但这可以说明
 
 553
 00:19:44,040 --> 00:19:47,570
 that Kyle Rittenhouse did nothing legally wrong.
+在法律上Kyle Rittenhouse并没有做错什么。
 
 554
 00:19:47,570 --> 00:19:49,600
->But under the most favorable
-interpretations of the facts,
+But under the most favorable interpretations of the facts,
+但是对事实做最有利的解释，
 
 555
 00:19:49,600 --> 00:19:51,980
 Kyle Rittenhouse brought gasoline to a match party
+Kyle Rittenhouse带着汽油去参加火柴派对
 
 556
 00:19:51,980 --> 00:19:53,650
 and people are now dead as a result.
+结果是人全死了。
 
 557
 00:19:53,650 --> 00:19:55,150
 He made a bad situation worse.
+他的行为使不好的的情形变的更糟。
 
 558
 00:19:55,150 --> 00:19:57,250
 And let's face it, if someone uses non-deadly force
+就事实来说，如果有人使用非致命武器
 
 559
 00:19:57,250 --> 00:19:58,900
 against you while you are carrying a gun,
+挑衅身上带枪的你，
 
 560
 00:19:58,900 --> 00:20:00,730
 it's more likely to turn deadly.
+结果是很可能对方丧命。
 
 561
 00:20:00,730 --> 00:20:03,250
 Rosenbaum, jump-kick man and arguably, Huber,
+Rosenbaum, jump-kick man和有些争议的Huber
 
 562
 00:20:03,250 --> 00:20:05,290
-used non-deadly force.
+used non-deadly force,
+使用的是非致命武器,
 
 563
 00:20:05,290 --> 00:20:06,650
-Which would not in the abstract
+which would not in the abstract
+理论上这种武器让人有理由相信
 
 564
 00:20:06,650 --> 00:20:08,910
-trigger a reasonable belief of imminent harm.
+trigger a reasonable belief of imminent harm,
+不会带来立即的伤害，
 
 565
 00:20:08,910 --> 00:20:10,270
-Which is not to say that unarmed people
+which is not to say that unarmed people
+当然，这也不是说没带武器的人
 
 566
 00:20:10,270 --> 00:20:13,330
 can't exercise deadly force or create a reasonable belief
+就不能致人死地或者造成明显的
 
 567
 00:20:13,330 --> 00:20:16,260
->of eminent, deadly harm,
-they absolutely can.
+of eminent, deadly harm,they absolutely can.
+致命伤害，他们绝对可以。
 
 568
 00:20:16,260 --> 00:20:17,570
->Indeed, it appears that the jury
+Indeed, it appears that the jury
+事实上看起来陪审团
 
 569
 00:20:17,570 --> 00:20:19,550
->believed Rittenhouse's testimony
+believed Rittenhouse's testimony
+采信了Rittenhouse的证词：
 
 570
 00:20:19,550 --> 00:20:21,290
->that they were going for his gun
+that they were going for his gun
+他们看准了他的抢，
 
 571
 00:20:21,290 --> 00:20:23,940
->or grabbed his gun in an
-attempt to take his gun
+or grabbed his gun in an attempt to take his gun
+或者要抓住他的抢夺过来
 
 572
 00:20:23,940 --> 00:20:25,520
->and use it against him.
+and use it against him.
+并对付他。
 
 573
 00:20:25,520 --> 00:20:28,630
->And in a huge stretch, in
-Rittenhouse's speculation,
+And in a huge stretch, in Rittenhouse's speculation,
+并且就Rittenhouse的更广泛的推测而言，
 
 574
 00:20:28,630 --> 00:20:31,470
->take his gun and use it against others.
+take his gun and use it against others.
+他们夺了他的抢之后还会危及其他人。
 
 575
 00:20:31,470 --> 00:20:34,140
->Now, those arguing that,
-but for Kyle Rittenhouse,
+Now, those arguing that, but for Kyle Rittenhouse,
+那些认为要不是Kyle Rittenhouse
 
 576
 00:20:34,140 --> 00:20:35,250
->being present with his gun,
+being present with his gun,
+带着枪来
 
 577
 00:20:35,250 --> 00:20:37,590
->these shootings wouldn't
-have happened are right.
+these shootings wouldn't have happened are right.
+枪击也不会发生的想法是对的。
 
 578
 00:20:37,590 --> 00:20:39,350
->However, but for causation,
+However, but for causation,
+然而，这种“要不是”的因果问题，
 
 579
 00:20:39,350 --> 00:20:41,850
->or what we call sine qua non causation,
+or what we call sine qua non causation,
+或者我们称其为必要条件，
 
 580
 00:20:41,850 --> 00:20:43,440
->it doesn't rise to the level of guilt
+it doesn't rise to the level of guilt
+根本达不到“超出合理怀疑”
 
 581
 00:20:43,440 --> 00:20:44,660
->beyond a reasonable doubt.
+beyond a reasonable doubt.
+判其有罪的水平。
 
 582
 00:20:44,660 --> 00:20:47,780
->It's necessary for a conviction,
-but it's not sufficient.
+It's necessary for a conviction, but it's not sufficient.
+对犯罪行为是必要，但不是充分的。
 
 583
 00:20:47,780 --> 00:20:49,597
->Now I've seen lots of people say, quote,
+Now I've seen lots of people say, quote,
+我看到过很多人说：
 
 584
 00:20:49,597 --> 00:20:52,490
->"the jury reached the right verdict."
+"the jury reached the right verdict."
+“陪审团作出了正确的裁决。”
 
 585
 00:20:52,490 --> 00:20:53,930
->Now there is a strong version
+Now there is a strong version
+对于这个表述有一个强版本
 
 586
 00:20:53,930 --> 00:20:55,530
->and a weak version of that statement.
+and a weak version of that statement.
+和弱版本。
 
 587
 00:20:55,530 --> 00:20:57,620
->The weak version is that
-the jury was correct
+The weak version is that the jury was correct
+弱版本是说陪审团对Kyle Rittenhouse
 
 588
 00:20:57,620 --> 00:20:59,190
->to find that there was reasonable doubt
+to find that there was reasonable doubt
+不是在进行自卫的说法
 
 589
 00:20:59,190 --> 00:21:01,830
->that Kyle Rittenhouse
-didn't use self-defense.
+that Kyle Rittenhouse didn't use self-defense.
+持有一些些合理的怀疑。
 
 590
 00:21:01,830 --> 00:21:03,800
->However, the strong
-version is that the jury
+However, the strong version is that the jury
+而强版本则说陪审团
 
 591
 00:21:03,800 --> 00:21:06,450
->proactively found him
-innocent or even a hero.
+proactively found him innocent or even a hero.
+毫无怀疑的认定他是无辜的，甚至是一名英雄。
 
 592
 00:21:06,450 --> 00:21:08,290
->But assuming we're going
-with the weak version,
+But assuming we're going with the weak version,
+设想我们采用弱版本的说法，
 
 593
 00:21:08,290 --> 00:21:10,070
->it's entirely possible
-that the jury verdict
+it's entirely possible that the jury verdict
+那么陪审团完全可能是
 
 594
 00:21:10,070 --> 00:21:12,360
->accurately reflects the law of Wisconsin.
+accurately reflects the law of Wisconsin.
+准确的遵照Wisconsin州的法律作出的裁决。
 
 595
 00:21:12,360 --> 00:21:14,550
->I've never seen a
-politician run on a platform
+I've never seen a politician run on a platform
+我从来没见过一个政客
 
 596
 00:21:14,550 --> 00:21:17,050
->of installing a duty
-to retreat in the law.
+of installing a duty to retreat in the law.
+要给法律加上逃跑义务。
 
 597
 00:21:17,050 --> 00:21:18,580
->If Wisconsin had a duty to retreat,
+If Wisconsin had a duty to retreat,
+如果Wisconsin规定了逃跑义务，
 
 598
 00:21:18,580 --> 00:21:19,430
->the outcome of this case,
+the outcome of this case,
+那么此案的结果
 
 599
 00:21:19,430 --> 00:21:20,800
->very well might've been different.
+very well might've been different.
+非常有可能就不一样了。
 
 600
 00:21:20,800 --> 00:21:23,210
->Stated differently, if this
-had occurred in Massachusetts,
+Stated differently, if this had occurred in Massachusetts,
+换句话说，如果此案发生的Massachusetts州，
 
 601
 00:21:23,210 --> 00:21:25,090
->the law could have militated
-a different result.
+the law could have militated a different result.
+该州的法律可能产生不同的结果。
 
 602
 00:21:25,090 --> 00:21:27,270
->Though, admittedly, maybe reasonable minds
+Though, admittedly, maybe reasonable minds
+然而还是得承认，到时理智的人们
 
 603
 00:21:27,270 --> 00:21:28,570
->might differ on that as well.
+might differ on that as well.
+对此案也会产生分歧。
 
 604
 00:21:28,570 --> 00:21:30,250
->Maybe Kyle Rittenhouse retreated
+Maybe Kyle Rittenhouse retreated
+也许Kyle Rittenhouse穷尽了
 
 605
 00:21:30,250 --> 00:21:31,970
->at every possible opportunity.
+at every possible opportunity.
+所有可能逃生的机会。
 
 606
 00:21:31,970 --> 00:21:34,850
->But I will leave it to you and
-by proxy, your politicians,
+But I will leave it to you and by proxy, your politicians,
+那这（添加逃跑义务）究竟是好还是坏，我就
 
 607
 00:21:34,850 --> 00:21:37,560
->as to whether that is a
-good thing or a bad thing.
+as to whether that is a good thing or a bad thing.
+留给你和代理你的政客决定吧。
 
 608
 00:21:37,560 --> 00:21:39,030
->Though, I'll point out that for those
+Though, I'll point out that for those
+然而，我要指出对于那些
 
 609
 00:21:39,030 --> 00:21:41,260
->that are happy that Kyle
-Rittenhouse was found not guilty,
+that are happy that Kyle Rittenhouse was found not guilty,
+乐见Kyle Rittenhouse无罪的人，
 
 610
 00:21:41,260 --> 00:21:43,200
->they should recognize that logically,
+they should recognize that logically,
+他们应该意识到，逻辑上讲，
 
 611
 00:21:43,200 --> 00:21:45,340
->they should also be in favor
-of an alternate reality
+they should also be in favor of an alternate reality
+他们也乐见另外一种事实的发生：
 
 612
 00:21:45,340 --> 00:21:48,570
->where Gaige Grosskreutz shot
-and killed Kyle Rittenhouse.
-
+where Gaige Grosskreutz shot and killed Kyle Rittenhouse.
+Gaige Grosskreutz用枪射杀了Kyle Rittenhouse。
 613
 00:21:48,570 --> 00:21:49,403
->And remember, if you think that
+And remember, if you think that
+记住，如果你认为
 
 614
 00:21:49,403 --> 00:21:51,330
->Rosenbaum, Huber or Grosskreutz
+Rosenbaum, Huber or Grosskreutz
+Rosenbaum, Huber或者Grosskreutz
 
 615
 00:21:51,330 --> 00:21:53,716
->all provoked a response
-from Kyle Rittenhouse,
+all provoked a response from Kyle Rittenhouse,
+挑衅了Kyle Rittenhouse而致使
 
 616
 00:21:53,716 --> 00:21:55,200
->Rittenhouse's use of deadly force
+Rittenhouse's use of deadly force
+Rittenhouse使用了致命武器，
 
 617
 00:21:55,200 --> 00:21:58,380
->probably gave them the right
-to use deadly force right back
+probably gave them the right to use deadly force right back
+那么在相同的法律下，这也给了他们三人使用
 
 618
 00:21:58,380 --> 00:21:59,610
->under the same laws.
+under the same laws.
+致命武器回击的权利。
 
 619
 00:21:59,610 --> 00:22:02,300
->Under current Wisconsin
-law, if Kyle Rittenhouse
+Under current Wisconsin law, if Kyle Rittenhouse
+在Wisconsin当前的法律下，如果Kyle Rittenhouse
 
 620
 00:22:02,300 --> 00:22:04,330
->is not guilty, by reason of self-defense,
+is not guilty, by reason of self-defense,
+因为正当防卫无罪，
 
 621
 00:22:04,330 --> 00:22:07,640
->Gaige Grosskreutz would
-also have been not guilty
+Gaige Grosskreutz would also have been not guilty
+那么若是Gaige Grosskreutz枪杀了Kyle Rittenhouse，
 
 622
 00:22:07,640 --> 00:22:09,490
->if he had shot and
-killed Kyle Rittenhouse.
+if he had shot and killed Kyle Rittenhouse.
+那他也可能会是无罪的。
 
 623
 00:22:09,490 --> 00:22:10,820
->And keep in mind that in this scenario,
+And keep in mind that in this scenario,
+记住在这种情况下，
 
 624
 00:22:10,820 --> 00:22:13,334
->Kyle Rittenhouse is dead
-and it would have been
+Kyle Rittenhouse is dead and it would have been
+Kyle Rittenhouse死了，
 
 625
 00:22:13,334 --> 00:22:15,310
->Grosskreutz setting the narrative.
+Grosskreutz setting the narrative.
+是Grosskreutz在陈述这件事。
 
 626
 00:22:15,310 --> 00:22:17,120
->And to the extent that
-you think Grosskreutz
+And to the extent that you think Grosskreutz
+你可以想象到Grosskreutz
 
 627
 00:22:17,120 --> 00:22:19,190
->would have crafted his
-testimony to support
+would have crafted his testimony to support
+也会精心遣造他的证词来支持
 
 628
 00:22:19,190 --> 00:22:20,630
->an argument of self-defense,
+an argument of self-defense.
+他做正当防卫的辩护。
 
 629
 00:22:20,630 --> 00:22:22,880
->then consider that Kyle
-Rittenhouse probably crafted
+Then consider that Kyle Rittenhouse probably crafted
+而现在是Kyle Rittenhouse，同样的，他很可能
 
 630
 00:22:22,880 --> 00:22:24,730
->his story in exactly the same way.
+his story in exactly the same way.
+也好好准备了他的叙事。
 
 631
 00:22:24,730 --> 00:22:26,130
->So the ultimate takeaway here
+So the ultimate takeaway here
+所以最终的要点是
 
 632
 00:22:26,130 --> 00:22:28,620
->is that these incidents are murky at best.
+is that these incidents are murky at best.
+这些冲突时间充其量都是模糊不清的。
 
 633
 00:22:28,620 --> 00:22:30,640
->Occurred in a jurisdiction with very broad
+Occurred in a jurisdiction with very broad
+在一个有着非常宽泛的
 
 634
 00:22:30,640 --> 00:22:32,700
->self-defense and firearm laws.
+self-defense and firearm laws，
+自卫和携抢法律的州，
 
 635
 00:22:32,700 --> 00:22:35,130
->The prosecution had a very
-high standard to meet.
+the prosecution had a very high standard to meet.
+控方（要想胜诉）是要满足很高标准的。
 
 636
 00:22:35,130 --> 00:22:36,860
->And while we didn't
-cover it in this video,
+And while we didn't cover it in this video,
+尽管我再本视频中没有提到，
 
 637
 00:22:36,860 --> 00:22:38,930
->the defendant put on a very good defense.
+the defendant put on a very good defense.
+辩方的表现也非常出色。
 
 638
 00:22:38,930 --> 00:22:40,980
->The rest I will leave to you.
+The rest I will leave to you.
+（好，）其余的分析我就留给你了。
 
 639
 00:22:40,980 --> 00:22:42,720
->Now, if you'd like to
-watch something legal,
+Now, if you'd like to watch something legal,
+现在如果你喜欢看一下法律的东西，
 
 640
 00:22:42,720 --> 00:22:44,150
->that's much more lighthearted,
+that's much more lighthearted,
+并且要更轻松一些的，
 
 641
 00:22:44,150 --> 00:22:46,600
->I'd recommend my mini
-documentary, "Bad Law Words Good"
+I'd recommend my mini documentary, "Bad Law Words Good"
+那我推荐我的迷你纪录片, “法劣词良”，
 
 642
 00:22:46,600 --> 00:22:48,700
->where I explore all of
-the most common legal
+where I explore all of the most common legal
+在这些记录片中，我会探索所有最常见的法律
 
 643
 00:22:48,700 --> 00:22:50,480
->and linguistic comments
-that people throw around
+and linguistic comments that people throw around
+和语言评语，这些评语都是人们在日常生活中
 
 644
 00:22:50,480 --> 00:22:52,430
->in everyday life incorrectly.
+in everyday life incorrectly.
+到处不正确的使用。
 
 645
 00:22:52,430 --> 00:22:54,260
->It is a hilarious and educational romp
+It is a hilarious and educational romp
+（视频中，我会）通过法律误解，
 
 646
 00:22:54,260 --> 00:22:56,480
->through legal misunderstandings,
-logical fallacies,
+through legal misunderstandings, logical fallacies,
+逻辑缺陷以及法律与秩序的荒诞事件，
 
 647
 00:22:56,480 --> 00:22:58,260
->and law and order parodies.
+and law and order parodies.
+以一种既幽默又教育的方式呈现。
 
 648
 00:22:58,260 --> 00:23:00,310
->And it's only on Nebula,
-which you can get for free
+And it's only on Nebula, which you can get for free
+我的纪录片独家发布在Nebula上，你可以
 
 649
 00:23:00,310 --> 00:23:01,730
->with Curiosity Stream.
+with Curiosity Stream.
+通过Curiosity Stream免费观看。
 
 650
 00:23:01,730 --> 00:23:04,370
->Because Nebula is where I
-release all my videos early,
+Because Nebula is where I release all my videos early,
+Nebula是我最先发布视频的地方，
 
 651
 00:23:04,370 --> 00:23:06,830
->usually with extended cuts
-and where I can experiment
+usually with extended cuts and where I can experiment
+通常我也会发布一些额外的剪辑，并且我还会做
+
 
 652
 00:23:06,830 --> 00:23:09,320
->with content and put things
-that I couldn't put on YouTube.
+with content and put things that I couldn't put on YouTube.
+内容方面的实验和发布一些我无法发布到油管上的东西。
 
 653
 00:23:09,320 --> 00:23:11,160
->And we're thrilled to be
-partnering with today's sponsor
+And we're thrilled to be partnering with today's sponsor
+今天，我们非常开心能与Curiosity Stream赞助商
 
 654
 00:23:11,160 --> 00:23:12,980
->Curiosity Stream, because
-they're the go-to source
+Curiosity Stream, because they're the go-to source
+合作，因为他们是
 
 655
 00:23:12,980 --> 00:23:13,980
->for the best documentaries
+for the best documentaries
+全网观看最佳纪录片
 
 656
 00:23:13,980 --> 00:23:16,350
->and long form educational
-content on the internet.
+and long form educational content on the internet.
+和长篇教育内容的首选网站。
 
 657
 00:23:16,350 --> 00:23:17,530
->They even have an entire section
+They even have an entire section
+他们甚至还有一整部分内容
 
 658
 00:23:17,530 --> 00:23:19,390
->devoted to unsolved mysteries and crime.
+devoted to unsolved mysteries and crime.
+是讲未解之谜和犯罪的。
 
 659
 00:23:19,390 --> 00:23:20,480
->So if you like my videos,
+So if you like my videos,
+所以，如果您喜欢我的视频，
 
 660
 00:23:20,480 --> 00:23:22,270
->you will love the stuff
-on Curiosity Stream.
+you will love the stuff on Curiosity Stream.
+你也会喜欢Curiosity Stream上的内容。
 
 661
 00:23:22,270 --> 00:23:23,800
->And right now Curiosity Stream is offering
+And right now Curiosity Stream is offering
+现在Curiosity Stream的年付费方案
 
 662
 00:23:23,800 --> 00:23:25,640
->42% off their annual plans.
+42% off their annual plans.
+提供42%的折扣。
 
 663
 00:23:25,640 --> 00:23:28,040
->That's less than $12 for the entire year
+That's less than $12 for the entire year
+全年观看Curiosity Stream 
 
 664
 00:23:28,040 --> 00:23:30,140
->for both Curiosity Stream and Nebula.
+for both Curiosity Stream and Nebula.
+和Nebula不到12美元。
 
 665
 00:23:30,140 --> 00:23:31,840
->So if you click on the
-link in the description
+So if you click on the link in the description
+如果你马上点击视频下方描述的链接
 
 666
 00:23:31,840 --> 00:23:33,550
->or the one that's on screen right now,
+or the one that's on screen right now,
+或者屏幕上的链接，
 
 667
 00:23:33,550 --> 00:23:35,240
->you'll get both Curiosity
-Stream and Nebula
+you'll get both Curiosity Stream and Nebula
+您就能享受42%的折扣观看Curiosity Stream
 
 668
 00:23:35,240 --> 00:23:38,910
->for 42% off, or you can go
-to curiositystream.com/legal.
+for 42% off, or you can go to curiositystream.com/legal.
+和Nebula，或者您也可以去curiositystream.com/legal。
 
 669
 00:23:38,910 --> 00:23:40,330
->It's a great way to support this channel
+It's a great way to support this channel
+只需每年不到12美元就能很好
 
 670
 00:23:40,330 --> 00:23:43,940
->and educational content
-directly for under $12 per year.
+and educational content directly for under $12 per year.
+的支持本频道和教育内容。
 
 671
 00:23:43,940 --> 00:23:45,687
->And it's the only way
-to see my documentary
+And it's the only way to see my documentary
+并且这是唯一可以观看我纪录片的方式，
 
 672
 00:23:45,687 --> 00:23:46,790
->"Bad Law Words Good."
+"Bad Law Words Good."
+“法劣良词”。
 
 673
 00:23:46,790 --> 00:23:48,730
->So just click on the link
-that's on screen right now,
+So just click on the link that's on screen right now,
+所以请立即点击屏幕上的链接，
 
 674
 00:23:48,730 --> 00:23:50,220
->or the one that's in the description
+or the one that's in the description
+或者下方视频描述的链接
 
 675
 00:23:50,220 --> 00:23:52,880
->to get Curiosity Stream, Nebula
-and "Bad Law Words Good."
+to get Curiosity Stream, Nebula and "Bad Law Words Good."
+获取Curiosity Stream, Nebula和“法劣良词”。
 
 676
 00:23:52,880 --> 00:23:55,530
->Plus, clicking on that link
-really helps out this channel.
+Plus, clicking on that link really helps out this channel.
+此外，点击那个链接真的可以帮助本频道。
 
 677
 00:23:55,530 --> 00:23:56,970
->And while you're there,
-click on this playlist
+And while you're there, click on this playlist
+如果您还在，请点击这个播放列表
 
 678
 00:23:56,970 --> 00:23:58,180
->with all my other real law reviews.
+with all my other real law reviews.
+观看我其他的所有真是法律评论。
 
 679
 00:23:58,180 --> 00:24:01,113
->So click on that video
-or I'll see you in court.
+So click on that video or I'll see you in court.
+就请点击观看视频吧，否则咱们法庭上见。
