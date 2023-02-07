@@ -142,17 +142,17 @@ is exactly the thing that is privileged
 30
 00:01:07,520 --> 00:01:10,040
 when you meet the requirements of self-defense.
-以自我防卫进行审理的必要条件。
+以正当防卫进行辩护的必要条件。
 
 31
 00:01:10,040 --> 00:01:13,370
 And this case hinged on whether self-defense applied or not.
-因此，这起案件关键点在于自我防卫的情形是否适用。
+因此，这起案件关键点在正当防卫是否适用。
 
 32
 00:01:13,370 --> 00:01:15,706
 And more so than most self-defense cases,
-而相比于其他的自卫案件，更是如此：
+而相比于大多数的自卫案件，(本案)更是如此：
 
 33
 00:01:15,706 --> 00:01:17,720
@@ -167,7 +167,7 @@ of both self-defense law and criminal procedure.
 35
 00:01:20,310 --> 00:01:21,920
 It's not surprising to me that both sides
-我并不惊讶当事双方
+我并不惊讶于当事双方
 
 36
 00:01:21,920 --> 00:01:23,720
@@ -177,7 +177,7 @@ got lots of stuff legally wrong.
 37
 00:01:23,720 --> 00:01:26,280
 So let's talk about the law of self-defense in Wisconsin,
-所以我们先来看一下Wisconsin州关于自卫的法律规定，
+那我们先来看一下Wisconsin州关于自卫的法律规定，
 
 38
 00:01:26,280 --> 00:01:29,058
@@ -237,7 +237,7 @@ the burden of proof then returns to the prosecution,
 49
 00:01:48,790 --> 00:01:52,320
 which must disprove self-defense beyond a reasonable doubt,
-控方必须”排除合理怀疑”的推翻自卫适用的结论，
+控方必须无可置疑的推翻自卫适用的结论，
 
 50
 00:01:52,320 --> 00:01:54,810
@@ -257,7 +257,7 @@ that basically says a person who is not the aggressor
 53
 00:01:58,990 --> 00:02:00,440
 is justified in using deadly force
-在面对对方的攻击时，他合理的认为
+在面对对方的攻击时，如果他合理的认为
 
 54
 00:02:00,440 --> 00:02:03,380
@@ -267,7 +267,7 @@ against an adversary when he or she reasonably believes
 55
 00:02:03,380 --> 00:02:04,990
 that they're in imminent danger
-将处于迫在眉睫的危险时，
+即将处于危险中时，
 
 56
 00:02:04,990 --> 00:02:06,910
@@ -302,22 +302,22 @@ The lawyers and the judge fight over the jury instructions,
 62
 00:02:18,620 --> 00:02:20,580
 which will be the only law that the jurors receive
-对于陪审团而言，这些指引是他们收到
+对于陪审团而言，这些法律指引是他们
 
 63
 00:02:20,580 --> 00:02:21,840
 in that particular case.
-关于此案的唯一法律。
+判案的唯一依据。
 
 64
 00:02:21,840 --> 00:02:23,970
 Now it is supposed to accurately summarize
-现在我们可以认为陪审团用到的
+我们可以认为陪审团用到的
 
 65
 00:02:23,970 --> 00:02:26,120
 the law that the jurors are applying.
-这些法律被准确的加以概括总结。
+法律指引被准确的加以概括总结。
 
 66
 00:02:26,120 --> 00:02:26,980
@@ -342,299 +342,295 @@ Rittenhouse案陪审团使用的法律指引
 70
 00:02:31,570 --> 00:02:34,487
 summarize the requirements for self-defense in Wisconsin as
-将Wisconsin州规定的自我防卫条件总结为：
+将Wisconsin州法律中正当防卫的条件总结为：
 
 71
 00:02:34,487 --> 00:02:36,220
 "the defendant believed that there was an actual
-“被告认为自身即将遭受实际的
+“1）被告坚信自己即将遭受实际的
 
 72
-00:02:36,220 --> 00:02:37,800
-or imminent unlawful interference
-非法的侵害，
+00:02:36,220 --> 00:02:39,160
+or imminent unlawful interference with the defendant's person.
+非法的侵害；
 
 73
-00:02:37,800 --> 00:02:39,160
-with the defendant's person.
-
-74
 00:02:39,160 --> 00:02:41,380
 And the defendant believed that the amount of force
-并且为了防止或者终止这种侵害，
+2）并且为了防止或者终止这种侵害，
 
-75
+74
 00:02:41,380 --> 00:02:43,360
 the defendant used or threatened to use
-被告必须进行或被迫进行反击且力度
+被告认为有必要使用或威胁使用
 
-76
+75
 00:02:43,360 --> 00:02:46,300
 was necessary to prevent or terminate the interference
-合适，并且被告在
+一定程度的暴力；
 
-77
+76
 00:02:46,300 --> 00:02:49,150
 and the defendant's beliefs were reasonable.
-当时情形下的考量是合理的。
+3）并且被告在当时情形下的考量是合理的。
 
-78
+77
 00:02:49,150 --> 00:02:50,930
 The defendant may intentionally use force,
 被告可以有意的使用那些
 
-79
+78
 00:02:50,930 --> 00:02:52,950
 which is intended or likely to cause death
-可能造成他人死亡或其他重大人身伤害
+可能造成他人死亡或重大人身伤害
 
-80
+79
 00:02:52,950 --> 00:02:55,460
 or great bodily harm only if the defendant
 的武器，（前提是）只要被告
 
-81
+80
 00:02:55,460 --> 00:02:57,890
 reasonably believed that the force used was necessary
-合理的认为采取这些措施以防止
+合理的认为必须采取这样的暴力行为
 
-82
+81
 00:02:57,890 --> 00:03:01,280
 to prevent death or great bodily harm to himself."
-自身的死亡或重大人身伤害是必要的。”
+才能防止自身的死亡或重大伤害。”
 
-83
+82
 00:03:01,280 --> 00:03:03,130
 Now, in a situation like this,
 现在我想说，在这样的情况下，
 
-84
+83
 00:03:03,130 --> 00:03:05,510
 a reasonable belief doesn't mean true.
 一种合理的考量并不意味着是正确的。
 
-85
+84
 00:03:05,510 --> 00:03:08,680
 One can have a reasonable belief, but still be mistaken.
 你可以有个合理的看法，但依然是错的。
 
-86
+85
 00:03:08,680 --> 00:03:10,770
 Reasonableness is determined from the standpoint
 合理性是由被告
 
-87
+86
 00:03:10,770 --> 00:03:12,810
 of the defendant in the situation at issue,
 当时的立场决定的，
 
-88
+87
 00:03:12,810 --> 00:03:14,230
 not after the fact.
 而不是事后诸葛。
 
-89
+88
 00:03:14,230 --> 00:03:16,180
 And as an aside, the law of self-defense
 顺便说一句，自卫法
 
-90
+89
 00:03:16,180 --> 00:03:18,130
 gets slightly more complicated when you're applying it
-对于各种蓄意谋杀和过失杀人案件的适用规定
+对于各种蓄意谋杀和过失杀人案件的
 
-91
+90
 00:03:18,130 --> 00:03:20,100
 to different varieties of homicide and manslaughter,
-还是有点儿复杂的，
+适用规定会更复杂些，
 
-92
+91
 00:03:20,100 --> 00:03:21,420
 because the mental state required
 因为对于每种案件，其要求
 
-93
+92
 00:03:21,420 --> 00:03:23,200
 is different for each of those offenses.
 的精神状态有所不同。
 
-94
+93
 00:03:23,200 --> 00:03:25,200
 But you can read the jury instructions themselves
 但是，你可以阅读一下陪审团指引
 
-95
+94
 00:03:25,200 --> 00:03:27,470
 and see how the court modified the general rules
 看看法庭是如何将自卫法的一般性规定
 
-96
+95
 00:03:27,470 --> 00:03:29,440
 that apply to self-defense to apply to each
 进行修改，以适用于本案中
 
-97
+96
 00:03:29,440 --> 00:03:31,030
 of the different charges in this case.
 不同的罪名指控。
 
-98
+97
 00:03:31,030 --> 00:03:32,950
 It's all written down in relatively plain English,
 这些都是用相对易懂的白话文写的，
 
-99
+98
 00:03:32,950 --> 00:03:34,100
 and it's worthwhile.
 并且值得你看看，
 
-100
+99
 00:03:34,100 --> 00:03:35,580
 You might be on a jury someday,
 因为你某天可能称为一名陪审员，
 
-101
+100
 00:03:35,580 --> 00:03:38,420
 and you might be faced with similar jury instructions.
 到时你也会收到类似的法律指引。
 
-102
+101
 00:03:38,420 --> 00:03:41,620
 Now, Wisconsin doesn't have what's called a duty to retreat.
-当前，Wisconsin并不要求“逃跑义务”，
+当前，Wisconsin并不要求逃跑义务，
 
-103
+102
 00:03:41,620 --> 00:03:43,820
 In other words, Wisconsin law doesn't require someone
 换句话说，Wisconsin州的法律并不要求：受害者
 
-104
+103
 00:03:43,820 --> 00:03:46,129
 whose life is in danger to exercise all opportunities
-面临生命危险时必须要先采取各种途径尝试逃离，否则
+面临生命危险时必须要先采取各种途径尝试逃离，
 
-105
+104
 00:03:46,129 --> 00:03:49,470
 to flee before resorting to deadly force.
-不能使用致命武器进行自卫反击。
+否则不能使用致命武器进行自卫反击。
 
 
-106
+105
 00:03:49,470 --> 00:03:51,474
 But, jurors can consider whether someone
 但是，陪审人员可以将受害者是否
 
-107
+106
 00:03:51,474 --> 00:03:53,320
 tried to move away from danger,
 尝试过逃离现场这一点
 
-108
+107
 00:03:53,320 --> 00:03:56,320
 as they assess the reasonableness of a self-defense claim.
-来作为评估自卫条件成立的合理性
+来作为评估正当防卫成立的合理性。
 
-109
+108
 00:03:56,320 --> 00:03:57,700
 Juries are still allowed to consider
 陪审团也可以考虑
 
-110
+109
 00:03:57,700 --> 00:03:59,670
 whether the defendant had an opportunity to retreat
 被告是否有机会逃离现场
 
-111
+110
 00:03:59,670 --> 00:04:01,450
 to determine whether or not it was necessary
 来决定其是否有必要
 
-112
+111
 00:04:01,450 --> 00:04:04,370
 to use deadly force in self-defense.
 使用致命武器进行自卫反击。
 
-113
+112
 00:04:04,370 --> 00:04:06,740
 And Wisconsin law doesn't quite go as far
 当然，Wisconsin州的法律也并没有
 
-114
+113
 00:04:06,740 --> 00:04:08,300
 as stand your ground states,
-极端到“不退让原则”的程度，
+极端到毫不退让的程度，
 
-115
+114
 00:04:08,300 --> 00:04:11,360
 which remove any consideration of deescalating or fleeing
-该原则允许受害者在使用致命武器反击之前
+这样的规定允许受害者在使用致命武器反击之前
 
-116
+115
 00:04:11,360 --> 00:04:13,000
 before resorting to deadly force.
 无需考虑任何的妥协或逃离。
 
-117
+116
 00:04:13,000 --> 00:04:14,160
 However, as we'll talk about later,
 然而，正如我们稍后要讨论的，
 
-118
+117
 00:04:14,160 --> 00:04:15,990
 Wisconsin does have a duty to retreat
-Wisconsin州确实有一种情况要求“逃跑义务”：
+Wisconsin州确实有一种情况要求逃跑义务：
 
-119
+118
 00:04:15,990 --> 00:04:18,410
 where the person provokes the attack against them.
-当冲突挑衅者自己（反过来）收到了威胁。
+当冲突挑衅者自己（反过来）受到了威胁。
 
-120
+119
 00:04:18,410 --> 00:04:20,560
 Now at common law, a majority of jurisdictions
 在普通法中，多数州的法律法规
 
-121
+120
 00:04:20,560 --> 00:04:23,840
 require a duty to retreat before being allowed to engage
 要求在使用致命武器之前
 
-122
+121
 00:04:23,840 --> 00:04:25,990
 in deadly force in self-defense.
-必须要先履行“逃跑义务”。
+必须要先履行逃跑义务。
 
-123
+122
 00:04:25,990 --> 00:04:27,910
 But today, a duty to retreat is required
 但是现在，只有少数州的法律
 
-124
+123
 00:04:27,910 --> 00:04:29,640
 in only a minority of US states.
-要求这一“逃跑义务”。
+要求这一逃跑义务。
 
-125
+124
 00:04:29,640 --> 00:04:32,810
 Here is a duty to retreat instruction from Massachusetts.
 Massachusetts州关于逃跑义务的规定如下：
 
-126
+125
 00:04:32,810 --> 00:04:34,791
 Quote, "a person cannot lawfully act in self-defense
 “一个人在穷尽完所有合理的逃生途径之前
 
-127
+126
 00:04:34,791 --> 00:04:36,073
 unless he or she has exhausted
 不能诉诸于暴力（对挑衅者）
 
-128
+127
 00:04:36,073 --> 00:04:39,740
 all other reasonable alternatives before resorting to force.
 进行自卫反击。
 
-129
+128
 00:04:39,740 --> 00:04:42,010
 A person may use physical force in self-defense
 一个人只有在他或她在当时
@@ -647,7 +643,7 @@ only if he or she could not get out of the situation
 131
 00:04:45,150 --> 00:04:47,020
 in some other way that was available
-才可以使用自身的力量
+才可以使用物理的力量
 
 132
 00:04:47,020 --> 00:04:48,480
@@ -662,7 +658,7 @@ Massachusetts州（检方）
 134
 00:04:50,157 --> 00:04:52,175
 may prove the defendant did not act in self-defense
-可以通过以“排除合理怀疑”的标准证明
+需无可置疑的证明
 
 135
 00:04:52,175 --> 00:04:54,320
@@ -672,7 +668,7 @@ by proving beyond a reasonable doubt
 136
 00:04:54,320 --> 00:04:56,010
 that the defendant resorted to force
-没有使用有效合理
+没有使用合理有效
 
 137
 00:04:56,010 --> 00:04:57,550
@@ -682,7 +678,7 @@ without using avenues of escape
 138
 00:04:57,550 --> 00:04:59,320
 that were reasonably available and which could not
-从而使自我防卫的
+从而使正当防卫的
 
 139
 00:04:59,320 --> 00:05:01,900
@@ -717,7 +713,7 @@ And we'll talk about the implications
 145
 00:05:10,600 --> 00:05:13,220
 of this particular aspect of Wisconsin law in a second.
-Wisconsin州法律中特殊情况的含义。
+Wisconsin州法律中这种特殊情况的含义。
 
 146
 00:05:13,220 --> 00:05:16,120
@@ -737,7 +733,7 @@ A person who provokes an attack
 149
 00:05:20,800 --> 00:05:22,461
 cannot claim legal self-defense.
-不能声称自己在合法的自卫，
+不能声称自己是正当防卫，
 
 150
 00:05:22,461 --> 00:05:25,480
@@ -877,7 +873,7 @@ but the person is not privileged
 177
 00:06:21,700 --> 00:06:23,210
 to resort to the use of force
-故意使用可能造成反击者死亡
+使用可能造成反击者死亡
 
 178
 00:06:23,210 --> 00:06:26,190
@@ -886,7 +882,7 @@ intended or likely to cause death to the person's assailant,
 
 179
 00:06:26,190 --> 00:06:28,650
-Unless the person reasonably believes that he or she
+unless the person reasonably believes that he or she
 除非挑衅者合理的认为他或她
 
 180
@@ -912,12 +908,12 @@ So here, you only get to use deadly force
 184
 00:06:39,610 --> 00:06:42,320
 to resist the deadly force that you provoked
-对抗你挑起的致命威胁的唯一
+对抗你挑起的威胁的唯一
 
 185
 00:06:42,320 --> 00:06:45,320
 if you exercise a duty to retreat.
-条件是你履行了“逃跑义务”。
+条件是你履行了逃跑义务。
 
 186
 00:06:45,320 --> 00:06:47,780
@@ -927,12 +923,12 @@ Wisconsin州的法律规定，冲突挑衅者
 187
 00:06:47,780 --> 00:06:50,700
 must attempt every other reasonable option to escape,
-必须在尝试了各种逃跑，
+必须在尝试了各种逃离，
 
 188
 00:06:50,700 --> 00:06:52,360
 avoid, or prevent the attack
-避免或预防致命反击之后
+避免或预防这种反击的途径之后
 
 189
 00:06:52,360 --> 00:06:55,570
@@ -942,17 +938,17 @@ before resorting to deadly force if they were the ones
 190
 00:06:55,570 --> 00:06:58,010
 that provoked the secondary attack.
-对抗其本人挑起的次级致命反击。
+对抗其本人挑起的二次反击。
 
 191
 00:06:58,010 --> 00:07:00,210
 Now we'll talk about the general law of self-defense
-现在我们就来讨论一下自卫的一般条文
+现在我们就来讨论一下自卫法的一般条文
 
 192
 00:07:00,210 --> 00:07:02,770
 and whether it applies under the factual circumstances
-在我们即将了解的事情情况下
+及其对接下来要看到的事实情况
 
 193
 00:07:02,770 --> 00:07:04,610
@@ -962,12 +958,12 @@ as we know them in a second.
 194
 00:07:04,610 --> 00:07:07,430
 But first I want to talk about the exception of provocation
-但是首先我想先讨论一下对于挑衅情况下的特例，
+但是首先我想先讨论一下挑衅这种情况的特例，
 
 195
 00:07:07,430 --> 00:07:09,220
 because a number of people believe
-因为有很多人坚信
+因为有很多人相信
 
 196
 00:07:09,220 --> 00:07:12,350
@@ -982,7 +978,7 @@ and therefore couldn't use the privilege of self-defense.
 198
 00:07:16,280 --> 00:07:18,440
 That by brandishing a firearm
-（你看，）再这样的情形下，他却
+在那样骚乱的现场，他却
 
 199
 00:07:18,440 --> 00:07:20,860
@@ -1132,7 +1128,7 @@ but it's not unreasonable that someone might not find
 228
 00:08:20,280 --> 00:08:22,870
 that the gun possession, quad gun possession
-持枪（或四管枪）会激怒他人
+持枪（或持四管枪）会激怒他人
 
 229
 00:08:22,870 --> 00:08:24,500
@@ -1237,7 +1233,7 @@ Now you could argue that pointing your gun at someone
 249
 00:09:09,900 --> 00:09:12,050
 is assault or misuse of a firearm,
-就是一种攻击或者不当的使用武器，
+就是一种攻击或者滥用武器，
 
 250
 00:09:12,050 --> 00:09:13,450
@@ -1247,7 +1243,7 @@ but that probably doesn't work
 251
 00:09:13,450 --> 00:09:15,180
 if the reason that you're pointing the gun
-如果拿枪对准
+（因为）如果拿枪对准
 
 252
 00:09:15,180 --> 00:09:16,340
@@ -1272,12 +1268,12 @@ Though, on the other other hand,
 256
 00:09:22,440 --> 00:09:24,060
 Wisconsin courts have an interesting history
-Wisconsin州法院在分析（自卫中）的挑衅例外
+Wisconsin州法院有个有意思的先例
 
 257
 00:09:24,060 --> 00:09:25,850
 in analyzing the provocation exception.
-时，有个有意思的先例。
+就是对（自卫中）挑衅例外情况的分析。
 
 258
 00:09:25,850 --> 00:09:29,050
@@ -1512,7 +1508,7 @@ probably would have ended there.
 304
 00:10:52,850 --> 00:10:55,180
 And they would have found that provocation didn't apply.
-这样他们也就发现“挑衅行为”并不成立。
+这样他们也就发现挑衅行为并不成立。
 
 305
 00:10:55,180 --> 00:10:56,910
@@ -1732,12 +1728,12 @@ Let's now talk about whether the original exception,
 348
 00:12:25,590 --> 00:12:28,560
 self-defense, applied or could reasonably have applied
-正当防卫是否适用，或者在这起特殊案件中
+正当防卫是否在这起特殊案件中适用，或者
 
 349
 00:12:28,560 --> 00:12:30,330
 in this particular case.
-是否能合理适用。
+适用的是否有道理。
 
 350
 00:12:30,330 --> 00:12:32,960
@@ -1991,7 +1987,7 @@ But at base, this is a confusing in-charge situation,
 400
 00:14:15,350 --> 00:14:16,600
 even with video footage.
-这也是一宗让人困惑纠结的情形。
+这也是一种让人困惑纠结的情形。
 
 401
 00:14:16,600 --> 00:14:19,460
@@ -2011,7 +2007,7 @@ You can look at those facts and see a murder.
 404
 00:14:24,640 --> 00:14:26,800
 You can look at those facts and find self-defense.
-你也可以看到自卫（的条件）也是成立的。
+你可以看到正当防卫也是成立的。
 
 405
 00:14:26,800 --> 00:14:28,350
@@ -2066,7 +2062,7 @@ You have to run the self-defense analysis
 415
 00:14:47,970 --> 00:14:49,530
 for each incident individually,
-单独进行自卫（成立与否的）分析，
+单独进行正当防卫（成立与否的）分析，
 
 416
 00:14:49,530 --> 00:14:51,130
@@ -2318,12 +2314,12 @@ Joe Zamudio, who was legally armed,
 465
 00:16:26,270 --> 00:16:28,010
 came running to help when he heard the gunfire
-听到枪响立马跑过来帮助
+听到枪响立马跑过来帮忙，
 
 466
 00:16:28,010 --> 00:16:30,630
 that injured Gabby Giffords and killed six others in Tucson.
-受伤的Gabby Giffords并且杀死了另外6个人。
+此枪击事件造成Gabby Giffords受伤和6人死亡。
 
 467
 00:16:30,630 --> 00:16:32,870
@@ -2393,7 +2389,7 @@ But any system that incentivizes rule
 480
 00:16:57,670 --> 00:16:58,700
 by the last person standing,
-由最后活着的人进行验证，
+由最后活着的人激励巩固，
 
 481
 00:16:58,700 --> 00:17:00,470
@@ -2413,7 +2409,7 @@ That seems well suboptimal.
 484
 00:17:07,180 --> 00:17:09,540
 It's at this point, that my notes simply say,
-到这时候，我的笔记上简单的写着
+此时此刻，我的笔记上简单的写着
 
 485
 00:17:09,540 --> 00:17:11,453
@@ -2473,7 +2469,7 @@ But whether Kyle Rittenhouse should have been there
 496
 00:17:35,920 --> 00:17:38,420
 in the first place isn't relevant to the questions
-这一问题与其
+这一问题与他
 
 497
 00:17:38,420 --> 00:17:40,640
@@ -2508,12 +2504,12 @@ Many have claimed that it would have been impossible
 503
 00:17:52,820 --> 00:17:54,750
 for a black person to kill two people,
-连开四抢杀了两个人并伤了一人
+抢杀了两个人，伤了一人
 
 504
 00:17:54,750 --> 00:17:56,900
 injured a third and fire at a fourth
-那么他一定不可能
+并向第四任开了枪，那么他一定不可能
 
 505
 00:17:56,900 --> 00:17:59,980
@@ -2563,16 +2559,17 @@ than cases with a black perpetrator and a white victim.
 514
 00:18:18,700 --> 00:18:21,520
 And the gap is larger in states with stand your ground laws.
-并且在有“不退让法”的州，这个差距更大。
+并且在有毫不退让法的州，这个差距更大。
 
 515
 00:18:21,520 --> 00:18:23,940
 And after accounting for a variety of confounding factors,
-再算上一些混杂的因素，比如被害人和施害者是否认识等，
+再算上一些混杂的因素，
 
 516
 00:18:23,940 --> 00:18:26,130
 such as whether the victim and perpetrator were strangers,
+比如被害人和施害者是否认识等，
 
 517
 00:18:26,130 --> 00:18:27,920
@@ -2672,7 +2669,7 @@ pouring over the jury instructions
 536
 00:19:09,910 --> 00:19:11,420
 like the Kenosha jury did.
-思考拿到的陪审团法律指引。
+思考发给陪审团的法律指引。
 
 537
 00:19:11,420 --> 00:19:13,910
@@ -2692,7 +2689,7 @@ then it means that the prosecution
 540
 00:19:17,420 --> 00:19:20,429
 didn't prove self-defense beyond a reasonable doubt.
-未能以“排除合理怀疑”的标准证明这不是正当防卫。
+未能毫无置疑的证明这不是正当防卫。
 
 541
 00:19:20,429 --> 00:19:22,300
@@ -2732,17 +2729,17 @@ And it certainly doesn't mean that he did nothing wrong.
 548
 00:19:36,460 --> 00:19:37,403
 It just means the jury didn't think
-只能说明控方并未
+只能说明陪审团并不认为
 
 549
 00:19:37,403 --> 00:19:39,250
 that the prosecution proved self-defense
-以“排除合理怀疑”的标准使陪审团
+控方毫无置疑的证明了
 
 550
 00:19:39,250 --> 00:19:40,310
 beyond a reasonable doubt.
-认为正当防卫不成立。
+正当防卫不成立。
 
 551
 00:19:40,310 --> 00:19:41,940
@@ -2892,7 +2889,7 @@ or what we call sine qua non causation,
 580
 00:20:41,850 --> 00:20:43,440
 it doesn't rise to the level of guilt
-根本达不到“超出合理怀疑”
+根本达不到“毫无置疑的”
 
 581
 00:20:43,440 --> 00:20:44,660
@@ -2932,7 +2929,7 @@ The weak version is that the jury was correct
 588
 00:20:57,620 --> 00:20:59,190
 to find that there was reasonable doubt
-不是在进行自卫的说法
+不是在进行自卫的论点
 
 589
 00:20:59,190 --> 00:21:01,830
@@ -3206,12 +3203,12 @@ where I explore all of the most common legal
 643
 00:22:48,700 --> 00:22:50,480
 and linguistic comments that people throw around
-和语言评语，这些评语都是人们在日常生活中
+和语言评论，这些评论都是人们在日常生活中
 
 644
 00:22:50,480 --> 00:22:52,430
 in everyday life incorrectly.
-到处不正确的使用。
+到处用且用的不对。
 
 645
 00:22:52,430 --> 00:22:54,260
@@ -3382,9 +3379,9 @@ And while you're there, click on this playlist
 678
 00:23:56,970 --> 00:23:58,180
 with all my other real law reviews.
-观看我其他的所有真是法律评论。
+观看我其他的所有对真实案件法律评鉴。
 
 679
 00:23:58,180 --> 00:24:01,113
 So click on that video or I'll see you in court.
-就请点击观看视频吧，否则咱们法庭上见。
+请点击观看视频吧，否则咱们法庭上见。
