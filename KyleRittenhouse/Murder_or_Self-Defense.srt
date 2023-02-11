@@ -147,12 +147,12 @@ when you meet the requirements of self-defense.
 31
 00:01:10,040 --> 00:01:13,370
 And this case hinged on whether self-defense applied or not.
-因此，这起案件关键点在正当防卫是否适用。
+因此，这起案件关键点是：正当防卫是否适用。
 
 32
 00:01:13,370 --> 00:01:15,706
 And more so than most self-defense cases,
-而相比于大多数的自卫案件，(本案)更是如此：
+而相比于大多数的自卫案件，(本案)更是如此。
 
 33
 00:01:15,706 --> 00:01:17,720
@@ -282,7 +282,7 @@ Now jurors aren't lawyers.
 58
 00:02:08,720 --> 00:02:11,410
 So juries receive jury instructions that include
-因此，陪审团会收到包含所有在判案时
+因此，陪审团会收到所有判案时
 
 59
 00:02:11,410 --> 00:02:13,550
@@ -372,7 +372,7 @@ was necessary to prevent or terminate the interference
 76
 00:02:46,300 --> 00:02:49,150
 and the defendant's beliefs were reasonable.
-3）并且被告在当时情形下的考量是合理的。
+3）并且被告在当时情形下的认知是合理的。
 
 77
 00:02:49,150 --> 00:02:50,930
@@ -407,7 +407,7 @@ Now, in a situation like this,
 83
 00:03:03,130 --> 00:03:05,510
 a reasonable belief doesn't mean true.
-一种合理的考量并不意味着是正确的。
+一种合理的认知并不意味着是正确的。
 
 84
 00:03:05,510 --> 00:03:08,680
@@ -487,7 +487,7 @@ and it's worthwhile.
 99
 00:03:34,100 --> 00:03:35,580
 You might be on a jury someday,
-因为你某天可能称为一名陪审员，
+因为你某天可能成为一名陪审员，
 
 100
 00:03:35,580 --> 00:03:38,420
@@ -1033,7 +1033,7 @@ I think a lot of people put too much emphasis
 209
 00:07:38,900 --> 00:07:41,090
 on those lesser included offenses.
-在哪些较轻的罪行上。
+在那些较轻的罪行上。
 
 210
 00:07:41,090 --> 00:07:42,550
@@ -1253,7 +1253,7 @@ at someone in the first place
 253
 00:09:16,340 --> 00:09:17,930
 is for the purposes of self-defense.
-是为了自卫反击。
+是为了正当防卫。
 
 254
 00:09:17,930 --> 00:09:21,350
@@ -1288,7 +1288,7 @@ the court held that the defendant was a provocateur
 260
 00:09:31,020 --> 00:09:33,780
 by virtue of openly bringing a gun into a tavern.
-法庭于是认定被告的“挑衅行为”成立。
+而被法庭认定“挑衅行为”成立。
 
 261
 00:09:33,780 --> 00:09:35,497
@@ -1493,12 +1493,12 @@ or if there were illegal things going on,
 301
 00:10:47,800 --> 00:10:50,430
 those weren't the ones that were leading to the provocation,
-但并不是引起挑衅情形的行为，
+但并不是引起挑衅的行为，
 
 302
 00:10:50,430 --> 00:10:51,870
 their analysis to this exception
-那他们对（自卫中）挑衅情形的分析
+那他们对（本案中）挑衅行为的分析
 
 303
 00:10:51,870 --> 00:10:52,850
@@ -1508,7 +1508,7 @@ probably would have ended there.
 304
 00:10:52,850 --> 00:10:55,180
 And they would have found that provocation didn't apply.
-这样他们也就发现挑衅行为并不成立。
+他们发现挑衅行为并不成立。
 
 305
 00:10:55,180 --> 00:10:56,910
@@ -1523,7 +1523,7 @@ do we get to the next questions.
 307
 00:10:58,160 --> 00:11:01,550
 But, assuming that that first hurdle had been met,
-但是我们假定第一步条满足了，
+但是我们假定第一步满足了，
 
 308
 00:11:01,550 --> 00:11:03,700
@@ -1753,7 +1753,7 @@ but let's talk about what the relatively
 353
 00:12:36,400 --> 00:12:39,210
 uncontested testimony and these videos shows,
-无争议的证词并这些视频显示，
+无争议的证词，并且这些视频显示：
 
 354
 00:12:39,210 --> 00:12:40,960
@@ -1808,7 +1808,7 @@ and jogged towards one of the Car Source parking lots.
 364
 00:12:58,230 --> 00:13:00,420
 Kyle Rittenhouse apparently sees Joshua Ziminski
-显然，Kyle Rittenhouse看Joshua Ziminski
+显然，Kyle Rittenhouse看到Joshua Ziminski
 
 365
 00:13:00,420 --> 00:13:02,240
@@ -1868,16 +1868,17 @@ in quick succession, once in the back.
 376
 00:13:24,720 --> 00:13:27,570
 Kyle Rittenhouse then runs away from the scene.
-Kyle Rittenhouse随后逃离了现场。
+Kyle Rittenhouse随后逃离了开枪现场。
 
 377
 00:13:27,570 --> 00:13:30,007
 A loose crowd starts to follow Kyle Rittenhouse.
 松松散散的一群人开始追着Kyle Rittenhouse跑。
+
 378
 00:13:30,007 --> 00:13:32,710
 (man in crowd) That guy shot someone, get (beep).
-（人群中喊道）就是那个家伙开枪大人了，抓住（脏话消音）。
+（人群中喊道）就是那个家伙开枪打人了，抓住（脏话消音）。
 
 379
 00:13:32,710 --> 00:13:34,570
@@ -1897,7 +1898,7 @@ at one person who backs away.
 382
 00:13:37,740 --> 00:13:40,160
 He shoots at a man who does sort of a half jump kick,
-有个人大约半飞起朝他踢了上去，他就是开枪了，
+有个人大约半飞起朝他踢了上去，他于是开枪了，
 
 383
 00:13:40,160 --> 00:13:42,340
@@ -1957,12 +1958,12 @@ or to the side of Rittenhouse,
 394
 00:14:02,960 --> 00:14:04,710
 Rittenhouse then fires at Grosskreutz
-Rittenhouse朝Grosskreutz开枪
+Rittenhouse朝Grosskreutz开枪射击，
 
 395
 00:14:04,710 --> 00:14:06,650
 hitting him once in the bicep.
-射击其中一发打中了二头肌。
+其中一发打中了二头肌。
 
 396
 00:14:06,650 --> 00:14:08,070
@@ -1987,12 +1988,12 @@ But at base, this is a confusing in-charge situation,
 400
 00:14:15,350 --> 00:14:16,600
 even with video footage.
-这也是一种让人困惑纠结的情形。
+这也是一种让人困惑纠结的局面。
 
 401
 00:14:16,600 --> 00:14:19,460
 And it's not an easy case in either direction.
-从哪个方面来看，这也是不是一起显而易见的案子。
+从哪个方面来看，这也不是一起显而易见的案子。
 
 402
 00:14:19,460 --> 00:14:22,230
@@ -2007,7 +2008,7 @@ You can look at those facts and see a murder.
 404
 00:14:24,640 --> 00:14:26,800
 You can look at those facts and find self-defense.
-你可以看到正当防卫也是成立的。
+你也可以看到正当防卫。
 
 405
 00:14:26,800 --> 00:14:28,350
@@ -2057,7 +2058,7 @@ Now no blanket assertions can be made.
 414
 00:14:46,240 --> 00:14:47,970
 You have to run the self-defense analysis
-你必须针对每一次开抢事件
+你必须针对每一次开枪事件
 
 415
 00:14:47,970 --> 00:14:49,530
@@ -2072,7 +2073,7 @@ including the shots fired at the people
 417
 00:14:51,130 --> 00:14:53,220
 that weren't Rosenbaum, Huber or Grosskreutz.
-之外的开抢行为。
+之外的开枪行为。
 
 418
 00:14:53,220 --> 00:14:55,150
@@ -2092,7 +2093,7 @@ and decide that they were self-defense.
 421
 00:14:58,540 --> 00:15:00,400
 After all in the latter two incidents,
-毕竟在后面的两次冲突实践中，
+毕竟在后面的两次冲突事件中，
 
 422
 00:15:00,400 --> 00:15:01,640
@@ -2152,12 +2153,12 @@ after which Rittenhouse points his gun at him.
 433
 00:15:21,020 --> 00:15:22,980
 And then Rosenbaum moves at Rittenhouse
-而Rosenbaum很明显的还是
+而Rosenbaum还是朝着Rittenhouse跑去，
 
 434
 00:15:22,980 --> 00:15:24,720
 or apparently towards the gun,
-朝着Rittenhouse，或者说朝着枪跑了过去，
+或者很明显，是朝着枪跑去，
 
 435
 00:15:24,720 --> 00:15:27,290
@@ -2177,7 +2178,7 @@ self-serving testimony about the preceding incidents.
 438
 00:15:31,540 --> 00:15:33,650
 What I'm saying is that reasonable minds can differ.
-我想说的是有理的思维可以是不同的。
+我想说的是理性的思维可以是不同的。
 
 439
 00:15:33,650 --> 00:15:36,020
@@ -2207,7 +2208,7 @@ from several dozen police officers.
 444
 00:15:44,740 --> 00:15:47,040
 It's not surprising that the people who pursued Rittenhouse
-追着Rittenhouse跑的那些人认为他是主动开枪射击
+追着Rittenhouse跑的人们认为是他主动开枪射击
 
 445
 00:15:47,040 --> 00:15:49,010
@@ -2259,7 +2260,7 @@ Rittenhouse和被他枪杀的人
 454
 00:16:04,260 --> 00:16:07,160
 were simultaneously acting in self-defense.
-同时都在进行自卫行为。
+同时都在进行正当防卫。
 
 455
 00:16:07,160 --> 00:16:09,118
@@ -2284,7 +2285,7 @@ told that they had to determine
 459
 00:16:15,430 --> 00:16:17,090
 whether Rittenhouse's belief was reasonable
-来决定Rittenhouse当时的主管意识
+来决定Rittenhouse当时的认知
 
 460
 00:16:17,090 --> 00:16:18,360
@@ -2319,7 +2320,7 @@ came running to help when he heard the gunfire
 466
 00:16:28,010 --> 00:16:30,630
 that injured Gabby Giffords and killed six others in Tucson.
-此枪击事件造成Gabby Giffords受伤和6人死亡。
+此集会中的枪击事件造成Gabby Giffords受伤和6人死亡。
 
 467
 00:16:30,630 --> 00:16:32,870
@@ -2364,7 +2365,7 @@ should grapple with.
 475
 00:16:46,980 --> 00:16:49,670
 If Rosenbalm or Huber or Grosskreutz
-如果是Rosenbalm or Huber or Grosskreutz
+如果是Rosenbalm 或 Huber 或 Grosskreutz
 
 476
 00:16:49,670 --> 00:16:52,430
@@ -2379,12 +2380,12 @@ in using self-defense under the law.
 478
 00:16:54,300 --> 00:16:55,960
 Again, reasonable minds might differ on this.
-再声明一次，有理的思维在这种情况下可能是不同的。
+再声明一次，理性的思维在这种情况下可能是不同的。
 
 479
 00:16:55,960 --> 00:16:57,670
 But any system that incentivizes rule
-任何体质的规则都是
+任何体制的规则都是
 
 480
 00:16:57,670 --> 00:16:58,700
@@ -2489,7 +2490,7 @@ Just simply possessing a gun by itself,
 500
 00:17:44,800 --> 00:17:48,110
 doesn't prevent the application of self-defense.
-也不能阻止自卫行为的成立。
+也不能阻止正当防卫的成立。
 
 501
 00:17:48,110 --> 00:17:50,900
@@ -2504,22 +2505,22 @@ Many have claimed that it would have been impossible
 503
 00:17:52,820 --> 00:17:54,750
 for a black person to kill two people,
-抢杀了两个人，伤了一人
+枪杀了两个人，伤了一人
 
 504
 00:17:54,750 --> 00:17:56,900
 injured a third and fire at a fourth
-并向第四任开了枪，那么他一定不可能
+并向第四人开了枪，那么他一定不可能
 
 505
 00:17:56,900 --> 00:17:59,980
 and live to walk away from the scene as Rittenhouse did,
-像Rittenhouse这样走出法庭,
+像Rittenhouse那样被判无罪，
 
 506
 00:17:59,980 --> 00:18:02,430
 And then of course, to be found, not guilty.
-一定会被判有罪。
+并走出法庭。
 
 507
 00:18:02,430 --> 00:18:05,520
@@ -2534,7 +2535,7 @@ One way to look at this is by studying the data
 509
 00:18:07,210 --> 00:18:09,670
 on how jury's perceive self-defense.
-陪审团是如何判定自卫的相关数据的。
+陪审团是如何判定正当防卫方面的数据。
 
 510
 00:18:09,670 --> 00:18:11,560
@@ -2644,7 +2645,7 @@ were not self-defense.
 531
 00:18:58,410 --> 00:19:00,710
 There are lots of other reasonable people
-（同时，也）有很多理智的人
+（同时，也）有很多理性的人
 
 532
 00:19:00,710 --> 00:19:03,310
@@ -2674,7 +2675,7 @@ like the Kenosha jury did.
 537
 00:19:11,420 --> 00:19:13,910
 But the thing is, if reasonable people
-问题是，如果一些理智的人
+问题是，如果一些理性的人
 
 538
 00:19:13,910 --> 00:19:16,220
@@ -2744,7 +2745,7 @@ beyond a reasonable doubt.
 551
 00:19:40,310 --> 00:19:41,940
 And while you can't necessarily infer it
-尽管你不一定能从陪审团的决定就
+尽管你不一定能从陪审团的决定
 
 552
 00:19:41,940 --> 00:19:44,040
@@ -2839,12 +2840,12 @@ believed Rittenhouse's testimony
 570
 00:20:19,550 --> 00:20:21,290
 that they were going for his gun
-他们看准了他的抢，
+他们看准了他的枪，
 
 571
 00:20:21,290 --> 00:20:23,940
 or grabbed his gun in an attempt to take his gun
-或者要抓住他的抢夺过来
+或者要抓住他的枪夺过来
 
 572
 00:20:23,940 --> 00:20:25,520
@@ -2859,7 +2860,7 @@ And in a huge stretch, in Rittenhouse's speculation,
 574
 00:20:28,630 --> 00:20:31,470
 take his gun and use it against others.
-他们夺了他的抢之后还会危及其他人。
+他们夺了他的枪之后还会危及其他人。
 
 575
 00:20:31,470 --> 00:20:34,140
@@ -2889,7 +2890,7 @@ or what we call sine qua non causation,
 580
 00:20:41,850 --> 00:20:43,440
 it doesn't rise to the level of guilt
-根本达不到“毫无置疑的”
+根本达不到“毫无置疑”
 
 581
 00:20:43,440 --> 00:20:44,660
@@ -2899,7 +2900,7 @@ beyond a reasonable doubt.
 582
 00:20:44,660 --> 00:20:47,780
 It's necessary for a conviction, but it's not sufficient.
-对犯罪行为是必要，但不是充分的。
+这对犯罪行为是必要的，但不是充分的。
 
 583
 00:20:47,780 --> 00:20:49,597
@@ -2929,12 +2930,12 @@ The weak version is that the jury was correct
 588
 00:20:57,620 --> 00:20:59,190
 to find that there was reasonable doubt
-不是在进行自卫的论点
+不是正当防卫的论点
 
 589
 00:20:59,190 --> 00:21:01,830
 that Kyle Rittenhouse didn't use self-defense.
-持有一些些合理的怀疑。
+持有一些合理的怀疑。
 
 590
 00:21:01,830 --> 00:21:03,800
@@ -2989,7 +2990,7 @@ very well might've been different.
 600
 00:21:20,800 --> 00:21:23,210
 Stated differently, if this had occurred in Massachusetts,
-换句话说，如果此案发生的Massachusetts州，
+换句话说，如果此案发生在Massachusetts州，
 
 601
 00:21:23,210 --> 00:21:25,090
@@ -2999,7 +3000,7 @@ the law could have militated a different result.
 602
 00:21:25,090 --> 00:21:27,270
 Though, admittedly, maybe reasonable minds
-然而还是得承认，到时理智的人们
+然而还是得承认，到时理性的人们
 
 603
 00:21:27,270 --> 00:21:28,570
@@ -3050,6 +3051,7 @@ they should also be in favor of an alternate reality
 00:21:45,340 --> 00:21:48,570
 where Gaige Grosskreutz shot and killed Kyle Rittenhouse.
 Gaige Grosskreutz用枪射杀了Kyle Rittenhouse。
+
 613
 00:21:48,570 --> 00:21:49,403
 And remember, if you think that
@@ -3123,7 +3125,7 @@ And to the extent that you think Grosskreutz
 627
 00:22:17,120 --> 00:22:19,190
 would have crafted his testimony to support
-也会精心遣造他的证词来支持
+会精心遣造他的证词来支持
 
 628
 00:22:19,190 --> 00:22:20,630
@@ -3148,7 +3150,7 @@ So the ultimate takeaway here
 632
 00:22:26,130 --> 00:22:28,620
 is that these incidents are murky at best.
-这些冲突时间充其量都是模糊不清的。
+这些冲突事件充其量都是模糊不清的。
 
 633
 00:22:28,620 --> 00:22:30,640
@@ -3158,7 +3160,7 @@ Occurred in a jurisdiction with very broad
 634
 00:22:30,640 --> 00:22:32,700
 self-defense and firearm laws，
-自卫和携抢法律的州，
+自卫和携枪法律的州，
 
 635
 00:22:32,700 --> 00:22:35,130
@@ -3168,12 +3170,12 @@ the prosecution had a very high standard to meet.
 636
 00:22:35,130 --> 00:22:36,860
 And while we didn't cover it in this video,
-尽管我再本视频中没有提到，
+虽然我在本视频中没有提到，
 
 637
 00:22:36,860 --> 00:22:38,930
 the defendant put on a very good defense.
-辩方的表现也非常出色。
+但（其实）辩方的表现也非常出色。
 
 638
 00:22:38,930 --> 00:22:40,980
@@ -3379,7 +3381,7 @@ And while you're there, click on this playlist
 678
 00:23:56,970 --> 00:23:58,180
 with all my other real law reviews.
-观看我其他的所有对真实案件法律评鉴。
+观看我其他对真实案件的法律评鉴。
 
 679
 00:23:58,180 --> 00:24:01,113
