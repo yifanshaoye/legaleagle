@@ -1,0 +1,2148 @@
+1
+00:00:00,290 --> 00:00:02,350
+If you were following the trial of Kyle Rittenhouse on social media,
+如果您在社交媒体上持续追踪Kyle Rittenhouse案的审判，
+
+3
+00:00:03,150 --> 00:00:04,150
+you might've come to the conclusion:
+你可能得出如下的结论：
+
+4
+00:00:04,570 --> 00:00:05,570
+that Judge Schroeder was a hopelessly biased nutcase
+Schroeder法官是一个无可救药的偏袒狂，
+
+5
+00:00:07,870 --> 00:00:10,310
+who was making up all the rules to help Kyle Rittenhouse.
+他编造的所有规则都是在帮助Kyle Rittenhouse。
+
+7
+00:00:11,590 --> 00:00:12,590
+Was he?
+是这样吗？
+
+8
+00:00:12,473 --> 00:00:13,473
+(gentle music)
+（轻音乐）
+
+9
+00:00:16,440 --> 00:00:18,530
+Now most of the situations that people are objecting to
+如今人们反对的大多数情形
+
+10
+00:00:17,530 --> 00:00:20,180
+involve the application of the rules of evidence.
+涉及到证据（能否被呈上法庭）相关规则的适用。
+
+12
+00:00:20,910 --> 00:00:21,910
+In state court, the judg has broad discretion
+在州法庭上，法官有着很宽泛的自主裁量权：
+
+13
+00:00:22,980 --> 00:00:23,980
+to make rulings on the admissibility of evidence
+他能指定规则允许哪些证据被呈上法庭，
+
+14
+00:00:25,110 --> 00:00:26,110
+and how to run their courtroom.
+以及庭审该如何进行。
+
+15
+00:00:26,810 --> 00:00:29,500
+This includes things like which witnesses are allowed to testify,
+这还包括允许哪些证人出庭作证，
+
+17
+00:00:29,500 --> 00:00:32,260
+what the lawyers are allowed to ask, what topics are off limits,
+律师能问什么样的问题，提到哪些话题超出案件范围，
+
+19
+00:00:33,040 --> 00:00:34,040
+and a whole bunch of other things.
+以及一大推其他的事情。
+
+20
+00:00:34,980 --> 00:00:35,980
+And there were a few
+incidents that stuck out.
+
+21
+00:00:37,330 --> 00:00:38,330
+So let's talk about incident number one,
+
+22
+00:00:38,750 --> 00:00:39,750
+where Judge Schroeder ruled
+
+23
+00:00:39,920 --> 00:00:40,920
+that the prosecution
+could not call the people
+
+24
+00:00:41,500 --> 00:00:42,500
+that Kyle Rittenhouse
+shot and killed victims.
+
+25
+00:00:44,590 --> 00:00:45,590
+The defense attorneys argue
+
+26
+00:00:45,640 --> 00:00:46,640
+that using the word victim
+
+27
+00:00:47,010 --> 00:00:48,010
+could prejudice the jury
+against Rittenhouse.
+
+28
+00:00:49,180 --> 00:00:50,180
+Judge Schroeder said, "The word victim
+
+29
+00:00:50,640 --> 00:00:51,640
+is a loaded, loaded word."
+
+30
+00:00:52,470 --> 00:00:53,470
+When the judge ruled in
+favor of the defendant,
+
+31
+00:00:54,530 --> 00:00:55,530
+critics jumped to the conclusion
+
+32
+00:00:55,760 --> 00:00:56,760
+that Judge Schroeder was showing
+
+33
+00:00:56,940 --> 00:00:57,940
+inappropriate favoritism to Rittenhouse.
+
+34
+00:00:59,090 --> 00:01:00,090
+Now trial judges have lots of discretion.
+
+35
+00:01:01,360 --> 00:01:02,360
+The Wisconsin rules of evidence
+
+36
+00:01:02,700 --> 00:01:03,700
+mostly track the federal
+rules of evidence.
+
+37
+00:01:04,470 --> 00:01:05,470
+Even if particular evidence
+isn't explicitly ruled out,
+
+38
+00:01:06,810 --> 00:01:07,810
+judges have lots of leeway.
+
+39
+00:01:08,400 --> 00:01:09,400
+Wisconsin rule of evidence 904.03,
+
+40
+00:01:10,860 --> 00:01:11,860
+which is very similar
+
+41
+00:01:11,920 --> 00:01:12,920
+to federal rule of evidence 403 states,
+
+42
+00:01:14,397 --> 00:01:15,397
+"Although relevant,
+evidence may be excluded
+
+43
+00:01:16,240 --> 00:01:17,240
+if its probative value is
+substantially outweighed
+
+44
+00:01:18,280 --> 00:01:19,280
+by the danger of unfair prejudice,
+
+45
+00:01:19,890 --> 00:01:20,890
+confusion of the issues,
+or misleading the jury,
+
+46
+00:01:22,200 --> 00:01:23,200
+or by considerations of undue delay,
+
+47
+00:01:23,810 --> 00:01:24,810
+waste of time, or needless presentation
+
+48
+00:01:25,480 --> 00:01:26,480
+of cumulative evidence."
+
+49
+00:01:26,810 --> 00:01:27,810
+In other words, evidence
+might be minimally relevant,
+
+50
+00:01:29,200 --> 00:01:30,200
+but if the risk of prejudice is too great,
+
+51
+00:01:31,610 --> 00:01:32,610
+you shouldn't allow that
+evidence into the courtroom.
+
+52
+00:01:34,130 --> 00:01:35,130
+And the way that the victim
+is used in a courtroom
+
+53
+00:01:36,520 --> 00:01:37,520
+is different than what's used
+outside of the courthouse.
+
+54
+00:01:38,640 --> 00:01:39,640
+Rittenhouse claimed that he
+was acting in self-defense.
+
+55
+00:01:40,920 --> 00:01:41,920
+If he was right, the three men
+
+56
+00:01:42,450 --> 00:01:43,450
+would not be considered victims
+
+57
+00:01:43,770 --> 00:01:44,770
+in the legal sense of the word.
+
+58
+00:01:44,940 --> 00:01:45,940
+They would be assailants
+who attacked Rittenhouse.
+
+59
+00:01:47,150 --> 00:01:48,150
+People also suggested that Judge Schroeder
+
+60
+00:01:48,930 --> 00:01:49,930
+was making a special rules
+just for Rittenhouse,
+
+61
+00:01:50,960 --> 00:01:51,960
+but the judge's ruling was consistent
+
+62
+00:01:52,730 --> 00:01:53,730
+with the way that he
+handles criminal trials.
+
+63
+00:01:54,530 --> 00:01:55,530
+According to the Kenosha News,
+
+64
+00:01:56,327 --> 00:01:57,327
+"that is Schroeder standard practice
+
+65
+00:01:57,980 --> 00:01:58,980
+in criminal cases and is not unique
+
+66
+00:01:59,490 --> 00:02:00,490
+to this handling of the Rittenhouse case."
+
+67
+00:02:01,540 --> 00:02:02,540
+Criminal lawyers said these rulings
+
+68
+00:02:03,270 --> 00:02:04,270
+were commonplace in their
+jurisdictions as well.
+
+69
+00:02:05,310 --> 00:02:06,310
+Victims suggest guilt before it is proven
+
+70
+00:02:07,800 --> 00:02:08,800
+and prosecuting and
+convicting someone is hard,
+
+71
+00:02:10,480 --> 00:02:11,480
+as well it should be.
+
+72
+00:02:12,010 --> 00:02:13,010
+And of course, it's always okay to refer
+
+73
+00:02:13,870 --> 00:02:14,870
+to these people by their names,
+
+74
+00:02:15,170 --> 00:02:16,170
+which tactically can be even better
+
+75
+00:02:16,660 --> 00:02:17,660
+because it humanizes them.
+
+76
+00:02:17,830 --> 00:02:18,830
+In a court of law, a criminal defendant
+
+77
+00:02:19,300 --> 00:02:20,300
+must be given his full due process rights.
+
+78
+00:02:21,540 --> 00:02:22,540
+The whole object of a fair trial
+
+79
+00:02:22,900 --> 00:02:23,900
+is not to prejudge the defendant.
+
+80
+00:02:24,850 --> 00:02:25,850
+That means judges should
+be skeptical of evidence
+
+81
+00:02:26,437 --> 00:02:27,437
+that a jury could use to
+infer someone's guilt,
+
+82
+00:02:29,440 --> 00:02:30,440
+if that evidence is not truly
+probative of what happened.
+
+83
+00:02:32,040 --> 00:02:33,040
+And that brings us to the second incidence
+
+84
+00:02:33,470 --> 00:02:34,470
+where Judge Schroeder ruled
+
+85
+00:02:34,380 --> 00:02:35,380
+that the three men who were shot
+
+86
+00:02:35,950 --> 00:02:36,950
+could be referred to as
+rioters, looters, and arsonists.
+
+87
+00:02:38,550 --> 00:02:39,550
+Well, specifically what
+Judge Schroeder said
+
+88
+00:02:40,200 --> 00:02:41,200
+was let the evidence show
+what the evidence shows,
+
+89
+00:02:42,210 --> 00:02:43,210
+that any or one of these people
+
+90
+00:02:44,270 --> 00:02:45,270
+were engaged in arson,
+rioting, or looting,
+
+91
+00:02:46,370 --> 00:02:47,370
+that I'm not going to tell the defense
+
+92
+00:02:47,900 --> 00:02:48,900
+they can't call them that.
+
+93
+00:02:49,190 --> 00:02:50,190
+Prosecutor Thomas Binger said
+
+94
+00:02:50,310 --> 00:02:51,310
+that this was a double standard.
+
+95
+00:02:51,537 --> 00:02:52,537
+"I think it's the exact same issue.
+
+96
+00:02:52,900 --> 00:02:53,900
+The terms that I'm identifying here,
+
+97
+00:02:54,280 --> 00:02:55,280
+such as rioters, looters, arsonists,
+
+98
+00:02:56,120 --> 00:02:57,120
+are as loaded, if not more
+loaded, than the term victim."
+
+99
+00:02:58,620 --> 00:02:59,620
+First, a defendant
+generally gets to put on
+
+100
+00:03:00,920 --> 00:03:01,920
+whatever defense they want.
+
+101
+00:03:02,220 --> 00:03:03,220
+So a court should err on the side
+
+102
+00:03:04,390 --> 00:03:05,390
+of allowing a defendant to do something
+
+103
+00:03:06,200 --> 00:03:07,200
+and get more freedom than the prosecution.
+
+104
+00:03:09,030 --> 00:03:10,030
+But second of all, Judge
+Schroeder did not rule
+
+105
+00:03:11,030 --> 00:03:12,030
+that the defense could
+absolutely call them
+
+106
+00:03:12,950 --> 00:03:13,950
+rioters and looters.
+
+107
+00:03:13,910 --> 00:03:14,910
+He ruled that if the defense could prove
+
+108
+00:03:15,850 --> 00:03:16,850
+that the three men were
+rioting and looting,
+
+109
+00:03:18,350 --> 00:03:19,350
+then they could use those terms
+
+110
+00:03:19,630 --> 00:03:20,630
+during the closing argument.
+
+111
+00:03:20,930 --> 00:03:21,930
+And the judge prohibited the defense
+
+112
+00:03:22,340 --> 00:03:23,340
+from using those terms during
+their opening statement,
+
+113
+00:03:24,640 --> 00:03:25,640
+very similar to the ruling he
+made about the word victim.
+
+114
+00:03:27,210 --> 00:03:28,210
+Neither side could use those terms
+
+115
+00:03:28,520 --> 00:03:29,520
+unless they prove their case.
+
+116
+00:03:30,100 --> 00:03:31,100
+That takes us to incident number three,
+
+117
+00:03:31,690 --> 00:03:32,690
+where Judge Schroeder dressed down
+
+118
+00:03:33,470 --> 00:03:34,470
+the prosecutor saying,
+
+119
+00:03:34,447 --> 00:03:35,447
+"Don't get brazen with me!"
+
+120
+00:03:36,570 --> 00:03:37,570
+Judge Schroeder was again accused of bias
+
+121
+00:03:38,460 --> 00:03:39,460
+when he blew up at
+Prosecutor Thomas Binger.
+
+122
+00:03:40,300 --> 00:03:41,300
+First of all, yes,
+judges do yell at lawyers
+
+123
+00:03:43,010 --> 00:03:44,010
+and sometimes those lawyers deserve it.
+
+124
+00:03:45,380 --> 00:03:46,380
+Some do it more frequently than others.
+
+125
+00:03:46,980 --> 00:03:47,980
+And Kenosha lawyers say that Schroeder
+
+126
+00:03:48,560 --> 00:03:49,560
+is definitely a yeller.
+
+127
+00:03:50,300 --> 00:03:51,300
+Now second, the judge sent
+the jury out of the room
+
+128
+00:03:52,440 --> 00:03:53,440
+before admonishing the prosecutor.
+
+129
+00:03:53,900 --> 00:03:54,900
+And third, and most importantly,
+
+130
+00:03:55,760 --> 00:03:56,760
+we should look to what caused
+Schroeder to blow his top.
+
+131
+00:03:58,120 --> 00:03:59,120
+When Rittenhouse took to the stand
+
+132
+00:03:59,520 --> 00:04:00,520
+to testify in his own defense,
+
+133
+00:04:00,710 --> 00:04:01,710
+the prosecutor seemed to refer
+
+134
+00:04:01,980 --> 00:04:02,980
+to Rittenhouse's prior
+silence about what happened.
+
+135
+00:04:04,657 --> 00:04:05,657
+"Since August 25th, 2020,
+
+136
+00:04:06,200 --> 00:04:07,200
+this is the first time that
+you have told your story."
+
+137
+00:04:08,580 --> 00:04:09,580
+That's what the prosecutor
+asked on the stand.
+
+138
+00:04:10,640 --> 00:04:11,640
+The defense immediately objected
+
+139
+00:04:11,910 --> 00:04:12,910
+and Schroeder sustained the objection,
+
+140
+00:04:13,450 --> 00:04:14,450
+disallowing the question.
+
+141
+00:04:14,650 --> 00:04:15,650
+And there's good reason for that.
+
+142
+00:04:15,840 --> 00:04:16,840
+In criminal cases, the
+5th Amendment protects
+
+143
+00:04:18,010 --> 00:04:19,010
+against self-incrimination,
+among other things.
+
+144
+00:04:20,460 --> 00:04:21,460
+This means that a defendant's
+decision not to talk
+
+145
+00:04:23,650 --> 00:04:24,650
+can't be used against them.
+
+146
+00:04:25,630 --> 00:04:26,630
+The judge sustained the objection
+
+147
+00:04:26,950 --> 00:04:27,950
+because Binger's question
+was too close to the line.
+
+148
+00:04:29,560 --> 00:04:30,560
+But then Binger basically asked
+
+149
+00:04:30,920 --> 00:04:31,920
+the same question a different way.
+
+150
+00:04:32,670 --> 00:04:33,670
+He referred to the many months of people
+
+151
+00:04:34,050 --> 00:04:35,050
+talking about the case and said,
+
+152
+00:04:35,527 --> 00:04:36,527
+"After all of that now,
+
+153
+00:04:36,620 --> 00:04:37,620
+you are telling us your
+side of the story, correct?"
+
+154
+00:04:39,350 --> 00:04:40,350
+It seems that what Binger was getting at
+
+155
+00:04:40,900 --> 00:04:41,900
+was that because Rittenhouse
+hadn't testified before
+
+156
+00:04:43,670 --> 00:04:44,670
+and was now testifying after everyone else
+
+157
+00:04:46,260 --> 00:04:47,260
+had taken the stand, and
+after all of the evidence
+
+158
+00:04:48,720 --> 00:04:49,720
+had come out, that Rittenhouse was now
+
+159
+00:04:50,540 --> 00:04:51,540
+in a position where he
+could change his story
+
+160
+00:04:52,410 --> 00:04:53,410
+and craft it to be consistent
+
+161
+00:04:53,690 --> 00:04:54,690
+with everyone else's testimony.
+
+162
+00:04:55,470 --> 00:04:56,470
+But, of course, a question
+can be two things at once.
+
+163
+00:04:58,700 --> 00:04:59,700
+And if it's too prejudicial,
+
+164
+00:05:00,150 --> 00:05:01,150
+even if there is some
+probative value to it,
+
+165
+00:05:02,380 --> 00:05:03,380
+well, then the court
+can still disallow it,
+
+166
+00:05:04,500 --> 00:05:05,500
+which the court specifically had done it.
+
+167
+00:05:06,880 --> 00:05:07,880
+Schroeder had disallowed it.
+
+168
+00:05:07,840 --> 00:05:08,840
+So Judge Schroeder asked
+to the jury be removed
+
+169
+00:05:10,250 --> 00:05:11,250
+so that he could basically
+just yell at Binger.
+
+170
+00:05:12,910 --> 00:05:13,910
+- You need to account for this.
+
+171
+00:05:15,340 --> 00:05:16,340
+The problem is, this is a
+grave constitutional violation
+
+172
+00:05:19,100 --> 00:05:20,100
+for you to talk about
+the defendant's silence.
+
+173
+00:05:25,240 --> 00:05:26,240
+And that is, and you're right,
+
+174
+00:05:29,350 --> 00:05:30,350
+you're right on the borderline.
+
+175
+00:05:32,473 --> 00:05:33,473
+And you may be over.
+
+176
+00:05:35,720 --> 00:05:36,720
+But it better stop.
+
+177
+00:05:37,370 --> 00:05:38,370
+- In other words, it doesn't matter
+
+178
+00:05:38,590 --> 00:05:39,590
+whether you think
+Rittenhouse was guilty or not
+
+179
+00:05:40,240 --> 00:05:41,240
+in the context of a criminal trial,
+
+180
+00:05:41,860 --> 00:05:42,860
+his post-arrest silence
+couldn't be used against him.
+
+181
+00:05:44,360 --> 00:05:45,360
+Binger said he understood,
+
+182
+00:05:45,370 --> 00:05:46,370
+but then to add insult to injury,
+
+183
+00:05:47,210 --> 00:05:48,210
+he then plunged into a series of questions
+
+184
+00:05:49,040 --> 00:05:50,040
+about a matter the judge
+had already previously ruled
+
+185
+00:05:51,100 --> 00:05:52,100
+was off limits,
+
+186
+00:05:52,120 --> 00:05:53,120
+a video where Rittenhouse fantasized
+
+187
+00:05:54,060 --> 00:05:55,060
+about shooting alleged shoplifters,
+
+188
+00:05:56,250 --> 00:05:57,250
+which takes us incident number four.
+
+189
+00:05:58,060 --> 00:05:59,060
+The judge ruled that the prosecution
+
+190
+00:05:59,330 --> 00:06:00,330
+could not show a video
+showing Rittenhouse saying
+
+191
+00:06:01,310 --> 00:06:02,310
+that he wished he could shoot two people
+
+192
+00:06:03,180 --> 00:06:04,180
+leaving a CVS store.
+
+193
+00:06:04,550 --> 00:06:05,550
+Now the background is that before trial,
+
+194
+00:06:06,190 --> 00:06:07,190
+the prosecution moved
+to introduce evidence
+
+195
+00:06:08,060 --> 00:06:09,060
+of a video where Rittenhouse says
+
+196
+00:06:09,450 --> 00:06:10,450
+he wished he could shoot two people
+
+197
+00:06:11,060 --> 00:06:12,060
+who were suspected shoplifters.
+
+198
+00:06:12,800 --> 00:06:13,800
+The prosecutor said the video was relevant
+
+199
+00:06:14,420 --> 00:06:15,420
+to Rittenhouse's state of mind and motive.
+
+200
+00:06:16,070 --> 00:06:17,070
+He said, Rittenhouse was
+"essentially a teenage vigilante
+
+201
+00:06:19,240 --> 00:06:20,240
+involving himself in things
+that don't concern him."
+
+202
+00:06:21,640 --> 00:06:22,640
+Now the judge excluded the video
+
+203
+00:06:23,270 --> 00:06:24,270
+on the grounds that the video
+
+204
+00:06:24,190 --> 00:06:25,190
+wasn't made before the riots.
+
+205
+00:06:25,630 --> 00:06:26,630
+It was recorded two weeks earlier.
+
+206
+00:06:27,320 --> 00:06:28,320
+And the judge felt that in another video,
+
+207
+00:06:28,780 --> 00:06:29,780
+which allegedly showed
+Rittenhouse assaulting a girl
+
+208
+00:06:30,810 --> 00:06:31,810
+who was in a fight with her sister
+
+209
+00:06:32,500 --> 00:06:33,500
+was also not relevant
+to what Rittenhouse did
+
+210
+00:06:34,440 --> 00:06:35,440
+on August 20th, 2020 in Kenosha.
+
+211
+00:06:36,640 --> 00:06:37,640
+The video suggested Rittenhouse
+
+212
+00:06:37,940 --> 00:06:38,940
+had a propensity for violence,
+
+213
+00:06:39,210 --> 00:06:40,210
+but neither video had anything
+to do with the protest.
+
+214
+00:06:41,750 --> 00:06:42,750
+Now it's important to note that judges
+
+215
+00:06:43,270 --> 00:06:44,270
+are arbiters and are supposed to protect
+
+216
+00:06:45,050 --> 00:06:46,050
+the rights of a criminal defendant.
+
+217
+00:06:46,350 --> 00:06:47,350
+And certainly, these videos
+make Rittenhouse look bad,
+
+218
+00:06:49,510 --> 00:06:50,510
+but we aren't supposed to
+convict people for looking bad.
+
+219
+00:06:52,120 --> 00:06:53,120
+The judge was limiting the evidence
+
+220
+00:06:53,620 --> 00:06:54,620
+so that the only evidence the jury heard
+
+221
+00:06:55,060 --> 00:06:56,060
+had to do with what actually
+happened on August 20th
+
+222
+00:06:57,840 --> 00:06:58,840
+when Rittenhouse
+encountered the three men.
+
+223
+00:07:00,260 --> 00:07:01,260
+Now crim law 101 is that you can't,
+
+224
+00:07:02,100 --> 00:07:03,100
+or at least generally you can't
+
+225
+00:07:03,300 --> 00:07:04,300
+because there are always exceptions,
+
+226
+00:07:05,450 --> 00:07:06,450
+you can't use propensity evidence
+
+227
+00:07:07,360 --> 00:07:08,360
+to show someone committed
+a crime on a specific day.
+
+228
+00:07:10,670 --> 00:07:11,670
+You can show that they
+committed the crime at issue,
+
+229
+00:07:12,980 --> 00:07:13,980
+but you're not allowed to convict them
+
+230
+00:07:14,360 --> 00:07:15,360
+because they had a certain
+propensity towards crime.
+
+231
+00:07:17,080 --> 00:07:18,080
+Generally speaking, a criminal defendant
+
+232
+00:07:18,530 --> 00:07:19,530
+can be convicted just
+because they have a history
+
+233
+00:07:20,360 --> 00:07:21,360
+of doing bad things.
+
+234
+00:07:21,400 --> 00:07:22,400
+The state still has to prove
+
+235
+00:07:22,630 --> 00:07:23,630
+that they committed the crimes
+
+236
+00:07:23,690 --> 00:07:24,690
+they were charged with.
+
+237
+00:07:24,750 --> 00:07:25,750
+And so when Judge Schroeder yelled,
+
+238
+00:07:26,567 --> 00:07:27,567
+"Don't get brazen with me,"
+
+239
+00:07:27,910 --> 00:07:28,910
+it was the culmination of two mistakes
+
+240
+00:07:29,460 --> 00:07:30,460
+by the prosecutor
+referring to Rittenhouse's
+
+241
+00:07:31,260 --> 00:07:32,260
+post-arrest silence,
+after being told not to,
+
+242
+00:07:33,630 --> 00:07:34,630
+and referring to the CVS videotape,
+
+243
+00:07:35,360 --> 00:07:36,360
+despite being told not to.
+
+244
+00:07:37,240 --> 00:07:38,240
+Binger felt that the
+defense had opened the door
+
+245
+00:07:38,850 --> 00:07:39,850
+and it was now okay to go
+into that subject area.
+
+246
+00:07:41,150 --> 00:07:42,150
+But even if that were the case,
+
+247
+00:07:42,830 --> 00:07:43,830
+you still need to get permission
+
+248
+00:07:44,050 --> 00:07:45,050
+from the judge or face their wrath.
+
+249
+00:07:46,100 --> 00:07:47,100
+And Binger still had a
+hard time letting it go.
+
+250
+00:07:48,787 --> 00:07:49,787
+"This was the subject of emotion,
+
+251
+00:07:50,420 --> 00:07:51,420
+I'm well aware of that.
+
+252
+00:07:51,480 --> 00:07:52,480
+And the court left the door open."
+
+253
+00:07:53,390 --> 00:07:54,390
+But Judge Schroeder screamed,
+"For me, not for you."
+
+254
+00:07:56,660 --> 00:07:57,660
+You should have come and
+asked for reconsideration.
+
+255
+00:07:58,880 --> 00:07:59,880
+All trial lawyers know that if you appear
+
+256
+00:08:00,890 --> 00:08:01,890
+to disregard a judge's order,
+
+257
+00:08:02,430 --> 00:08:03,430
+you're probably going to get it.
+
+258
+00:08:03,840 --> 00:08:04,840
+And to the judge's credit,
+
+259
+00:08:04,950 --> 00:08:05,950
+well, we all got to see Schroeder
+
+260
+00:08:06,280 --> 00:08:07,280
+lambaste the prosecutors on the live feed.
+
+261
+00:08:08,130 --> 00:08:09,130
+The jury was sequestered away
+
+262
+00:08:09,490 --> 00:08:10,490
+and would have been completely unaware.
+
+263
+00:08:11,320 --> 00:08:12,320
+So it wouldn't have prejudiced
+the prosecution's case.
+
+264
+00:08:14,110 --> 00:08:15,110
+That takes us to incident number five.
+
+265
+00:08:15,720 --> 00:08:16,720
+Judge Schroeder allowed Rittenhouse
+
+266
+00:08:17,010 --> 00:08:18,010
+to pick his own jurors?
+
+267
+00:08:19,490 --> 00:08:20,490
+Well, not exactly.
+
+268
+00:08:20,810 --> 00:08:21,810
+Judge Schroeder had
+Rittenhouse blindly pick
+
+269
+00:08:23,000 --> 00:08:24,000
+the 12 jurors who would be
+deciding his case out of a hat.
+
+270
+00:08:26,200 --> 00:08:27,200
+It's weird, but in
+Wisconsin and other states,
+
+271
+00:08:28,350 --> 00:08:29,350
+the courts regularly seat more jurors
+
+272
+00:08:30,010 --> 00:08:31,010
+than necessary because
+at the end of trials,
+
+273
+00:08:31,980 --> 00:08:32,980
+it's common for jurors to
+be stricken from the panel
+
+274
+00:08:34,380 --> 00:08:35,380
+for various reasons.
+
+275
+00:08:35,340 --> 00:08:36,340
+This could be a for misconduct
+
+276
+00:08:37,580 --> 00:08:38,580
+or a juror having a family emergency
+
+277
+00:08:39,610 --> 00:08:40,610
+or just getting sick.
+
+278
+00:08:40,670 --> 00:08:41,670
+And the Rittenhouse trial,
+18 perspective jurors
+
+279
+00:08:43,000 --> 00:08:44,000
+heard all the evidence.
+
+280
+00:08:43,880 --> 00:08:44,880
+After closing arguments,
+
+281
+00:08:45,050 --> 00:08:46,050
+the judge told Rittenhouse
+to randomly pick
+
+282
+00:08:46,880 --> 00:08:47,880
+six numbers out of a tumbler.
+
+283
+00:08:48,600 --> 00:08:49,600
+Those six numbers were
+stricken from the panel.
+
+284
+00:08:51,320 --> 00:08:52,320
+The 12 who were left were his jury.
+
+285
+00:08:53,210 --> 00:08:54,210
+Whittling down the jurors is not unusual.
+
+286
+00:08:55,900 --> 00:08:56,900
+Picking them out of a
+hat is somewhat unusual.
+
+287
+00:08:58,860 --> 00:08:59,860
+Judge Schroeder said he'd have defendants
+
+288
+00:09:00,800 --> 00:09:01,800
+do the selection for years.
+
+289
+00:09:02,170 --> 00:09:03,170
+He said that responding to critics,
+
+290
+00:09:04,280 --> 00:09:05,280
+he started doing it after a case
+
+291
+00:09:05,820 --> 00:09:06,820
+where there was only one
+perspective black juror.
+
+292
+00:09:08,470 --> 00:09:09,470
+That person was eliminated from the jury
+
+293
+00:09:11,280 --> 00:09:12,280
+when the clerk picked that juror's name
+
+294
+00:09:13,300 --> 00:09:14,300
+out of the panel.
+
+295
+00:09:15,240 --> 00:09:16,240
+That resulted in a black defendant
+
+296
+00:09:16,770 --> 00:09:17,770
+being tried by an all white jury
+
+297
+00:09:19,020 --> 00:09:20,020
+as a result of one of
+the court administrators.
+
+298
+00:09:21,460 --> 00:09:22,460
+Judge Schroeder felt
+that that was not ideal.
+
+299
+00:09:23,970 --> 00:09:24,970
+He said, "It was a bad optic, I thought.
+
+300
+00:09:25,930 --> 00:09:26,930
+I think people feel better
+when they have control.
+
+301
+00:09:28,350 --> 00:09:29,350
+So ever since that case,
+
+302
+00:09:29,930 --> 00:09:30,930
+I have had an almost universal policy
+
+303
+00:09:31,640 --> 00:09:32,640
+of having the defendant do the picks.
+
+304
+00:09:33,550 --> 00:09:34,550
+When only one part of Judge
+Schroeder's explanation
+
+305
+00:09:36,180 --> 00:09:37,180
+was cherry picked and then
+circulated among social media,
+
+306
+00:09:39,030 --> 00:09:40,030
+it looked terrible.
+
+307
+00:09:40,690 --> 00:09:41,690
+But actually it seems like his explanation
+
+308
+00:09:42,940 --> 00:09:43,940
+makes perfect sense.
+
+309
+00:09:44,470 --> 00:09:45,470
+While this process is a
+little bit theatrical,
+
+310
+00:09:47,090 --> 00:09:48,090
+the reasons for doing so
+actually empower the defendants.
+
+311
+00:09:50,690 --> 00:09:51,690
+And it's hard to imagine that
+there would be any prejudice
+
+312
+00:09:53,880 --> 00:09:54,880
+to either the defense or the prosecution
+
+313
+00:09:56,190 --> 00:09:57,190
+as a result of this particular foible.
+
+314
+00:09:58,470 --> 00:09:59,470
+That takes us to incident number six.
+
+315
+00:10:00,380 --> 00:10:01,380
+The judge disallowed
+zooming in on a video.
+
+316
+00:10:03,400 --> 00:10:04,400
+Well, not exactly.
+
+317
+00:10:04,870 --> 00:10:05,870
+Judge Schroeder was mocked for sustaining
+
+318
+00:10:06,640 --> 00:10:07,640
+a defense objection to zooming in
+
+319
+00:10:08,120 --> 00:10:09,120
+on video footage via in iPad.
+
+320
+00:10:10,070 --> 00:10:11,070
+This was presented as
+either a nefarious plot
+
+321
+00:10:12,150 --> 00:10:13,150
+between the defense lawyers and the judge,
+
+322
+00:10:13,510 --> 00:10:14,510
+or is evidence that the judge
+was old and out of touch.
+
+323
+00:10:16,180 --> 00:10:17,180
+Now it's not that the judge said
+
+324
+00:10:17,610 --> 00:10:18,610
+that they couldn't zoom in at all.
+
+325
+00:10:19,940 --> 00:10:20,940
+The judge just ruled that the prosecution
+
+326
+00:10:21,420 --> 00:10:22,420
+could zoom in on images
+
+327
+00:10:22,670 --> 00:10:23,670
+as long as they had an expert testify
+
+328
+00:10:24,250 --> 00:10:25,250
+as to how the pinch and zoom
+worked on an Apple device,
+
+329
+00:10:27,500 --> 00:10:28,500
+to make sure that that process
+
+330
+00:10:29,330 --> 00:10:30,330
+wasn't adulterating the evidence.
+
+331
+00:10:31,570 --> 00:10:32,570
+Now, the prosecution
+couldn't produce an expert
+
+332
+00:10:33,590 --> 00:10:34,590
+on short notice so the jury
+wound up seeing the video
+
+333
+00:10:36,230 --> 00:10:37,230
+on a Windows machine hooked up to a TV.
+
+334
+00:10:38,410 --> 00:10:39,410
+Now this was kind of a
+ticky-tacky objection
+
+335
+00:10:41,410 --> 00:10:42,410
+by the defense, but in fairness,
+
+336
+00:10:43,850 --> 00:10:44,850
+lawyers are required to
+authenticate an item of evidence.
+
+337
+00:10:47,000 --> 00:10:48,000
+And this applies to every piece
+of evidence it's introduced,
+
+338
+00:10:49,130 --> 00:10:50,130
+including government records,
+
+339
+00:10:50,280 --> 00:10:51,280
+business records, photographs,
+video, audio, you name it.
+
+340
+00:10:53,010 --> 00:10:54,010
+But look, the prosecution
+has the burden of proof.
+
+341
+00:10:55,330 --> 00:10:56,330
+So it's on them to make sure
+
+342
+00:10:56,960 --> 00:10:57,960
+that what they're doing,
+if they are changing
+
+343
+00:10:58,760 --> 00:10:59,760
+the evidence in any way,
+
+344
+00:11:00,450 --> 00:11:01,450
+isn't adulterating the
+underlying evidence.
+
+345
+00:11:02,550 --> 00:11:03,550
+And of course, there was also an issue
+
+346
+00:11:04,470 --> 00:11:05,470
+with drone footage
+where a file was smaller
+
+347
+00:11:08,020 --> 00:11:09,020
+than it should have been.
+
+348
+00:11:09,280 --> 00:11:10,280
+And that takes us to the next incident
+
+349
+00:11:11,240 --> 00:11:12,240
+where the judge apparently asked the jury
+
+350
+00:11:13,400 --> 00:11:14,400
+to applaud for a defense witness.
+
+351
+00:11:15,570 --> 00:11:16,570
+Well, sort of.
+
+352
+00:11:16,580 --> 00:11:17,580
+This one is interesting.
+
+353
+00:11:17,600 --> 00:11:18,600
+On Veteran's Day, Judge
+Schroeder decided to recognize
+
+354
+00:11:19,760 --> 00:11:20,760
+anyone in the courtroom who
+had served in the armed forces.
+
+355
+00:11:22,267 --> 00:11:23,267
+"I just want to observe
+that it's Veterans Day,
+
+356
+00:11:24,090 --> 00:11:25,090
+and any veterans in the room?
+
+357
+00:11:25,470 --> 00:11:26,470
+On the jury or anywhere else?"
+
+358
+00:11:27,250 --> 00:11:28,250
+When no one responded, the judge said,
+
+359
+00:11:28,837 --> 00:11:29,837
+"Well, that's unusual not to
+have at least someone in here,
+
+360
+00:11:31,270 --> 00:11:32,270
+but Dr. Black is, what branch?"
+
+361
+00:11:34,010 --> 00:11:35,010
+He was referring to the
+defense witness, John Black,
+
+362
+00:11:36,250 --> 00:11:37,250
+who was about to take the stand.
+
+363
+00:11:38,120 --> 00:11:39,120
+Black is a use of force expert
+
+364
+00:11:39,730 --> 00:11:40,730
+who told the judge that
+he had served in the army.
+
+365
+00:11:41,890 --> 00:11:42,890
+The judge then said,
+
+366
+00:11:42,723 --> 00:11:43,723
+"Okay, I think we can
+have a round of applause
+
+367
+00:11:44,500 --> 00:11:45,500
+to the people who have
+served our country."
+
+368
+00:11:46,800 --> 00:11:47,800
+The entire courtroom applauded,
+
+369
+00:11:48,080 --> 00:11:49,080
+including members of the jury.
+
+370
+00:11:49,760 --> 00:11:50,760
+This one was just sloppy
+and completely unnecessary.
+
+371
+00:11:52,750 --> 00:11:53,750
+It seemed have the unintended effect
+
+372
+00:11:54,850 --> 00:11:55,850
+of bolstering the reputation of Dr. Black
+
+373
+00:11:57,220 --> 00:11:58,220
+before he took the stand,
+
+374
+00:11:58,450 --> 00:11:59,450
+who happened to be a defense witness,
+
+375
+00:12:00,350 --> 00:12:01,350
+but it was just completely unnecessary
+
+376
+00:12:01,890 --> 00:12:02,890
+to run that risk for a
+little grand standing
+
+377
+00:12:05,310 --> 00:12:06,310
+in this particular case.
+
+378
+00:12:06,520 --> 00:12:07,520
+And then there were accusations
+
+379
+00:12:07,670 --> 00:12:08,670
+that Judge Schroeder was
+just unusually chummy
+
+380
+00:12:09,680 --> 00:12:10,680
+with Rittenhouse and wanted
+to see him acquitted.
+
+381
+00:12:12,320 --> 00:12:13,320
+For example, there's
+a picture of the judge
+
+382
+00:12:15,540 --> 00:12:16,540
+and Rittenhouse being very close together
+
+383
+00:12:17,450 --> 00:12:18,450
+as they're watching a video.
+
+384
+00:12:19,140 --> 00:12:20,140
+But equally likely is that Schroeder
+
+385
+00:12:20,570 --> 00:12:21,570
+was just a relatively pro defendant judge.
+
+386
+00:12:23,720 --> 00:12:24,720
+And of course there's a wide disparity
+
+387
+00:12:25,440 --> 00:12:26,440
+between criminal defendants
+who are remanded to custody
+
+388
+00:12:29,230 --> 00:12:30,230
+and those who are out on
+their own recognizance.
+
+389
+00:12:31,620 --> 00:12:32,620
+Rittenhouse was able to
+attend, not in shackles,
+
+390
+00:12:35,150 --> 00:12:36,150
+not going back to prison and in a suit.
+
+391
+00:12:38,090 --> 00:12:39,090
+We don't wanna make things
+too easy on the prosecutor.
+
+392
+00:12:40,090 --> 00:12:41,090
+And maybe the answer here
+is that criminal defendants
+
+393
+00:12:42,400 --> 00:12:43,400
+more often should get
+the benefit of the doubt
+
+394
+00:12:44,480 --> 00:12:45,480
+like Rittenhouse did.
+
+395
+00:12:46,070 --> 00:12:47,070
+But more pragmatically,
+if a judge doesn't err
+
+396
+00:12:48,270 --> 00:12:49,270
+on the side of the defense,
+
+397
+00:12:49,670 --> 00:12:50,670
+they are likely to see an appeal
+
+398
+00:12:51,110 --> 00:12:52,110
+and no trial judge wants
+to, A, get reversed
+
+399
+00:12:53,670 --> 00:12:54,670
+by the court of appeals, and
+B, have to retry a defendant.
+
+400
+00:12:57,020 --> 00:12:58,020
+And that's one reason why
+they might err on the side
+
+401
+00:12:59,900 --> 00:13:00,900
+of disallowing evidence
+that might otherwise come in
+
+402
+00:13:03,490 --> 00:13:04,490
+to make sure that there aren't other
+
+403
+00:13:05,160 --> 00:13:06,160
+constitutional violations.
+
+404
+00:13:06,620 --> 00:13:07,620
+And for better or worse,
+
+405
+00:13:07,453 --> 00:13:08,453
+Schroeder was clearly paying attention
+
+406
+00:13:08,910 --> 00:13:09,910
+to how the trial was covered.
+
+407
+00:13:11,017 --> 00:13:12,017
+"When I talked about
+problems with the media,
+
+408
+00:13:12,650 --> 00:13:13,650
+when this trial started,
+
+409
+00:13:14,020 --> 00:13:15,020
+we're there in part, not fully,
+
+410
+00:13:15,360 --> 00:13:16,360
+but in part, because of
+grossly irresponsible handling
+
+411
+00:13:17,860 --> 00:13:18,860
+of what comes out of this trial.
+
+412
+00:13:19,120 --> 00:13:20,120
+I will tell you this,
+
+413
+00:13:20,190 --> 00:13:21,190
+I'm going to think long and hard
+
+414
+00:13:21,410 --> 00:13:22,410
+about live television of
+a trial again, next time."
+
+415
+00:13:24,047 --> 00:13:25,047
+"I don't know, I've always
+been a firm believer in it
+
+416
+00:13:26,710 --> 00:13:27,710
+because I think the people
+should be able to see
+
+417
+00:13:29,340 --> 00:13:30,340
+what's going on, but what I see,
+
+418
+00:13:31,090 --> 00:13:32,090
+what's being done is
+really quite frightening.
+
+419
+00:13:33,300 --> 00:13:34,300
+Frightening, that's
+the right word for it."
+
+420
+00:13:35,030 --> 00:13:36,030
+Now I can't imagine how he
+possibly got that impression,
+
+421
+00:13:37,820 --> 00:13:38,820
+which takes us to the final incidents.
+
+422
+00:13:39,560 --> 00:13:40,560
+Schroeder had a racist
+cell phone ringtone.
+
+423
+00:13:41,410 --> 00:13:42,410
+Come on, people.
+
+424
+00:13:42,620 --> 00:13:43,620
+A cell phone ringtone, really?
+
+425
+00:13:45,200 --> 00:13:46,200
+Come on, you're better than this.
+
+426
+00:13:46,900 --> 00:13:47,900
+But also, Judge Schroeder, dude,
+
+427
+00:13:49,280 --> 00:13:50,280
+turn your cell phone off in court.
+
+428
+00:13:50,610 --> 00:13:51,610
+That is rule number one.
+
+429
+00:13:52,060 --> 00:13:53,060
+Now there is no doubt that Schroeder
+
+430
+00:13:54,280 --> 00:13:55,280
+is a crotchety old man,
+
+431
+00:13:56,050 --> 00:13:57,050
+but maybe that's just
+because his cell phone plan
+
+432
+00:13:58,230 --> 00:13:59,230
+is too expensive.
+
+433
+00:13:59,063 --> 00:14:00,063
+He's getting calls all the time,
+
+434
+00:14:00,180 --> 00:14:01,180
+even when he's in court.
+
+435
+00:14:01,360 --> 00:14:02,360
+He could have saved a ton of money
+
+436
+00:14:02,550 --> 00:14:03,550
+by switching to today's
+sponsor Ting Mobile.
+
+437
+00:14:04,650 --> 00:14:05,650
+In fact, I personally
+switched to Ting Mobile
+
+438
+00:14:06,460 --> 00:14:07,460
+and save literally hundreds
+of dollars a month.
+
+439
+00:14:08,440 --> 00:14:09,440
+I'm not kidding.
+
+440
+00:14:09,273 --> 00:14:10,273
+Why?
+
+441
+00:14:10,106 --> 00:14:11,106
+Well, because of this.
+
+442
+00:14:10,939 --> 00:14:11,939
+Yes, that is a real cell phone bill
+
+443
+00:14:12,090 --> 00:14:13,090
+that I got with my previous provider.
+
+444
+00:14:13,520 --> 00:14:14,520
+And that's why I personally
+switched to Ting.
+
+445
+00:14:15,460 --> 00:14:16,460
+And Ting Mobile has three brand new plans
+
+446
+00:14:17,240 --> 00:14:18,240
+to make sure that never happens again.
+
+447
+00:14:18,850 --> 00:14:19,850
+And all the Ting's plans
+have unlimited talk and text
+
+448
+00:14:21,170 --> 00:14:22,170
+starting at just $10 per month.
+
+449
+00:14:22,520 --> 00:14:23,520
+So you can use the flex plan
+
+450
+00:14:23,930 --> 00:14:24,930
+and only pay for what you use,
+
+451
+00:14:25,600 --> 00:14:26,600
+which is especially great
+
+452
+00:14:26,433 --> 00:14:27,433
+if you're around wifi all day,
+
+453
+00:14:27,670 --> 00:14:28,670
+but you can also choose a
+set of 12 gigabytes of data
+
+454
+00:14:30,390 --> 00:14:31,390
+for $35 or get a full
+unlimited plan for $45 a month.
+
+455
+00:14:34,330 --> 00:14:35,330
+Switching plans is really easy
+
+456
+00:14:35,850 --> 00:14:36,850
+because you can keep
+your same phone number
+
+457
+00:14:37,460 --> 00:14:38,460
+and use pretty much any phone.
+
+458
+00:14:39,020 --> 00:14:40,020
+And the service is great too
+
+459
+00:14:40,250 --> 00:14:41,250
+because Ting partners with
+several massive networks,
+
+460
+00:14:42,510 --> 00:14:43,510
+probably the very same one
+
+461
+00:14:43,870 --> 00:14:44,870
+that you're using right now
+
+462
+00:14:44,880 --> 00:14:45,880
+but at a huge discount.
+
+463
+00:14:46,220 --> 00:14:47,220
+They literally use the
+same infrastructure.
+
+464
+00:14:48,110 --> 00:14:49,110
+Now I actually can't tell you which ones,
+
+465
+00:14:50,070 --> 00:14:51,070
+because I always respect contracts,
+
+466
+00:14:51,960 --> 00:14:52,960
+but let's just say that my
+service hasn't changed at all.
+
+467
+00:14:54,940 --> 00:14:55,940
+And Ting still gives you the option
+
+468
+00:14:56,270 --> 00:14:57,270
+to just pay for what you
+use with their flex plan.
+
+469
+00:14:58,170 --> 00:14:59,170
+Now they just give you the possibility
+
+470
+00:14:59,730 --> 00:15:00,730
+of an unlimited plan as well.
+
+471
+00:15:01,320 --> 00:15:02,320
+So if you want unlimited,
+
+472
+00:15:02,690 --> 00:15:03,690
+you can go absolutely crazy.
+
+473
+00:15:04,310 --> 00:15:05,310
+And it's incredibly
+easy to transfer service
+
+474
+00:15:05,900 --> 00:15:06,900
+just by simply ordering a Ting SIM card,
+
+475
+00:15:07,810 --> 00:15:08,810
+popping it in and setting it up.
+
+476
+00:15:09,360 --> 00:15:10,360
+No phone calls even required.
+
+477
+00:15:10,920 --> 00:15:11,920
+But if you do wanna talk to Ting,
+
+478
+00:15:12,120 --> 00:15:13,120
+since they don't have
+brick and mortar stores,
+
+479
+00:15:13,570 --> 00:15:14,570
+you can call them up and immediately talk
+
+480
+00:15:14,890 --> 00:15:15,890
+to real human beings or chat
+via instant message or Discord.
+
+481
+00:15:18,610 --> 00:15:19,610
+You'll talk to real human
+beings, not AI robots.
+
+482
+00:15:21,120 --> 00:15:22,120
+So if you'd like to give Ting a try,
+
+483
+00:15:22,690 --> 00:15:23,690
+Legal Eagles will get a
+free $25 service credit
+
+484
+00:15:25,440 --> 00:15:26,440
+that could cover two months of service.
+
+485
+00:15:27,420 --> 00:15:28,420
+All you have to do is just
+click on the link below
+
+486
+00:15:29,070 --> 00:15:30,070
+and give it a try.
+
+487
+00:15:29,950 --> 00:15:30,950
+You can even use your last bill to compare
+
+488
+00:15:31,720 --> 00:15:32,720
+just how much you would save.
+
+489
+00:15:32,920 --> 00:15:33,920
+So click on the link
+that's onscreen right now,
+
+490
+00:15:35,070 --> 00:15:36,070
+or the one that's in the description.
+
+491
+00:15:36,600 --> 00:15:37,600
+You'll get a free $25 service credit.
+
+492
+00:15:38,730 --> 00:15:39,730
+Plus clicking on those links
+really helps out this channel.
+
+493
+00:15:41,730 --> 00:15:42,730
+And while you're there,
+
+494
+00:15:42,563 --> 00:15:43,563
+check out this playlist with
+all my other real law reviews
+
+495
+00:15:44,420 --> 00:15:45,420
+on the most important
+legal issues of the day.
+
+496
+00:15:46,080 --> 00:15:47,080
+So click on this playlist
+or I'll see you in court.
